@@ -1,0 +1,45 @@
+{
+    "login": {
+        "title": "Gabung"
+    },
+    "register": {
+        "title": "Daftar"
+        
+    },
+
+    "login-register:welcome": "Selamat datang di DAK!",
+    "login-register:script": "Bergabunglah sekarang untuk mendapatkan teman baru, membuat grup, menambahkan foto, dan lainnya.",
+    "login-register:password_placeHolder": "Kata sandi",
+    "login-register:forgot_password": "Tidak ingat kata sandi",
+    "login-register:loginWith": "Masuk dengan",
+    "login-register:hadPassword": "Sudah punya akun?",
+    "login-register:noPassword": "Tidak punya akun?",
+    "login-register:fullName": "Nama lengkap",
+    "login-register:userName": "Nama belakang",
+    "login-register:email": "Surel",
+    "login-register:password_authentication_placeHolder": "Konfirmasi sandi",
+    "login-register:phone-number": "Nomor telepon",
+    "login-register:policyMessage": "Harap setujui Syarat dan Ketentuan kami.",
+    "login-register:agreeMessage": "Saya setuju dengan situs web Anda",
+    "login-register:policyLink": "Syarat dan Ketentuan dan Kebijakan Privasi.",
+    "login-register:success_message": "Login berhasil",
+    "login-register:error_message": "Akun tidak valid, silakan periksa email atau nomor telepon dan kata sandi Anda",
+    "login-register:save-account": "Simpan akun?",
+    "login-register:gender": "Jenis kelamin",
+    "login-register:male": "Pria",
+    "login-register:female": "Perempuan",
+
+    "login-register:errors_message_register": {
+        "1": "Bagian ini diperlukan",
+        "2": "Nama pengguna harus lebih pendek dari atau sama dengan 20 karakter",
+        "3": "Nama harus lebih pendek dari atau sama dengan 20 karakter",
+        "4": "Nama pengguna sudah ada",
+        "5": "silakan isi alamat email",
+        "6": "email sudah ada",
+        "7": "Kata sandi harus minimal 8 karakter, termasuk setidaknya 1 huruf besar, 1 huruf kecil, angka dan 1 karakter khusus",
+        "8": "Konfirmasi kata sandi tak tertandingi",
+        "9": "Tanggal tidak berlaku"
+    },
+
+    "login-register:success_message_register": "Daftar berhasil"
+}

@@ -1,0 +1,32 @@
+{
+    "popupCreate_notFound": "ไม่พบโพสต์",
+    "popupCreate_title": "สร้างโพสต์เสนอราคา",
+    "popupCreate_bidding_fee": "ค่าธรรมเนียมการประมูล",
+    "popupCreate_input_bidding_fee": "ค่าธรรมเนียมแรกเข้า",
+    "popupCreate_view_fee": "ดูค่าธรรมเนียม",
+    "popupCreate_input_view_fee": "ค่าธรรมเนียมแรกเข้า",
+    "popupCreate_priority": "ลำดับความสำคัญ",
+    "popupCreate_continue_btn": "ดำเนินการต่อ",
+    "popupCreate_bidding_post": "โพสต์ประมูล",
+    "popupCreate_input_URL": "ใส่ URL",
+    "popupCreate_post_date": "โพสต์ที่",
+    "popupCreate_post_by": "โดย",
+    "popupCreate_accept_bidding": "ยอมรับการเสนอราคา",
+    "popupCreate_accept_btn": "ยอมรับ",
+
+    "popupDeleted_title": "คุณต้องการลบโพสต์หรือไม่?",
+    "popupDeleted_yes_btn": "ใช่",
+    "popupDeleted_no_btn": "ไม่",
+    "popupDeleted_delete_success": "โพสต์ถูกลบ",
+
+    "popupEdit_title": "แก้ไขโพสต์เสนอราคา",
+    "popupEdit_bidding_fee": "ค่าธรรมเนียมการประมูล",
+    "popupEdit_input_fee": "ค่าธรรมเนียมแรกเข้า",
+    "popupEdit_view_fee": "ดูค่าธรรมเนียม",
+    "popupEdit_priority": "ลำดับความสำคัญ",
+    "popupEdit_save_btn": "บันทึก",
+    "popupEdit_success": "ความสำเร็จ",
+
+    "popupSuccess_bidding": "โพสต์ประมูล",
+    "popupSuccess_success": "ความสำเร็จ"
+}

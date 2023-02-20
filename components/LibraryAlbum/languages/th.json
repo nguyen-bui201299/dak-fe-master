@@ -1,0 +1,10 @@
+{
+    "libraryAlbum_add_success": "เพิ่มในแกลเลอรี Success",
+    "libraryAlbum_add_fail": "เพิ่มในแกลเลอรี ล้มเหลว",
+    "libraryAlbum_title": "เพิ่มในแกลเลอรี่",
+    "libraryAlbum_createLibrary_btn": "สร้างแกลลอรี่",
+    "libraryAlbum_addToLibrary_btn": "เพิ่มในแกลเลอรี่",
+    "libraryAlbum_check_post": "มีโพสต์ในอัลบั้มนี้แล้ว",
+    "libraryAlbum_select_album": "โปรดเลือกอย่างน้อย 1 อัลบั้ม"
+
+}

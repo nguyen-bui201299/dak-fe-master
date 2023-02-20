@@ -1,0 +1,26 @@
+{
+    "popup_send_money_title": "Maglipat ng pera sa mga kaibigan",
+    "popup_send_money_amount_to_transfer": "Halaga",
+    "popup_send_money_recipient_wallet_address": "Address ng wallet ng tatanggap",
+    "popup_send_money_recipient_wallet_address_placeholder": "Idikit ang address ng tatanggap ng wallet dito",
+    "popup_send_money_money_transfer_content": "Nilalaman",
+    "popup_send_money_money_transfer_content_placeholder": "Maglagay ng nilalaman ng money transfer...",
+    "popup_send_money_button_next": "Susunod",
+
+    "popup_send_money_warning_address": "Naglagay ka ng maling wallet address",
+    "popup_send_money_warning_not_enough_point": "Hindi sapat na punto",
+    "popup_send_money_warning_limt_character": "Ang paglipat ng nilalaman ay hindi maaaring lumampas sa 120 mga character",
+    "popup_send_money_warning_note": "Di-wastong character",
+    "popup_send_money_success_text": "Matagumpay na paglipat",
+
+    "popup_send_money_remittance_confirmation": "Pagkumpirma ng remittance",
+    "popup_send_money_recipients_name": "pangalan ng taga-tanggap",
+    "popup_send_money_transaction_fee": "Bayad sa transaksyon",
+    "popup_send_money_the_sender_pays": "Nagbabayad ang nagpadala",
+    "popup_send_money_recipient_pays": "Nagbabayad ang tatanggap",
+    "popup_send_money_confirm": "Kumpirmahin",
+
+    "popup_send_money_receiverAddress": "Mangyaring I-input ang Receiver Address",
+    "popup_send_money_errorReceiverAmount": "Mangyaring Mag-input ng Halaga",
+    "popup_send_money_sendSuccess": "Ipadala ang Tagumpay"
+}

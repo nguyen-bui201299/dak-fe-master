@@ -1,0 +1,14 @@
+{
+    "form_create_post_title1": "分享",
+    "form_create_post_title2": "标记朋友",
+    "form_create_post_title3": "更改隐私",
+    "form_create_post_title4": "通过消息分享",
+    "form_create_post_link_content": "在此处粘贴文章链接",
+    "form_create_post_button_name": "分享",
+    "form_create_post_public": "上市",
+    "form_create_post_privicy": "只有我",
+    "form_create_post_search_placeholder": "找朋友 ...",
+    "form_create_post_noti_success": "分享成功",
+    "form_create_post_tags_title": "标签：",
+    "form_create_post_send_title": "发送至: "
+}

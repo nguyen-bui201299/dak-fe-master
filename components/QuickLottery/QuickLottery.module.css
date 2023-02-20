@@ -1,0 +1,259 @@
+.quick__lottery {
+    margin-top: 20px;
+    background-color: var(--white-color);
+    display: inline-block;
+    width: 100%;
+    border-radius: 20px;
+    padding: 10px 9px 0 9px;
+    box-shadow: 2px 2px 5px 0px var(--box-shadow-color);
+    margin-left: -10px;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none; 
+    -moz-user-select: none;    
+    -ms-user-select: none;     
+    -o-user-select: none;
+    user-select: none;
+    -webkit-appearance: none;
+}
+
+.quick__lottery__title {
+    margin: 0.5rem;
+    color: var(--main-color);
+    display: flex;
+    font-size: 18px;
+}
+
+.Box__Popup__Lottery{
+    border-top: 2px solid var(--main-color);
+    position: relative;
+    width: 100%;
+    margin: 1rem 0;
+    padding-top: 1.5rem;
+    text-align: center;
+}
+
+.Box__Popup__Lottery__Title{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color: var(--text-color);
+    padding: 0;
+}
+
+.Box__Popup__Lottery__Title__h4{
+    margin: 2% 0% 3% 0%;
+}
+
+.Box__Popup__Lottery__Title__h5{
+    position: relative;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    color: var(--main-color);
+}
+
+.Box__Popup__Lottery__Title__h5__span{
+    position: relative;
+    color: var(--main-color);
+    margin-left: 3%;
+}
+
+.Rule__Lottery{
+    position: absolute;
+    display: flex;
+    top: 4%;
+    right: 7%;
+    color: var(--text-color);
+    font-size: var(--text-fontSize);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+/* Computer Lottery */
+.Computer__Lottery{
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0.8rem 0 0.8rem 0.3rem;
+}
+
+.Computer__Lottery__ul{
+    position: relative;
+    width: 100%;
+    display: inline-flex;
+    margin: 0;
+    padding: 0;
+    gap: 0rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.Computer__Lottery__li{
+    list-style-type: none;
+    border: 2px solid var(--main-color);
+    background-color: var(--box-background-color);
+    margin: 0rem 0rem 0rem -0.3rem;
+    padding: 0.54rem 0.54rem;
+    border-radius: 50%;
+}
+
+.Computer__Lottery__li__number{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    color: var(--text-color);
+    font-size: var(--text-fontSize);
+    text-align: center;
+}
+
+.Hr__Lottery{
+    position: relative;
+    width: 60%;
+    margin: 0% 0% 0% 20%;
+    padding: 0;
+}
+
+/* Player Lottery */
+.PLayer__Lottery{
+    position: relative;
+    width: 100%;
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.Player__Lottery__ul{
+    position: relative;
+    width: 100%;
+    display: inline-flex;
+    margin: 0rem;
+    padding: 0.5rem;
+    gap: 0rem;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2px;
+}
+
+.Player__Lottery__li{
+    list-style-type: none;
+    background-color: var(--main-text);
+    margin: 0rem 0rem 0rem -0.3rem;
+    border-radius: 50%;
+    padding: 0.35px;
+}
+
+.Player__Lottery__li__number__input{
+    position: relative;
+    color: var(--default-color);
+    font-size: var(--text-fontSize);
+    text-align: center;
+    width: 2.4rem;
+    height: 2.4rem;
+    border-radius: 50%;
+    border: 2px solid var(--default-color);
+}
+
+/* Chrome, Safari, Edge, Opera */
+.Player__Lottery__li__number__input::-webkit-outer-spin-button,
+.Player__Lottery__li__number__input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.Player__Lottery__li__number__input{
+  -moz-appearance: textfield;
+}
+
+.Player__Lottery__li__number__input::placeholder{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    opacity: 0.5;
+    font-size: var(--text-fontSize);
+    color: var(--youtube-color);
+    margin-top: 5%;  
+}
+
+.Button__Check__Lottery{
+    transition: all .2s ease-in-out 0s;
+    background-color: var(--main-color);
+    margin: 0.5rem auto;
+    padding: 2px;
+    border-radius: 26px;
+    border: transparent;
+    color: #000;
+    font-weight: 600;
+    max-width: 160px;
+    width: 100%;
+    height: 40px;
+    cursor: pointer;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.Button__Check__Lottery:hover {
+    transition: all .1s ease-in-out;
+    background-color: #faea9d;
+    box-shadow: 0 0px 6px 1px #faea9d9d;
+}
+
+
+.Button__Check__Lottery:active {
+    transition: .2 ease-in-out;
+    transform: scale(1.05);
+}
+
+
+@media(max-width: 320px) {}
+
+@media(min-width: 321px) and (max-width: 540px) {}
+
+@media(min-width: 541px) and (max-width: 720px) {}
+
+@media(min-width: 721px) and (max-width: 960px) {}
+
+@media(min-width: 961px) and (max-width: 1200px) {}
+
+@media(min-width: 1201px) and (max-width: 1500px) {
+    .Box__Popup__Lottery {
+        padding: 8px;
+    }
+    .Box__Popup__Lottery__Title__h5 {
+        width: 90%;
+        margin: 4% 5% 0% 5%;
+        margin-bottom: 8px;
+    }
+    .Box__Popup__Lottery__Title__h5__span {
+        font-size: 18px;
+    }
+    .Computer__Lottery__li {
+        padding: 0.34rem 0.34rem;
+    }
+    .Player__Lottery__li__number__input {
+        width: 2.1rem;
+        height: 2.1rem;
+    }
+    .Computer__Lottery__ul {
+        margin-bottom: 8px;
+    }
+    .Player__Lottery__ul {
+        margin-top: 12px;
+        margin-bottom: 8px;
+    }
+    .Button__Check__Lottery {
+        margin: 0 auto 8px;
+        display: block;
+    }
+}
+
+@media(min-width: 1501px) and (max-width: 1920px) {}
+
+@media(min-width: 1921px) {}

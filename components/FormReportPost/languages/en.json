@@ -1,0 +1,11 @@
+{
+    "formReportPost_title": "Report",
+    "formReportPost_heading": "Let Us Know What's Going On Here",
+    "formReportPost_report_btn": "Report",
+    "reportOptions_spam": "SPAM",
+    "reportOptions_trouble": "TROUBLE",
+    "reportOptions_selfInjury": "SELF INJURY",
+    "reportOptions_sharingInappropriateContent": "SHARING INAPPROPRIATE CONTENT",
+    "reportOptions_clone": "CLONE",
+    "reportOptions_other": "OTHER"
+}

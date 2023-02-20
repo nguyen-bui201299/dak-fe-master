@@ -1,0 +1,32 @@
+{
+    "popupCreate_notFound": "पोस्ट नहीं मिला",
+    "popupCreate_title": "बिडिंग पोस्ट बनाएं",
+    "popupCreate_bidding_fee": "बोली शुल्क",
+    "popupCreate_input_bidding_fee": "इनपुट शुल्क",
+    "popupCreate_view_fee": "शुल्क देखें",
+    "popupCreate_input_view_fee": "इनपुट शुल्क",
+    "popupCreate_priority": "वरीयता",
+    "popupCreate_continue_btn": "जारी रखना",
+    "popupCreate_bidding_post": "बिडिंग पोस्ट",
+    "popupCreate_input_URL": "इनपुट यूआरएल",
+    "popupCreate_post_date": "पर पोस्ट करें",
+    "popupCreate_post_by": "द्वारा",
+    "popupCreate_accept_bidding": "बोली स्वीकार करें",
+    "popupCreate_accept_btn": "स्वीकार करना",
+
+    "popupDeleted_title": "क्या आप पोस्ट को हटाना चाहते हैं?",
+    "popupDeleted_yes_btn": "हाँ",
+    "popupDeleted_no_btn": "नहीं",
+    "popupDeleted_delete_success": "पोस्ट हटाई गई",
+
+    "popupEdit_title": "बोली पोस्ट संपादित करें",
+    "popupEdit_bidding_fee": "बोली शुल्क",
+    "popupEdit_input_fee": "इनपुट शुल्क",
+    "popupEdit_view_fee": "शुल्क देखें",
+    "popupEdit_priority": "वरीयता",
+    "popupEdit_save_btn": "बचाना",
+    "popupEdit_success": "सफलता",
+
+    "popupSuccess_bidding": "बिडिंग पोस्ट",
+    "popupSuccess_success": "सफलता"
+}

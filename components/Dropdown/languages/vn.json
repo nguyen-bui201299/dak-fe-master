@@ -1,0 +1,18 @@
+{
+    "DropdownForGroup_Unfollow_Group":"Bỏ theo dõi nhóm",
+    "DropdownForGroup_Manage_notifications":"Quản lý thông báo",
+    "DropdownForGroup_Leave_Group":"Rời khỏi nhóm",
+
+    "continueWatching": "Tiếp tục xem",
+    "addGallery": "Thêm vào thư viện",
+    "copyUrl": "Sao chép URL",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa bỏ",
+    "confirmOwner": "Xác nhận chủ sở hữu",
+    "report": "Báo cáo",
+    "deletePostFromGallery": "Xóa bài đăng khỏi thư viện",
+
+    "copyURL_success": "Sao chép URL thành công",
+    "authenticationPost_succeed_before": "Bài đăng này đã được xác minh trước đó",
+    "authenticationPost_error": "Xác minh bài đăng không thành công"
+}

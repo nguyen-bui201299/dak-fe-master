@@ -1,0 +1,10 @@
+{
+    "create_group_success":"创建一个成功的小组",
+    "create_group_fail": "创建组失败",
+    "create_group_enter_name":"您还没有输入群组名称",
+
+    "ban_successfully" : "禁止成功",
+    "unban_successfully": "解封成功",
+    "ban_fail" : "禁止失败",
+    "unban_fail": "解禁失败"
+}

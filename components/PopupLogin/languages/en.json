@@ -1,0 +1,8 @@
+{
+    "popup_verify_verify_account": "Verify Account",
+    "popup_verify_verify_code": "Verification Code Is Sent To Email",
+    "popup_verify_resend_ask": "Haven't Received The Verification Code?",
+    "popup_verify_resend": "Resend",
+    "popup_verify_btn": "Verify"
+
+}

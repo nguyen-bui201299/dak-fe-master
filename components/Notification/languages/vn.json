@@ -1,0 +1,18 @@
+{
+    "notification_title": "Thông báo",
+    "notification_all": "Tất cả",
+    "notification_unread": "Chưa đọc",
+    "notification_markall": "Đọc tất cả",
+    "notification_follow": "đã theo dõi bạn",
+    "notification_like": "đã thích bài viết của bạn",
+    "notification_like_comment": "đã thích bình luận của bạn",
+    "notification_comment": "đã bình luận bài viết của bạn",
+    "notification_share": "đã chia sẻ bài viết của bạn",
+    "notification_vote": "đã vote bài viết của bạn",
+    "notification_invitegroup": "đã mời bạn vào nhóm",
+    "notification_reply_comment": "đã trả lời bình luận của bạn",
+    "notification_transfer_request": "đã gửi yêu cầu chuyển tiền",
+    "notification_accept_post": "đã duyệt bài viết của bạn",
+    "notification_read_success": "Đọc hết thành công",
+    "notification_read_null": "Đã đọc hết thông báo"
+}

@@ -1,0 +1,87 @@
+{
+    "popup_edit_profile_deleteAccount_success": "Tanggalin ang Tagumpay ng Account",
+    "popup_edit_profile_changeImg_success": "Baguhin ang Tagumpay ng Larawan",
+    "popup_edit_profile_male": "Lalaki",
+    "popup_edit_profile_female": "Babae",
+    "popup_edit_profile_others": "Ang iba",
+    "popup_edit_profile_input_fullname": "Ilagay ang Buong Pangalan",
+    "popup_edit_profile_input_email": "Mag-input ng Email",
+    "popup_edit_profile_input_fullname_symbol": "Di-wastong character",
+    "popup_edit_profile_input_fullname_length": "Hindi maaaring lumampas sa 30 character ang pangalan",
+    "popup_edit_profile_input_bio_length": "Ang bio ay hindi maaaring lumampas sa 100 character",
+    "popup_edit_profile_input_empty_name": "Hindi maaaring walang laman ang pangalan",
+    "popup_edit_profile_input_empty_email": "Hindi maaaring walang laman ang email",
+    "popup_edit_profile_input_empty_email_invalid": "Di-wastong email",
+    "popup_edit_profile_input_empty_birthday_invalid": "Di-wastong petsa ng kapanganakan",
+
+    "popup_edit_profile_tile": "I-customize ang iyong profile",
+    
+    "popup_edit_profile_edit_text": "I-edit",
+    "popup_edit_profile_search_text": "Maghanap",
+    "popup_edit_profile_detail_text": "Detalye",
+    "popup_edit_profile_save_text": "I-save",
+    "popup_edit_profile_yes_text": "Mayroon",
+
+    "popup_edit_profile_account_is_blocked_text": "na-block ang account",
+    "popup_edit_profile_account_are_blocked_text": "na-block ang account",
+
+    "popup_edit_profile_avatar": "Avatar",
+    "popup_edit_no_gif": "Hindi sumusuporta sa animation",
+    "popup_edit_profile_update_avatar_img": "I-update ang larawan sa profile",
+    "popup_edit_profile_avatar_from_system": "Larawan ng profile mula sa system",
+
+    "popup_edit_profile_background": "Background",
+    "popup_edit_profile_update_background_img": "Pag-update ng larawan sa cover",
+    "popup_edit_profile_background_from_system": "Cover photo mula sa system",
+
+    "popup_edit_profile_chooses_files_from_system": "Pumili ng larawan mula sa system",
+    "popup_edit_profile_chooses_files_from_computer": "Pumili ng larawan mula sa computer",
+
+    "popup_edit_profile_edit_your_profile": "I-edit ang iyong profile",
+    "popup_edit_profile_edit_your_profile_name": "Pangalan at Apelyido",
+    "popup_edit_profile_edit_your_profile_email": "Email",
+    "popup_edit_profile_edit_your_profile_birth": "Birthday",
+    "popup_edit_profile_edit_your_profile_genger": "Kasarian",
+    "popup_edit_profile_edit_your_profile_genger_male": "Lalaki",
+    "popup_edit_profile_edit_your_profile_genger_female": "Babae",
+    "popup_edit_profile_edit_your_profile_genger_other": "Iba pa",
+
+
+    "popup_edit_profile_bio": "Ilarawan mo ang iyong sarili",
+    "popup_edit_profile_bio_not": "Wala pang paglalarawan",
+    "popup_edit_profile_update_bio_placeholder": "Maglagay ng paglalarawan ng iyong sarili...",
+    "popup_edit_profile_update_bio": "I-update ang paglalarawan sa sarili",
+
+    "popup_edit_profile_setting_basic": "Mga pangunahing setting",
+    "popup_edit_profile_private_permissions": "Mga pribadong pahintulot",
+    "popup_edit_profile_public": "Pampubliko",
+    "popup_edit_profile_private": "pribado",
+
+    "popup_edit_profile_blocked_account": "Naka-block na account",
+    "popup_edit_profile_selected_text": "Napili",
+    "popup_edit_profile_unblock_button_text": "I-unblock",
+
+    "popup_edit_profile_family_and_relationships": "Pamilya at relasyon",
+    "popup_edit_profile_family": "Pamilya",
+    "popup_edit_profile_add_a_family_member": "Magdagdag ng miyembro ng pamilya",
+    "popup_edit_profile_family_role": "Tungkulin",
+    "popup_edit_profile_family_role_parent": "Mga magulang",
+    "popup_edit_profile_family_role_grandparent": "lolo't lola",
+    "popup_edit_profile_family_role_children": "Lalaki/Anak na Babae",
+    "popup_edit_profile_family_role_uncle_aunt": "Tita at tito",
+    "popup_edit_profile_family_role_cousin": "Pinsan",
+
+    "popup_edit_profile_relationships": "Relasyon",
+    "popup_edit_profile_add_relationships": "Magdagdag ng relasyon",
+    "popup_edit_profile_add_relationships_single": "Walang asawa",
+    "popup_edit_profile_add_relationships_get_married": "Magpakasal",
+    "popup_edit_profile_add_relationships_in_a_relationship": "Sa isang relasyon",
+    "popup_edit_profile_add_relationships_divorced": "Diborsiyado",
+    "popup_edit_profile_add_relationships_widow": "Balo",
+
+    
+    "popup_edit_profile_delete_your_account": "Tanggalin ang iyong account",
+    "popup_edit_profile_delete_text": "Tanggalin",
+    "popup_edit_profile_confirm_delete_title": "Kumpirmahin ang pagtanggal ng account",
+    "popup_edit_profile_back_text": "Bumalik"
+}

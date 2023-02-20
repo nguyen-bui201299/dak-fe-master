@@ -1,0 +1,32 @@
+{
+    "popupCreate_notFound": "Postingan Tidak Ditemukan",
+    "popupCreate_title": "Buat Pos Penawaran",
+    "popupCreate_bidding_fee": "Biaya Penawaran",
+    "popupCreate_input_bidding_fee": "Biaya Masukan",
+    "popupCreate_view_fee": "Lihat Biaya",
+    "popupCreate_input_view_fee": "Biaya Masukan",
+    "popupCreate_priority": "Prioritas",
+    "popupCreate_continue_btn": "Melanjutkan",
+    "popupCreate_bidding_post": "Pos Penawaran",
+    "popupCreate_input_URL": "URL masukan",
+    "popupCreate_post_date": "Posting di",
+    "popupCreate_post_by": "Oleh",
+    "popupCreate_accept_bidding": "Terima Penawaran",
+    "popupCreate_accept_btn": "Menerima",
+
+    "popupDeleted_title": "Apakah Anda ingin menghapus postingan?",
+    "popupDeleted_yes_btn": "Ya",
+    "popupDeleted_no_btn": "Tidak",
+    "popupDeleted_delete_success": "Postingan Dihapus",
+
+    "popupEdit_title": "Edit Posting Penawaran",
+    "popupEdit_bidding_fee": "Biaya Penawaran",
+    "popupEdit_input_fee": "Biaya Masukan",
+    "popupEdit_view_fee": "Lihat Biaya",
+    "popupEdit_priority": "Prioritas",
+    "popupEdit_save_btn": "Menyimpan",
+    "popupEdit_success": "kesuksesan",
+
+    "popupSuccess_bidding": "Pos penawaran",
+    "popupSuccess_success": "kesuksesan"
+}

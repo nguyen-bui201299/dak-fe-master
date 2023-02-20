@@ -1,0 +1,18 @@
+{
+    "notification_title": "การแจ้งเตือน",
+    "notification_all": "ทั้งหมด",
+    "notification_unread": "ยังไม่ได้อ่าน",
+    "notification_markall": "อ่านทั้งหมด",
+    "notification_follow": "ติดตามคุณ",
+    "notification_like": "ชอบโพสต์ของคุณ",
+    "notification_like_comment": "ชอบความคิดเห็นของคุณ",
+    "notification_comment": "แสดงความคิดเห็นในโพสต์ของคุณ",
+    "notification_share": "แชร์โพสต์ของคุณ",
+    "notification_vote": "โหวตโพสต์ของคุณ",
+    "notification_invitegroup": "เชิญคุณเข้ากลุ่ม",
+    "notification_reply_comment": "ตอบกลับความคิดเห็นของคุณ",
+    "notification_transfer_request": "คำขอโอนเงิน",
+    "notification_accept_post": "ยอมรับโพสต์ของคุณ",
+    "notification_read_success": "อ่านสำเร็จทั้งหมด",
+    "notification_read_null": "ไม่มีการแจ้งเตือนที่ยังไม่ได้อ่าน"
+}

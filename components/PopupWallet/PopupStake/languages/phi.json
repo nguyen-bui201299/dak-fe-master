@@ -1,0 +1,11 @@
+{
+    "popup_stake_title": "Kumpirmahin ang Stake",
+    "popup_stake_amount_to_stake": "Halaga sa taya",
+    "popup_stake_period": "Panahon",
+    "popup_stake_interest_rates_year": "Mga rate ng interes (%/Taon)",
+    "popup_stake_interest_rates": "Mga rate ng interes",
+    "popup_stake_start_day": "Araw ng pagsisimula",
+    "popup_stake_end_date": "Tapos na petsa",
+    "popup_stake_receiving_wallet_address_interest": "Pagtanggap ng interes sa wallet address",
+    "popup_stake_button_confirm": "Kumpirmahin"
+}

@@ -1,0 +1,45 @@
+{
+    "login": {
+        "title": "登录"
+    },
+    "register": {
+        "title": "登记"
+        
+    },
+
+    "login-register:welcome": "欢迎来到 DAK!",
+    "login-register:script": "立即加入以结交新朋友、创建群组、添加照片等。",
+    "login-register:password_placeHolder": "密码",
+    "login-register:forgot_password": "忘记密码",
+    "login-register:loginWith": "登录",
+    "login-register:hadPassword": "已经有账号了？",
+    "login-register:noPassword": "没有账号？",
+    "login-register:fullName": "全名",
+    "login-register:userName": "用户名",
+    "login-register:email": "电子邮件",
+    "login-register:password_authentication_placeHolder": "确认密码",
+    "login-register:phone-number": "电话号码",
+    "login-register:policyMessage": "请同意我们的条款和条件。",
+    "login-register:agreeMessage": "我同意你的网站",
+    "login-register:policyLink": "条款和条件以及隐私政策。",
+    "login-register:success_message": "登录成功",
+    "login-register:error_message": "帐号无效，请检查您的电子邮件或电话号码和密码。",
+    "login-register:save-account": "保存帐户？",
+    "login-register:gender": "性别",
+    "login-register:male": "男性",
+    "login-register:female": "女性",
+
+    "login-register:errors_message_register": {
+        "1": "这是必填栏",
+        "2": "用户名必须少于或等于 20 个字符",
+        "3": "名称必须少于或等于 20 个字符",
+        "4": "用户名已存在",
+        "5": "请输入有效的电子邮件地址",
+        "6": "电子邮件已存在",
+        "7": "密码必须至少为 8 个字符，包括至少 1 个大写字母、1 个小写字母、一个数字和 1 个特殊字符",
+        "8": "密码确认不匹配",
+        "9": "失效日期"
+    },
+
+    "login-register:success_message_register": "注册成功"
+}

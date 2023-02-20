@@ -1,0 +1,38 @@
+{
+    "main_content_recommend": "Đề xuất cho bạn",
+    "main_content_recommend_group": "Đề xuất nhóm có thể bạn thích",
+    "main_content_view_recommend": "Xem tất cả các đề xuất",
+    "main_content_your_groups": "Nhóm của bạn",
+    "main_content_your_joined_groups": "Các nhóm đã tham gia của bạn",
+    "main_content_view_your_joined_groups": "Xem tất cả các nhóm đã tham gia của bạn",
+    "main_content_back_btn": "Quay lại",
+    "main_content_create_group_btn": "Tạo nhóm",
+
+    "list_group_recommend": "Đề xuất",
+    "list_group_recommend_groups": "Đề xuất nhóm có thể bạn thích",
+    "list_group_search_placeholder": "Tìm nhóm...",
+    "list_group_history_search": "Lịch sử tìm kiếm",
+    "list_group_your_groups": "Nhóm của bạn",
+    "list_group_your_joined_groups": "Các nhóm đã tham gia của bạn",
+    "list_group_no_result" : "Không tồn tại kết quả",
+    "list_group_looking_result" : "Kết quả của tìm kiếm",
+    "list_group_all" : "Tất cả",
+    "list_group_admin" : "Quản lý",
+
+    "child_pictures_group_member": "Thành viên",
+
+    "introduce_public_group": "Nhóm công khai",
+    "introduce_private_group": "Nhóm riêng tư",
+    "introduce_visible": "Có thể thấy",
+    "introduce_everyone_can_see": "Mọi người có thể xem nội dung được hiển thị trong nhóm",
+    "introduce_noone_can_see": "Không ai có thể xem nội dung được hiển thị trong nhóm",
+    "introduce_everyone_can_find": "Mọi người đều có thể tìm thấy nhóm",
+    "introduce_created_at": "Ngày thành lập",
+    "introduce_created_from": "Được tạo từ",
+    "introduce_new_members": "thành viên",
+    "introduce_compare_last_week": "so với tuần trước",
+    "introduce_read_more": "xem thêm",
+
+    "pending_title": "Chờ kiểm duyệt",
+    "pending_empty": "Hiện tại không có ai tham gia vào nhóm"
+}

@@ -1,0 +1,11 @@
+{
+    "search_people" : "Everyone",
+    "search_group" : "Group",
+    "search_post" : "Posts",
+    "search_picture": "Image",
+    "search_result" : "Search results for",
+
+    "search_no_result" : "No search results"
+
+
+}

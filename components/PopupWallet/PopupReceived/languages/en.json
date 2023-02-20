@@ -1,0 +1,9 @@
+{
+    "accept":"Accept",
+    "cancel":"Deny",
+    "accepted":"Accepted",
+    "canceled":"Deny",
+    "success":"Accepted",
+    "fail":"Denied",
+    "not_enought_point" : "Not enough point"
+}

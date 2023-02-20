@@ -1,0 +1,13 @@
+{
+    "changePassword": "更改密码",
+    "oldPassword": "当前密码",
+    "newPassword": "新密码",
+    "verifyPassword": "输入新密码",
+
+    "changePassword_success": "修改密码成功",
+    "changePassword_error": "密码不正确",
+    "changePassword_requirement": "密码必须包含特殊的大写、小写字母、数字和字符",
+    "changePassword_number_requirement": "密码必须为 8 个字符或更多",
+    "changePassword_reconfirm_error": "重新确认密码错误",
+    "changePassword_not_allow_null": "密码不能为空"
+}

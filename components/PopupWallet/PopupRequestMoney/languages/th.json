@@ -1,0 +1,23 @@
+{
+    "popup_request_money_title": "ขอให้เพื่อนส่งเงิน",
+    "popup_request_amount_to_receive": "จำนวน",
+    "popup_request_sender_wallet_address": "ที่อยู่กระเป๋าสตางค์ของผู้ส่ง",
+    "popup_request_sender_wallet_address_placeholder": "วางที่อยู่กระเป๋าสตางค์ของผู้ส่งที่นี่",
+
+    "popup_request_amount_to_transfer": "จำนวน",
+    "popup_request_confirm_sending_request": "ยืนยันการส่งคำขอ",
+    "popup_request_money_senders_name": "ชื่อผู้ส่ง",
+    "popup_request_money_content": "เนื้อหา",
+    "popup_request_money_content_placeholder": "เนื้อหา....",
+
+    "popup_request_money_warning_address": "คุณป้อนที่อยู่กระเป๋าเงินผิด!",
+    "popup_request_money_success_transfers": "โอนสำเร็จ",
+
+    "popup_request_money_button_next": "ต่อไป",
+    "popup_request_money_confirm": "ยืนยัน",
+
+    "popup_request_amount_errorSenderAddress": "กรุณาใส่ที่อยู่ผู้รับ",
+    "popup_request_amount_errorAmount": "กรุณากรอกจำนวนเงิน",
+    "popup_request_money_warning_note": "ตัวอักษรไม่ถูกต้อง",
+    "popup_request_amount_requestSuccess": "ขอความสำเร็จ"
+}

@@ -1,0 +1,58 @@
+{
+    "wallet_title": "กระเป๋าสตางค์",
+    "wallet_menu_main_page": "หน้าหลัก",
+    "wallet_menu_transaction": "แลกเปลี่ยน",
+    "wallet_menu_money_change": "เปลี่ยนเงิน",
+    "wallet_menu_stake": "เดิมพัน",
+    "wallet_menu_history": "ประวัติการทำรายการ",
+    "wallet_menu_camera": "กล้อง",
+
+    "wallet_main_page_dak_point": "จุด DAK (P)",
+    "wallet_main_page_dak_token": "โทเค็น DAK (T)",
+    "wallet_main_page_your_wallet_code": "รหัสกระเป๋าเงินของคุณ",
+    "wallet_main_page_property_types": "ประเภททรัพย์สิน",
+    "wallet_main_page_time_lock": "ล็อคเวลา",
+    "wallet_main_page_copy_success": "คัดลอกสำเร็จ",
+
+    "wallet_copy_success": "คัดลอกสำเร็จ",
+
+    "wallet_transaction_page_transfer_money_to_friends": "โอนเงินให้เพื่อน",
+    "wallet_transaction_page_ask_friend_to_transfer_money": "ขอให้เพื่อนโอนเงิน",
+    "wallet_transaction_page_buy_dak_point": "ซื้อ DAK Point",
+    "wallet_transaction_page_buy_token": "ซื้อ DAK Token",
+    "wallet_transaction_page_sent_transfer_money": "โอนเงินแล้ว",
+    "wallet_transaction_page_received_transfer_money": "รับเงินโอน",
+    
+    "wallet_change_money_page_amount_to_exchange": "จำนวนเงินที่จะแลกเปลี่ยน",
+    "wallet_change_money_page_amount_received": "จำนวนเงินที่ได้รับ",
+    "wallet_change_money_page_select_type": "เลือกประเภท",
+    "wallet_change_money_page_button_confirm": "ยืนยัน",
+
+    "wallet_stake_page_asset": "สินทรัพย์",
+    "wallet_stake_page_amount": "จำนวน",
+    "wallet_stake_page_amount_place": "ใส่จำนวนเงินที่นี่",
+    "wallet_stake_page_period": "ระยะเวลา",
+    "wallet_stake_page_choose_a_period": "เลือกช่วงเวลา ...",
+    "wallet_stake_page_month": "เดือน",
+    "wallet_stake_page_interest_rates_year": "อัตราดอกเบี้ย (%/ปี)",
+    "wallet_stake_page_expectedly": "คาดว่า (DAK Token/เดือน)",
+    "wallet_stake_page_button_stake": "เดิมพันตอนนี้!!!",
+    
+    "wallet_transaction_history_time": "เวลา",
+    "wallet_transaction_transaction_type": "ประเภทธุรกรรม",
+    "wallet_transaction_content": "เนื้อหา",
+    "wallet_transaction_transaction_value": "มูลค่าธุรกรรม",
+    "wallet_transaction_surplus": "ส่วนเกิน",
+    "wallet_transaction_history_details_title": "รายละเอียดการทำธุรกรรม",
+    "wallet_transaction_history_details_receiving_wallet_address": "การรับที่อยู่กระเป๋าเงิน",
+    "wallet_transaction_history_details_sending_wallet_address": "ส่งที่อยู่กระเป๋าสตางค์",
+    "wallet_transaction_send": "ส่ง",
+    "wallet_transaction_receive": "รับ",
+    "wallet_transaction_buy_ticket": "ซื้อสลากกินแบ่งรัฐบาล",
+    "wallet_transaction_lottery_reward": "ถูกหวย",
+
+    "wallet_send": "โอนเงินมาที่",
+    "wallet_receive": "รับเงินจาก",
+    "buy_ticket": "ซื้อตั๋ว",
+    "won_lottery" : "ถูกหวย"
+}

@@ -1,0 +1,11 @@
+{
+    "titlePopup": "Chỉnh sửa bài viết",
+    "btnPost": "Chỉnh sửa",
+    "inputLink": "Dán link bài viết",
+    "public": "Công khai",
+    "private": "Chỉ mình tôi",
+    "titleFormPost": "Đăng bài",
+    "success": "Chỉnh sửa bài viết thành công",
+    "error": "Chỉnh sửa bài viết thất bại",
+    "empty_content": "Vui lòng nhập nội dung"
+}

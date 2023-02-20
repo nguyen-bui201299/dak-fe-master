@@ -1,0 +1,35 @@
+{
+    "main_content_recommend": "为你推荐",
+    "main_content_recommend_group": "为您推荐群组",
+    "main_content_view_recommend": "查看所有推荐",
+    "main_content_your_groups": "您的群组",
+    "main_content_your_joined_groups": "您加入的群组",
+    "main_content_view_your_joined_groups": "查看您加入的所有群组",
+    "main_content_back_btn": "后退",
+    "main_content_create_group_btn": "创建组",
+
+    "list_group_recommend": "推荐",
+    "list_group_recommend_groups": "为您推荐群组",
+    "list_group_search_placeholder": "查找组...",
+    "list_group_history_search": "历史",
+    "list_group_your_groups": "您的群组",
+    "list_group_your_joined_groups": "您加入的群组",
+    "list_group_no_result" : "不存在结果",
+    "list_group_looking_result" : "搜索结果",
+    "list_group_all" : "全部",
+    "list_group_admin" : "管理",
+
+    "child_pictures_group_member": "成员",
+
+    "introduce_public_group": "公共组",
+    "introduce_private_group": "私人团体",
+    "introduce_visible": "可见的",
+    "introduce_everyone_can_see": "每个人都可以看到组中显示的内容",
+    "introduce_noone_can_see": "没有人可以看到组中显示的内容",
+    "introduce_everyone_can_find": "大家可以找群",
+    "introduce_created_at": "成立时间",
+    "introduce_created_from": "创建自",
+    "introduce_new_members": "名成员",
+    "introduce_compare_last_week": "与上周相比",
+    "introduce_read_more": "看更多"
+}

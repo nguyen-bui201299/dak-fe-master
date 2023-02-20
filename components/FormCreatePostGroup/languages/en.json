@@ -1,0 +1,14 @@
+{
+    "form_create_post_title1": "Post",
+    "form_create_post_title2": "Tag friends",
+    "form_create_post_title3": "Change privacy",
+    "form_create_post_link_content": "Paste the article link here",
+    "form_create_post_button_name": "Post",
+    "form_create_post_public": "Public",
+    "form_create_post_privicy": "Only me",
+    "form_create_post_search_placeholder": "Looking for friends ...",
+    "form_create_post_noti_success": "Post is successfully",
+    "form_create_post_errorStatus": "Please Input Caption",
+    "form_create_post_errorLink": "Invalid url"
+
+}

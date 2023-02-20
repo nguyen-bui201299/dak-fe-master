@@ -1,0 +1,47 @@
+{
+    "censorship_censor": "审查",
+
+    "change_role_title": "改变角色",
+    "change_role_admin": "行政",
+    "change_role_censor": "审查",
+    "change_role_member": "成员",
+    "change_role_change_btn": "改变",
+
+    "modal_edit_edit_information": "编辑信息",
+    "modal_edit_group_name": "团队名字",
+    "modal_edit_input_group_name": "在此处输入组名...",
+    "modal_edit_privacy": "隐私",
+    "modal_edit_global_group": "公共组",
+    "modal_edit_private_group": "私人团体",
+    "modal_edit_save_btn": "节省",
+
+    "popup_edit_group_image_success": "改变形象成功",
+    "popup_edit_group_update_information_success": "更新信息成功",
+    "popup_edit_group_edit_group_information": "编辑组信息",
+    "popup_edit_group_avatar": "阿凡达",
+    "popup_edit_group_edit": "编辑",
+    "popup_edit_group_background": "背景",
+    "popup_edit_group_info_group": "信息组",
+    "popup_edit_group_public_group": "公共组",
+    "popup_edit_group_private_group": "私人团体",
+    "popup_edit_group_select_image": "选择图片",
+    "popup_edit_group_no_gif" : "不支持动画",
+    "popup_edit_group_update_avatar": "更新群组头像",
+    "popup_edit_group_save_btn": "节省",
+    "popup_edit_group_update_cover_photo": "更新封面照片",
+    "popup_edit_group_group_name": "团队名字",
+    "popup_edit_group_input_group_name": "输入组名...",
+    "popup_edit_group_group_access": "组访问",
+    "popup_edit_group_intro_group": "介绍组...",
+    "popup_edit_bg_group": "封面照片",
+
+    "kick_member_ban": "禁止会员",
+    "kick_member_asking": "你确定要禁止这个会员吗",
+    "kick_member_yes_btn": "是的",
+    "kick_member_cancel_btn": "不",
+
+    "ban_member": "禁止成员",
+    "ban_member_asking": "您确定要禁止该用户吗",
+    "unban_member": "解禁会员",
+    "unban_member_asking": "您确定取消阻止该用户吗"
+}

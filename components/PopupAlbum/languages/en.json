@@ -1,0 +1,26 @@
+{
+    "createAlbum_title": "Create Album",
+    "createAlbum_settings": "Settings",
+    "createAlbum_album_name": "Album Name",
+    "createAlbum_upload_images_videos": "Upload Images",
+    "createAlbum_upload_btn": "Upload",
+    "createAlbum_no_gif": "Does not support animation",
+    "createAlbum_no_avatar": "Select a photo for your album",
+    "createAlbum_success": "Create album successfully",
+    "createAlbum_same_name": "Already have this album",
+
+    "albumEdit_success": "Edit Success",
+    "albumEdit_title": "Edit",
+    "albumEdit_settings": "Settings",
+    "albumEdit_albumName": "Album Name",
+    "albumEdit_submit_btn": "Save",
+
+    "delAlbum_success": "Delete Success",
+    "delAlbum_doYouWant": "Do you want",
+    "delAlbum_del": "delete",
+    "delAlbum_thisAlbum": "this album",
+    "delAlbum_yes_btn": "Yes",
+    "delAlbum_close_btn": "No",
+
+    "delAlbumSuccess_success": "Delete Success"
+}

@@ -1,0 +1,116 @@
+
+.modal_Report {
+    width: 427px;
+    height: 427px;
+    background-color: var(--white-color);
+    color: white;
+    z-index: 10;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.04);
+}
+
+.modal_ChangeRole {
+    width: 427px;
+    height: 319px;
+    background-color: var(--white-color);
+    color: white;
+    z-index: 10;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.04);
+}
+
+.checked_list {
+    padding: 0px 36px;
+    margin-top: 34px;
+    display: flex;
+    flex-direction: column;
+}
+
+.modalContent_Report {
+    color: var(--text-color);
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 41px;
+}
+
+.radio {
+    line-height: 2.2;
+    position: relative;
+}
+
+
+.radio hr {
+    opacity: 0.3;
+    width: 390px;
+}
+
+.radio_input {
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+
+.radio_input:before {
+    transition-timing-function: cubic-bezier(.075, .820, .165, 1);
+    border: 2px solid;
+    border-radius: 50%;
+    background-color: var(--white-color);
+    border-color: transparent;
+    box-sizing: border-box;
+    content: close-quote;
+    display: inline-block;
+    height: 12px;
+    outline: 2px solid #f9ca24;
+    transition-duration: .5s;
+    transition-property: background-color, border-color;
+    width: 12px;
+}
+
+.radio input[type="radio"]:checked:before {
+    background-color: #f9ca24;
+    border-color: var(--white-color);
+  }
+
+  .radio input[type="radio"]:checked+.radio_span {
+      font-weight: bold;
+  }
+
+.radio .radio_span {
+    font-size: 18px;
+}
+
+.actionsContainer {
+    float: right;
+}
+
+.ReportBtn {
+    margin-top: -43px; 
+    margin-right: 13px; 
+    cursor: pointer;
+    font-weight: 700;
+    padding: 8px 25px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    border: none;
+    color: black;
+    background: #f9ca24;
+    transition: all 0.25s ease;
+}
+
+.ReportBtn:hover {
+    box-shadow: 0 10px 20px -10px rgba(252, 255, 62, 0.6);
+    transform: translateY(-5px);
+    background: #f9ca24;
+}
+
+@media (max-width: 419px) {
+    .modal_Report {
+        width: 300px;
+    }
+
+    .radio .radio_span {
+        font-size: 15px;
+    }
+}

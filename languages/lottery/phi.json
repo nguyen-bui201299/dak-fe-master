@@ -1,0 +1,35 @@
+{
+    "history": "Kasaysayan ng Transaksyon",
+    "rule_lottery": "Panuntunan",
+    "button_check_lottery": "Subukan ang iyong kapalaran",
+    "number_of_1stprize": "Mga Nagwagi ng Pangunahing Gantimpala",
+    "number_of_otherprize": "Sub-Prize",
+    "jackpot_value": "Gantimpala",
+    "lottery_date": "Petsa Oras",
+    "your_lottery": "Ang iyong Lottery",
+    "total_winners": "Kabuuang Mga Nanalo",
+    "total_match": "Kabuuang tumutugmang mga numero",
+    "prize_value": "Halaga ng premyo",
+    "history_reward": "Listahan ng mga nanalong tiket",
+    "result_lotterry" : "resulta",
+    "lottery_status_waiting": "Naghihintay para sa susunod na lottery",
+    "lottery_status_pending": "Makakuha ng gantimpala",
+    "lottery_status_block": "Na-block ang ticket",
+    "lottery_status_finish": "Ginawaran",
+    "lottery_status_lost": "Nawala",
+
+    "detail_lottery_buy_success": "Bilhin ang tagumpay ng lottery",
+    "detail_lottery_warn_duplicate": "May mga duplicate na numero sa input",
+    "detail_lottery_warn_limit": "Pumapasok lamang sa pagitan ng 1 at 45",
+    "detail_lottery_warn_character": "Hindi maaaring ilagay ang mga character",
+    "detail_lottery_warn_blank": "Hindi maaaring iwanang blangko",
+    "detail_lottery_warn_input_again": "Pakilagay ang numero at subukang muli!",
+    "detail_lottery_warn_not_enough_point": "Hindi sapat na puntos",
+    "detail_lottery_warn_error": "Error",
+    "detail_lottery_quick_lottery": "Kumuha ng mabilis na mga numero",
+    
+    "rule_lottery_1": "Pumili ng mga numero mula 01 hanggang 45 para sa pagkakataong manalo ng Jackpot.",
+    "rule_lottery_2": "Hindi mahalaga ang posisyon ng numero, ang pagkakaroon ng numero ay isang panalong premyo.",
+    "rule_lottery_3": "Magbubukas ang Mega 6/45 nang 10:00 am at 22:00 pm tuwing weekday."
+
+}

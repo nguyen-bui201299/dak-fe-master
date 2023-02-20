@@ -1,0 +1,61 @@
+.active {
+  color: #f9ca24;
+  border-bottom: 0.1em solid var(--active-border-bottom);
+}
+
+.list-menu {
+  margin-right: 27px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style-type: none;
+  color: var(--text-color);
+}
+
+.list-menu > li {
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.pills-search-result .ui.attached {
+}
+
+.pills-search-result .ui.attached a {
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.mainGroups {
+  color: var(--text-color);
+}
+
+.mainGroups .ui.attached a {
+  line-height: 3.2;
+  margin-right: 37px;
+}
+
+.mainCens .ui.attached a {
+  line-height: 3.2;
+  margin-right: 60px;
+  margin-left: 45px;
+}
+
+.alert-shown {
+  opacity: 1;
+  transition: all 250ms linear;
+}
+
+.alert-hidden {
+  opacity: 1;
+  transition: all 250ms linear 2s;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .list-menu {
+    margin-right: 0;
+    padding-inline-start: 0px;
+  }
+}

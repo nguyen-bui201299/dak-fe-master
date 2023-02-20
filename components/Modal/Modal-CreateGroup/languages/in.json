@@ -1,0 +1,23 @@
+{
+    "create_group_success": "ग्रुप सक्सेस बनाएं",
+    "create_group_fail": "समूह बनाएं विफल",
+    "create_group_groupname_require": "कृपया इनपुट समूह का नाम",
+    "create_group": "नया समूह बनाएं",
+    "create_group_cover_photo": "ग्रुप कवर फोटो",
+    "create_group_no_gif": "एनीमेशन का समर्थन नहीं करता",
+    "create_group_optional": "वैकल्पिक",
+    "create_group_load_photo": "अपने कंप्यूटर से फोटो अपलोड करें",
+    "create_group_cancel_photo": "फोटो रद्द करें",
+    "create_group_next": "अगला",
+    "create_group_back": "पीछे",
+    "create_group_name": "समूह नाम",
+    "create_group_name_placeholder": "यहां समूह का नाम बताएं...",
+    "create_group_about_group": "ग्रुप के बारे में",
+    "create_group_about_group_placeholder": "सामग्री यहाँ लिखें...",
+    "create_group_privacy": "गोपनीयता",
+    "create_group_public": "सार्वजनिक समूह",
+    "create_group_private": "निजी समूह",
+    "create_group_see_content": "हर कोई समूह में सामग्री देख सकता है",
+    "create_group_not_see_content": "समूह में सामग्री को कोई नहीं देख सकता",
+    "create_group_create_btn": "सृजन करना"
+}

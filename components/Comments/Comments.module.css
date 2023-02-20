@@ -1,0 +1,127 @@
+
+.interactors {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+}
+.logo, .user-avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background:var(--icon-color);
+}
+
+.avatar {
+    border-radius: 50%;
+}
+
+.interact-icons, .views {
+    margin: 0 10px;
+    font-size: 28px;
+    color: var(--text-color);
+    display: flex;
+    align-items: center;
+}
+
+.interact-icons > small, .views > small, .interact-icons-comment > small {
+    margin: 0 10px 0 5px;
+}
+
+.comment-field {
+    border-top: 2px solid var(--text-color); 
+    padding: 15px 0;
+}
+.comment {
+    display: flex;
+    align-items: flex-start;
+}
+
+.comment-block {
+    padding: 10px;
+}
+
+.interact-icons-comment {
+    margin-left: 4rem;
+    font-size: 15px;
+    color: var(--text-color);
+    display: flex;
+    align-items: center;
+}
+
+.comment-title {
+    width:600px;
+    margin-left: 20px;
+}
+
+.comment-title strong {
+    margin: 10px 0;
+    font-size: 20px;
+    color: var(--text-color);
+}
+
+.comment-title p {
+    color: var(--text-color);
+    font-size: 18px;
+    word-break: break-all;
+}
+
+.d-none {
+    display: none;
+}
+
+.comment-input {
+    border-radius: 21px;
+}
+
+.comment-input:focus {
+    box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.25);
+}
+
+.input-field {
+    border-top: 2px solid var(--text-color); 
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.comment-input {
+    font-size: 18px;
+    width: 80%;
+    margin: 20px;
+    padding: 10px;
+    background: var(--items-color);
+    color: var(--text-color);
+}
+
+.post-icon {
+    font-size: 28px;
+}
+
+.icon-heart:hover, .icon-comment:hover, .post-icon {
+    cursor: pointer;
+}
+
+.wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.wrapper .badge {
+    position: absolute;
+    top: 70%;
+    right: 0%; 
+}
+.icon-heart {
+    font-size: 150%;
+    color: var(--text-color);
+    background: var(--items-color);
+    border-radius: 50%;
+}
+
+.liked {
+    background: #fff;
+}
+.wrapper .reacts {
+    position: absolute;
+    bottom: 0; 
+}

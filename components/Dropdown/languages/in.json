@@ -1,0 +1,18 @@
+{
+    "DropdownForGroup_Unfollow_Group":"ग्रुप को अनफॉलो करें",
+    "DropdownForGroup_Manage_notifications":"सूचनाएं प्रबंधित करें",
+    "DropdownForGroup_Leave_Group":"समूह छोड़ दें",
+
+    "continueWatching": "देखना जारी रखें",
+    "addGallery": "गैलरी में जोड़ें",
+    "copyUrl": "यूआरएल कॉपी करें",
+    "edit": "संपादन करना",
+    "delete": "मिटाना",
+    "confirmOwner": "मालिक की पुष्टि करें",
+    "report": "प्रतिवेदन",
+    "deletePostFromGallery": "गैलरी से पोस्ट हटाएं",
+
+    "copyURL_success": "URL कॉपी करें सफलता",
+    "authenticationPost_succeed_before": "इस पोस्ट को पहले सत्यापित किया जा चुका है",
+    "authenticationPost_error": "पोस्ट विफल सत्यापित करें"
+}

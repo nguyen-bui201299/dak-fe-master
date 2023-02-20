@@ -1,0 +1,18 @@
+{
+    "notification_title": "Notifications",
+    "notification_all": "All",
+    "notification_unread": "Unread",
+    "notification_markall": "Read all",
+    "notification_follow": "followed you",
+    "notification_like": "liked your post",
+    "notification_like_comment": "liked your comment",
+    "notification_comment": "commented on your post",
+    "notification_share": "shared your post",
+    "notification_vote": "voted your post",
+    "notification_invitegroup": "invited you to the group",
+    "notification_reply_comment": "replied your comment",
+    "notification_transfer_request": "send money transfer request",
+    "notification_accept_post": "accepted your post",
+    "notification_read_success": "Read all successfully",
+    "notification_read_null": "No unread notifications"
+}

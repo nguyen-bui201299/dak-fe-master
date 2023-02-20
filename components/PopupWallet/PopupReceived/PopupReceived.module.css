@@ -1,0 +1,109 @@
+.sender {
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+
+.avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    margin: auto 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    flex: 1;
+}
+
+.sender-info {
+    display: flex;
+}
+
+.sender-name {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+    /* color: var(--main-color); */
+  }
+
+.send-date-status {
+    display: flex;
+    justify-self: space-between;
+    flex: 1;
+}
+
+.send-date {
+    opacity: 0.8;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-top: 5px;
+    font-size: 10px;
+    flex: 1;
+}
+
+.send-date div br {
+    display: none;
+}
+
+.send-status {
+    /* margin-left: 55%; */
+    display: flex;
+    /* white-space: nowrap; */
+    margin-right: 10px;
+}
+
+.request-accepted {
+    color: var(--main-color);
+    white-space: nowrap;
+}
+
+.request-canceled {
+    opacity: 0.7;
+}
+
+
+.request-accept-btn {
+    background-color: var(--main-color);
+    color: #383333;
+    font-weight: 600;
+    line-height: 24px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.request-cancel-btn {
+    background-color: var(--main-color);
+    color: #383333;
+    font-weight: 600;
+    line-height: 24px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.send-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.send-point {
+    margin-right: 10px;
+}
+
+.send-point span {
+    color: var(--main-color)
+}
+
+@media (max-width: 320px){
+    .sender-name{
+        font-size: 13px;
+    }
+    .formatDate_date{
+        margin-left: 10px;
+    }
+}

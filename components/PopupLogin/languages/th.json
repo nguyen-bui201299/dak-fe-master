@@ -1,0 +1,8 @@
+{
+    "popup_verify_verify_account": "ตรวจสอบบัญชี",
+    "popup_verify_verify_code": "รหัสยืนยันถูกส่งไปยังอีเมล",
+    "popup_verify_resend_ask": "ยังไม่ได้รับรหัสยืนยัน?",
+    "popup_verify_resend": "ส่งซ้ำ",
+    "popup_verify_btn": "ตรวจสอบ"
+
+}

@@ -1,0 +1,320 @@
+@keyframes showPopup {
+    from {
+        opacity: 0;
+        transform: scale(0);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.overlayPopupChat {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.popupchat {
+    /* border-radius: var(--box-borderRadius-size); */
+    border-top-right-radius:var(--box-borderRadius-size);
+    border-top-left-radius:var(--box-borderRadius-size);
+    position: absolute;
+    top: 1rem;
+    right: 200px;
+    background-color: var(--white-color);
+    min-height: 525px;
+    max-height: 525px;
+    z-index: 5;
+    box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px, rgb(5 1 5 / 2%) 10px 10px 10px 10px,
+        rgb(5 1 5 / 0%) 15px 15px 15px 15px, rgb(5 1 5 / 4%) 20px 20px 20px;
+    width: 360px;
+    -webkit-animation: showPopup linear 0.2s;
+    animation: showPopup linear 0.2s;
+    will-change: opacity transform;
+    transition: all ease 0.2s;
+    transform-origin: calc(100% - 40px) top;
+    overflow-y: scroll;
+}
+
+.popupchat__heading-body{
+    padding: 8px;
+}
+
+.popupchat__heading {
+    border-bottom: 1px solid var(--bg-mess-select);
+    padding: 4px 6px 12px 6px;
+}
+
+.popupchat__title {
+    margin: 6px 0;
+    color: var(--main-text);
+    font-size: 22px;
+    font-weight: 500;
+    user-select: none;
+    cursor: unset;
+}
+
+.popupchat__form-control {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: var(--main-background-color);
+    border-radius: var(--box-borderRadius-size);
+    overflow: hidden;
+    padding: 2px 6px;
+    margin-top: 8px;
+}
+
+.popupchat__form-input {
+    color: var(--main-text);
+    background-color: var(--main-background-color);
+    border: none;
+    outline: none;
+    font-size: 14px;
+    line-height: 22px;
+    padding: 0 8px;
+    flex: 1;
+}
+
+.popupchat__form-input::placeholder {
+    font-size: 14px;
+    color: var(--main-text);
+}
+
+.popupchat__form-icon {
+    font-size: 30px;
+    cursor: pointer;
+    padding: 6px;
+    color: var(--main-text);
+}
+
+.popupchat__body-list {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+.popupchat::-webkit-scrollbar {
+    width: 4px;
+}
+
+.popupchat::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.popupchat::-webkit-scrollbar-thumb {
+    background-color: var(--main-color);
+    border-radius: 4px;
+}
+
+.popupchat::-webkit-scrollbar-thumb:hover {
+    background-color: #ffe043;
+}
+
+.popupchat__body-item {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    padding: 8px 4px;
+    border-radius: 6px;
+    cursor: pointer;
+    position: relative;
+}
+
+.popupchat__body-item:hover {
+    background-color: var(--bg-mess-select);
+    transition: all ease 0.25s;
+}
+
+.popupchat__body-item-avatar {
+    object-fit: cover;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.popupchat__body-item-content {
+    flex: 1;
+    margin-left: 8px;
+    width: 50%;
+}
+
+.popupchat__body-item-name {
+    margin: 2px 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--chat-name);
+    opacity: 0.9;
+    position: relative;
+}
+
+.popupchat__body-item-time {
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    font-size: 12px;
+    color: var(--main-text);
+    opacity: 0.9;
+}
+
+.popupchat__body-item-chat {
+    margin: 2px 0;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    height: 20px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    width: 80%;
+    color: var(--main-text);
+}
+
+.popupchat__body-item-viewer {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    overflow: hidden;
+    object-fit: cover;
+    margin-right: 6px;
+}
+
+.popupchat__icon-more-option {
+    position: absolute;
+    top: 22px;
+    right: 42px;
+    font-size: 28px;
+    background-color: var(--main-background-color);
+    border-radius: 50%;
+    padding: 6px;
+    color: var(--main-text);
+    box-shadow: rgb(0 0 0 / 24%) 0px 2px 8px;
+    display: none;
+}
+
+.popupchat__icon-more-option:hover {
+    color: var(--main-color);
+    transform: rotate(360deg);
+    transition: all ease 0.4s;
+}
+
+.popupchat__body-item:hover .popupchat__icon-more-option {
+    display: block;
+}
+
+.popupchat__footer {
+    border-top: 1px solid var(--bg-mess-select);
+    border-bottom-right-radius:var(--box-borderRadius-size);
+    border-bottom-left-radius:var(--box-borderRadius-size);
+    width: 360px;
+    height: 40px;
+    padding: 4px 0;
+    position: fixed;
+    top: 600px;
+    z-index: 10;
+    background: var(--white-color);
+}
+
+.popupchat__footer-title {
+    margin: 4px 0;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--main-color);
+    text-align: center;
+    line-height: 18px;
+}
+
+.popupchat__footer-title:hover {
+    text-decoration: underline;
+    transition: all ease 0.25s;
+}
+
+/* RESPONSIVE */
+@media (max-width: 320px) {
+    .overlayPopupChat {
+        background: rgba(0, 0, 0, 0.3);
+        top: 50px;
+    }
+    .popupchat {
+        /* margin-top: 1rem; */
+        /* width: 300px; */
+        left: 50%;
+        transform: translateX(-50%);
+        /* max-height: 450px; */
+        /* overflow: auto; */
+    }
+}
+@media (min-width: 321px) and (max-width: 540px) {
+    /* .overlayPopupChat {
+        top: 50px;
+    } */
+    .popupchat {
+        /* margin-top: 1rem; */
+        /* width: 90%; */
+        right: 5%;
+        /* max-height: 450px; */
+        /* overflow: auto; */
+    }
+}
+@media (min-width: 541px) and (max-width: 720px) {
+    /* .overlayPopupChat {
+        top: 50px;
+    } */
+    .popupchat {
+        /* margin-top: 1rem; */
+        /* width: 70%; */
+        right: 5%;
+        /* max-height: 450px; */
+        /* overflow: auto; */
+    }
+}
+@media (min-width: 721px) and (max-width: 960px) {
+    /* .overlayPopupChat {
+        top: 50px;
+    } */
+    .popupchat {
+        /* margin-top: 1rem; */
+        /* width: 50%; */
+        right: 10%;
+        /* max-height: 450px; */
+        /* overflow: auto; */
+    }
+}
+@media (min-width: 961px) and (max-width: 1200px) {
+    /* .overlayPopupChat {
+        top: 50px;
+    } */
+    .popupchat {
+        /* margin-top: 1rem; */
+        /* width: 50%; */
+        right: 9%;
+        /* max-height: 450px; */
+        /* overflow: auto; */
+    }
+}
+@media (min-width: 1201px) and (max-width: 1500px) {
+    /* .overlayPopupChat {
+        top: 50px;
+    } */
+    .popupchat {
+        right: 10%;
+        /* margin-top: 1rem; */
+        /* max-height: 450px; */
+        /* overflow: auto; */
+    }
+}
+@media (min-width: 1501px) and (max-width: 1920px) {
+}
+@media (min-width: 1921px) {
+}

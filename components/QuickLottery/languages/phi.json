@@ -1,0 +1,21 @@
+{
+    "quick_lottery_button": "Subukan mo ang iyong swerte",
+    "lottery_header": "Lottery",
+    "rule_lottery": "Panuntunan",
+    "lottery_title": "LOTTERY",
+    "quick_lottery_success": "Bumili ng Lottery Tagumpay",
+    "quick_lottery_error_duplicate": "Sa mga biniling numero, mayroong duplicate na numero",
+    "quick_lottery_error_limitnum": "Pumapasok lamang sa pagitan ng 1 at 45",
+    "quick_lottery_erorr_word": "Huwag ipasok ang karakter",
+    "quick_lottery_error_blank": "Hindi maaaring iwanang blangko",
+    "quick_lottery_error_tryagain": "Pakilagay ang numero at subukang muli!",
+    "quick_lottery_error_enterduplicate": "Ang numero na iyong inilagay ay duplicate",
+    "quick_lottery_error_enterlimitnum": "Lampas sa limitasyon ang numerong iyong ipinasok",
+    "quick_lottery_quick_lottery": "Kumuha ng mabilis na mga numero",
+    "quick_lottery_warn_not_enough_point": "Hindi sapat na puntos",
+
+    "rule_lottery_1": "Pumili ng mga numero mula 01 hanggang 45 para sa pagkakataong manalo ng Jackpot.",
+    "rule_lottery_2": "Hindi mahalaga ang posisyon ng numero, ang pagkakaroon ng numero ay isang panalong premyo.",
+    "rule_lottery_3": "Magbubukas ang Mega 6/45 nang 10:00 am at 22:00 pm tuwing weekday."
+
+}

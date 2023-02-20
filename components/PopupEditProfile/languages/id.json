@@ -1,0 +1,87 @@
+{
+    "popup_edit_profile_deleteAccount_success": "Hapus Akun Berhasil",
+    "popup_edit_profile_changeImg_success": "Ubah Gambar Berhasil",
+    "popup_edit_profile_male": "Pria",
+    "popup_edit_profile_female": "Perempuan",
+    "popup_edit_profile_others": "Yang lain",
+    "popup_edit_profile_input_fullname": "Masukkan Nama Lengkap",
+    "popup_edit_profile_input_email": "Masukkan Email",
+    "popup_edit_profile_input_fullname_symbol": "Karakter salah",
+    "popup_edit_profile_input_fullname_length": "Nama tidak boleh lebih dari 30 karakter",
+    "popup_edit_profile_input_bio_length": "Bio tidak boleh melebihi 100 karakter",
+    "popup_edit_profile_input_empty_name": "Nama tidak boleh kosong",
+    "popup_edit_profile_input_empty_email": "Email tidak boleh kosong",
+    "popup_edit_profile_input_empty_email_invalid": "Email tidak valid",
+    "popup_edit_profile_input_empty_birthday_invalid": "Tanggal lahir tidak valid",
+    
+    "popup_edit_profile_tile": "Sesuaikan profil Anda",
+    
+    "popup_edit_profile_edit_text": "Sunting",
+    "popup_edit_profile_search_text": "Mencari",
+    "popup_edit_profile_detail_text": "Detail",
+    "popup_edit_profile_save_text": "Menyimpan",
+    "popup_edit_profile_yes_text": "Memiliki",
+
+    "popup_edit_profile_account_is_blocked_text": "akun diblokir",
+    "popup_edit_profile_account_are_blocked_text": "akun diblokir",
+
+    "popup_edit_profile_avatar": "Avatar",
+    "popup_edit_no_gif": "Tidak mendukung animasi",
+    "popup_edit_profile_update_avatar_img": "Perbarui gambar profil",
+    "popup_edit_profile_avatar_from_system": "Gambar profil dari sistem",
+
+    "popup_edit_profile_background": "Latar belakang",
+    "popup_edit_profile_update_background_img": "Pembaruan foto sampul",
+    "popup_edit_profile_background_from_system": "Foto sampul dari sistem",
+
+    "popup_edit_profile_chooses_files_from_system": "Pilih foto dari sistem",
+    "popup_edit_profile_chooses_files_from_computer": "Pilih foto dari komputer",
+
+    "popup_edit_profile_edit_your_profile": "sunting profilmu",
+    "popup_edit_profile_edit_your_profile_name": "Nama pertama dan terakhir",
+    "popup_edit_profile_edit_your_profile_email": "Surel",
+    "popup_edit_profile_edit_your_profile_birth": "Hari ulang tahun",
+    "popup_edit_profile_edit_your_profile_genger": "Jenis kelamin",
+    "popup_edit_profile_edit_your_profile_genger_male": "Pria",
+    "popup_edit_profile_edit_your_profile_genger_female": "Perempuan",
+    "popup_edit_profile_edit_your_profile_genger_other": "Lainnya",
+
+
+    "popup_edit_profile_bio": "Deskripsikan dirimu",
+    "popup_edit_profile_bio_not": "Belum ada deskripsi",
+    "popup_edit_profile_update_bio_placeholder": "Masukkan deskripsi diri Anda...",
+    "popup_edit_profile_update_bio": "Perbarui deskripsi diri",
+
+    "popup_edit_profile_setting_basic": "Pengaturan dasar",
+    "popup_edit_profile_private_permissions": "Izin pribadi",
+    "popup_edit_profile_public": "Publik",
+    "popup_edit_profile_private": "pribadi",
+
+    "popup_edit_profile_blocked_account": "Akun yang diblokir",
+    "popup_edit_profile_selected_text": "Terpilih",
+    "popup_edit_profile_unblock_button_text": "Buka blokir",
+
+    "popup_edit_profile_family_and_relationships": "Keluarga dan hubungan",
+    "popup_edit_profile_family": "Keluarga",
+    "popup_edit_profile_add_a_family_member": "Tambahkan anggota keluarga",
+    "popup_edit_profile_family_role": "Peran",
+    "popup_edit_profile_family_role_parent": "Orang tua",
+    "popup_edit_profile_family_role_grandparent": "Eyang",
+    "popup_edit_profile_family_role_children": "Putra/Putri",
+    "popup_edit_profile_family_role_uncle_aunt": "Bibi dan paman",
+    "popup_edit_profile_family_role_cousin": "Sepupu",
+
+    "popup_edit_profile_relationships": "Hubungan",
+    "popup_edit_profile_add_relationships": "Tambahkan hubungan",
+    "popup_edit_profile_add_relationships_single": "Lajang",
+    "popup_edit_profile_add_relationships_get_married": "Menikah",
+    "popup_edit_profile_add_relationships_in_a_relationship": "Dalam suatu hubungan",
+    "popup_edit_profile_add_relationships_divorced": "Cerai",
+    "popup_edit_profile_add_relationships_widow": "Janda",
+
+    
+    "popup_edit_profile_delete_your_account": "Hapus akun anda",
+    "popup_edit_profile_delete_text": "Menghapus",
+    "popup_edit_profile_confirm_delete_title": "Konfirmasi penghapusan akun",
+    "popup_edit_profile_back_text": "Kembali"
+}

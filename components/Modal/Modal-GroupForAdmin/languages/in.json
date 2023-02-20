@@ -1,0 +1,47 @@
+{
+    "censorship_censor": "सेंसर",
+
+    "change_role_title": "भूमिका बदलें",
+    "change_role_admin": "व्यवस्थापक",
+    "change_role_censor": "सेंसर",
+    "change_role_member": "सदस्य",
+    "change_role_change_btn": "परिवर्तन",
+
+    "modal_edit_edit_information": "जानकारी संपादित करें",
+    "modal_edit_group_name": "समूह नाम",
+    "modal_edit_input_group_name": "इनपुट समूह का नाम यहां...",
+    "modal_edit_privacy": "गोपनीयता",
+    "modal_edit_global_group": "सार्वजनिक समूह",
+    "modal_edit_private_group": "निजी समूह",
+    "modal_edit_save_btn": "बचाना",
+
+    "popup_edit_group_image_success": "छवि बदलें सफलता",
+    "popup_edit_group_update_information_success": "अद्यतन जानकारी सफलता",
+    "popup_edit_group_edit_group_information": "समूह जानकारी संपादित करें",
+    "popup_edit_group_avatar": "अवतार",
+    "popup_edit_group_edit": "संपादन करना",
+    "popup_edit_group_background": "पार्श्वभूमि",
+    "popup_edit_group_info_group": "जानकारी समूह",
+    "popup_edit_group_public_group": "सार्वजनिक समूह",
+    "popup_edit_group_private_group": "निजी समूह",
+    "popup_edit_group_select_image": "छवि चुने",
+    "popup_edit_group_no_gif" : "एनीमेशन का समर्थन नहीं करता",
+    "popup_edit_group_update_avatar": "समूह के लिए अवतार अपडेट करें",
+    "popup_edit_group_save_btn": "बचाना",
+    "popup_edit_group_update_cover_photo": "कवर फोटो अपडेट करें",
+    "popup_edit_group_group_name": "समूह नाम",
+    "popup_edit_group_input_group_name": "इनपुट समूह का नाम...",
+    "popup_edit_group_group_access": "समूह पहुंच",
+    "popup_edit_group_intro_group": "समूह का परिचय दें...",
+    "popup_edit_bg_group": "आवरण चित्र",
+
+    "kick_member_ban": "सदस्य को प्रतिबंधित करें",
+    "kick_member_asking": "क्या आप इस सदस्य को प्रतिबंधित करना सुनिश्चित करते हैं",
+    "kick_member_yes_btn": "हाँ",
+    "kick_member_cancel_btn": "नहीं",
+
+    "ban_member": "सदस्यों को प्रतिबंधित करें",
+    "ban_member_asking": "क्या आप निश्चित रूप से इस उपयोगकर्ता को प्रतिबंधित कर देंगे",
+    "unban_member": "अनबन सदस्य",
+    "unban_member_asking": "क्या आप वाकई इस उपयोगकर्ता को अनब्लॉक करना चाहते हैं"
+}

@@ -1,0 +1,86 @@
+{
+    "popup_edit_profile_deleteAccount_success": "Xóa tài khoản thành công",
+    "popup_edit_profile_changeImg_success": "Thay đổi hình ảnh thành công",
+    "popup_edit_profile_male": "Nam",
+    "popup_edit_profile_female": "Nữ",
+    "popup_edit_profile_others": "Khác",
+    "popup_edit_profile_input_fullname": "Vui lòng nhập họ và tên",
+    "popup_edit_profile_input_email": "Vui lòng nhập email",
+    "popup_edit_profile_input_fullname_symbol": "Ký tự không hợp lệ",
+    "popup_edit_profile_input_fullname_length": "Tên không được vượt quá 30 ký tự",
+    "popup_edit_profile_input_bio_length": "Mô tả không được vượt quá 100 ký tự",
+    "popup_edit_profile_input_empty_name": "Họ tên không được để trống",
+    "popup_edit_profile_input_empty_email": "Email không được để trống",
+    "popup_edit_profile_input_empty_email_invalid": "Email không hợp lệ",
+    "popup_edit_profile_input_empty_birthday_invalid": "Ngày sinh không hợp lệ",
+    
+    "popup_edit_profile_tile": "Tùy chỉnh trang cá nhân",
+
+    "popup_edit_profile_edit_text": "Chỉnh sửa",
+    "popup_edit_profile_search_text": "Tìm kiếm",
+    "popup_edit_profile_detail_text": "Chi tiết",
+    "popup_edit_profile_save_text": "Lưu",
+    "popup_edit_profile_yes_text": "Có",
+
+    "popup_edit_profile_account_is_blocked_text": "tài khoản đang bị chặn",
+    "popup_edit_profile_account_are_blocked_text": "tài khoản đang bị chặn",
+
+    "popup_edit_profile_avatar": "Ảnh đại diện",
+    "popup_edit_profile_update_avatar_img": "Cập nhật ảnh đại diện",
+    "popup_edit_profile_avatar_from_system": "Ảnh đại diện từ hệ thống",
+
+    "popup_edit_profile_background": "Ảnh nền",
+    "popup_edit_no_gif": "Không hỗ trợ ảnh động",
+    "popup_edit_profile_update_background_img": "Cập nhật ảnh bìa",
+    "popup_edit_profile_background_from_system": "Ảnh bìa từ hệ thống",
+
+    "popup_edit_profile_chooses_files_from_system": "Chọn ảnh từ hệ thống",
+    "popup_edit_profile_chooses_files_from_computer": "Chọn ảnh từ máy tính",
+
+    "popup_edit_profile_edit_your_profile": "Tùy chỉnh thông tin cá nhân",
+    "popup_edit_profile_edit_your_profile_name": "Họ và tên",
+    "popup_edit_profile_edit_your_profile_email": "Email",
+    "popup_edit_profile_edit_your_profile_birth": "Ngày sinh",
+    "popup_edit_profile_edit_your_profile_genger": "Giới tính",
+    "popup_edit_profile_edit_your_profile_genger_male": "Nam",
+    "popup_edit_profile_edit_your_profile_genger_female": "Nữ",
+    "popup_edit_profile_edit_your_profile_genger_other": "Khác",
+
+    "popup_edit_profile_bio": "Mô tả bản thân",
+    "popup_edit_profile_bio_not": "Chưa có mô tả bản thân",
+    "popup_edit_profile_update_bio_placeholder": "Nhập mô tả bản thân...",
+    "popup_edit_profile_update_bio": "Cập nhật mô tả bản thân",
+
+    "popup_edit_profile_setting_basic": "Cài đặt cơ bản",
+    "popup_edit_profile_private_permissions": "Quyền riêng tư",
+    "popup_edit_profile_public": "Mọi người",
+    "popup_edit_profile_private": "Chỉ mình tôi",
+
+    "popup_edit_profile_blocked_account": "Tài khoản đã chặn",
+    "popup_edit_profile_selected_text": "Đã chọn",
+    "popup_edit_profile_unblock_button_text": "Bỏ chặn",
+
+    "popup_edit_profile_family_and_relationships": "Gia đình và mối mối quan hệ",
+    "popup_edit_profile_family": "Gia đình",
+    "popup_edit_profile_add_a_family_member": "Thêm thành viên trong gia đình",
+    "popup_edit_profile_family_role": "Vai trò",
+    "popup_edit_profile_family_role_parent": "Cha/Mẹ",
+    "popup_edit_profile_family_role_grandparent": "Ông/Bà",
+    "popup_edit_profile_family_role_children": "Con Trai/Con Gái",
+    "popup_edit_profile_family_role_uncle_aunt": "Chú/Dì",
+    "popup_edit_profile_family_role_cousin": "Anh/Em họ",
+
+    "popup_edit_profile_relationships": "Mối quan hệ",
+    "popup_edit_profile_add_relationships": "Thêm mối quan hệ",
+    "popup_edit_profile_add_relationships_single": "Độc thân",
+    "popup_edit_profile_add_relationships_get_married": "Kết hôn",
+    "popup_edit_profile_add_relationships_in_a_relationship": "Đang trong mối quan hệ",
+    "popup_edit_profile_add_relationships_divorced": "Ly hôn",
+    "popup_edit_profile_add_relationships_widow": "Góa phụ",
+
+    
+    "popup_edit_profile_delete_your_account": "Xóa tài khoản cá nhân",
+    "popup_edit_profile_delete_text": "Xóa",
+    "popup_edit_profile_confirm_delete_title": "Xác nhận xóa tài khoản",
+    "popup_edit_profile_back_text": "Quay lại"
+}

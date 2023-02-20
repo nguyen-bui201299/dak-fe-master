@@ -1,0 +1,190 @@
+.button-Group {
+    display: flex;
+    margin-top: -10px;
+    margin-left: 1px;
+}
+
+.button-Group button {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.group_invite_btn {
+    width: 120px;
+    height: 35px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    max-height: 35px;
+    border-radius: 26px;
+    color: #000;
+    background-color: var(--main-color);
+    transition : all .2s ease-in-out 0s;
+    border: none;
+}
+
+.group_invite_btn:hover {
+    box-shadow: 0 0px 6px 1px #faea9d79;
+    background-color: #faea9d;
+}
+
+
+.group_create_post{
+    width: 120px;
+    height: 35px;
+    color: #000;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    max-height: 35px;
+    border-radius: 26px;
+    margin-right: 15px;
+    background-color: var(--main-color);
+    transition : all .2s ease-in-out 0s;
+    border: none;
+}
+
+.group_create_post:hover {
+    box-shadow: 0 0px 6px 1px #faea9d79;
+    background-color: #faea9d;
+}
+
+.group_join_btn {
+    width: 120px;
+    height: 35px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    max-height: 35px;
+    border-radius: 26px;
+    background-color: var(--main-color);
+    transition : all .2s ease-in-out 0s;
+    border: none;
+}
+
+.group_join_btn:hover {
+    box-shadow: 0 0px 6px 0px #faea9d79;
+    background-color: #faea9d;
+}
+
+.button-Group button:active {
+    background-color: #f9ca24 !important;
+}
+
+.button-Group .button-join {
+    width: 100%;
+    margin-left: 15px;
+}
+
+.group_joined_btn {
+    box-shadow: 0 0px 6px 0px #faea9d79;
+    background-color: #faea9d;
+}
+
+.button-join .buttonTrue {
+    display: none;
+}
+
+.button-inGroup {
+    display: flex;
+}
+
+/* Popup Grant permission */
+.overlayPopup {
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.containerPopup {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 400px;
+    background: #000;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+}
+
+.iconPopup {
+    position: absolute;
+    top: 10px;
+    right: 10px; 
+    color: #fff;
+    font-size: 1.4rem;   
+    cursor: pointer;
+}
+
+.titlePopup {
+    color: #fff;
+}
+
+.listOtherMember {
+    display: flex;
+    flex-direction: column;
+}
+
+.eachMember {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+}
+
+.eachMember > label {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+
+.grantPermission {
+    width: 100%;
+    text-align: -webkit-center;
+    cursor: pointer;
+}
+
+.grantPermission > button {
+    height: 50px;
+    background: var(--main-color);
+    color: #000;
+    border: none;
+    border-radius: 10px;
+    transition: 0.3s ease;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.grantPermission > button:hover {
+    background: rgb(88, 87, 87);
+    color: #fff;
+}
+
+@media only screen and (max-width: 650px) {
+    .button-Group {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .button-Group button{
+        max-width: 100px;
+        height: 30px;
+    }
+    .button-Group .group_create_post {
+        margin: 0
+    }
+    .group_create_post, .group_invite_btn, .group_join_btn {
+        font-size: 12px;
+    }
+    .button-Group div{
+        margin-left: 0;
+    }
+    .button-Group .button-join {
+        margin-left: -1px;
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "popup_link_social_title": "Link Social",
+    "popup_link_social_input_link": "Dán link vào đây...",
+    "popup_link_social_foundation": "Nền tảng",
+    "popup_link_social_choose_foundation": "Lựa chọn nền tảng",
+    "popup_link_social_invalid_link": "Đường dẫn không hợp lệ",
+    "popup_link_social_verify_heading": "Mã xác minh được gửi đến email",
+    "popup_link_social_resend_title": "Bạn chưa nhận được mã?",
+    "popup_link_social_resend": "Gửi lại",
+    "popup_link_social_verify_btn": "Xác nhận",
+    "popup_link_social_not_support": "Nền tảng chưa được hỗ trợ",
+    "popup_link_social_connect_link": "Hãy nhập link liên kết",
+
+    "popup_confirm_delete_success": "Xóa liên kết mạng xã hội thành công",
+    "popup_confirm_delete_error": "Xóa liên kết mạng xã hội thất bại",
+    "popup_confirm_delete_header": "Thông báo",
+    "popup_confirm_delete_asking": "Bạn có chắc muốn xóa",
+    "popup_confirm_delete_yes_btn": "Có",
+    "popup_confirm_delete_no_btn": "Không",
+    "popup_link_social_save": "Lưu",
+    "popup_link_social_next": "Tiếp tục",
+    "popup_link_social_success": "Thêm link social thành công",
+    "popup_link_social_fail": "Thêm link social thất bại"
+}

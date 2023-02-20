@@ -1,0 +1,28 @@
+{
+    "profile_post": "Bài viết",
+    "profile_library": "Thư viện",
+    "profile_statistical": "Thống kê",
+    "profile_edit": "Chỉnh sửa",
+    "profile_create_news": "Tạo tin",
+    "profile_create_post": "Tạo bài viết",
+    "profile_followers": "Người theo dõi",
+    "profile_following": "Đang theo dõi",
+    "profile_delete_post_success": "Xóa thành công",
+    "profile_delete_post_fail": "Xóa không thành công",
+    "profile_get_post_fail": "Nhận bài viết không thành công",
+    "profile_watch_avatar": "Xem ảnh đại diện",
+    "profile_update_avatar": "Cập nhật ảnh đại diện",
+
+    "profile_library_create_album": "Tạo album",
+    "profile_library_back_btn": "Quay lại",
+    "profile_library_next_btn": "Tiếp theo",
+    "proifle_library_delete_post_library_success": "Xóa thành công",
+
+    "profile_statistic_activities_24h": "Hoạt động trong 24 giờ",
+    "profile_statistic_points": "Điểm",
+    "profile_statistic_activities_chart": "Biểu đồ hoạt động",
+    "profile_statistic_activities_posts": "Hoạt động từ bài đăng của bạn",
+    "profile_statistic_most_views": "Bài viết nổi bật",
+    "profile_statistic_individual_posts": "Bài đăng cá nhân",
+    "profile_statistic_achieved_points": "Tổng số điểm đạt được"
+}

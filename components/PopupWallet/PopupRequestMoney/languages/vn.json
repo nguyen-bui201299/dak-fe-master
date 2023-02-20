@@ -1,0 +1,23 @@
+{
+    "popup_request_money_title": "Yêu cầu nhận tiền",
+    "popup_request_amount_to_receive": "Số tiền cần nhận",
+    "popup_request_sender_wallet_address": "Địa chỉ",
+    "popup_request_sender_wallet_address_placeholder": "Địa chỉ ví người gửi",
+
+    "popup_request_amount_to_transfer": "Số tiền cần chuyển",
+    "popup_request_confirm_sending_request": "Xác nhận yêu cầu gửi yêu cầu",
+    "popup_request_money_senders_name": "Tên người gửi",
+    "popup_request_money_content": "Nội dung",
+    "popup_request_money_content_placeholder": "Nội dung...",
+
+    "popup_request_money_warning_address": "Bạn đã nhập sai địa chỉ ví!",
+    "popup_request_money_success_transfers": "Gửi yêu cầu thành công",
+
+    "popup_request_money_button_next": "Tiếp theo",
+    "popup_request_money_confirm": "Xác nhận",
+
+    "popup_request_amount_errorSenderAddress": "Vui lòng nhập địa chỉ người nhận",
+    "popup_request_amount_errorAmount": "Vui lòng nhập số tiền",
+    "popup_request_money_warning_note": "Ký tự không hợp lệ",
+    "popup_request_amount_requestSuccess": "Yêu cầu thành công"
+}

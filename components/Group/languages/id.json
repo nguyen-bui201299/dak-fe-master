@@ -1,0 +1,35 @@
+{
+    "main_content_recommend": "Merekomendasikan untuk Anda",
+    "main_content_recommend_group": "Rekomendasikan grup untuk Anda",
+    "main_content_view_recommend": "Lihat semua rekomendasi",
+    "main_content_your_groups": "Grup Anda",
+    "main_content_your_joined_groups": "Grup yang Anda ikuti",
+    "main_content_view_your_joined_groups": "Lihat semua grup yang Anda ikuti",
+    "main_content_back_btn": "Kembali",
+    "main_content_create_group_btn": "Membuat grup",
+
+    "list_group_recommend": "Merekomendasikan",
+    "list_group_recommend_groups": "Rekomendasikan grup untuk Anda",
+    "list_group_search_placeholder": "Temukan grup...",
+    "list_group_history_search": "Sejarah",
+    "list_group_your_groups": "Grup Anda",
+    "list_group_your_joined_groups": "Grup yang Anda ikuti",
+    "list_group_no_result" : "Tidak ada hasil",
+    "list_group_looking_result" : "Hasil Pencarian",
+    "list_group_all" : "Semua",
+    "list_group_admin" : "Mengelola",
+
+    "child_pictures_group_member": "Anggota",
+
+    "introduce_public_group": "Grup publik",
+    "introduce_private_group": "Grup pribadi",
+    "introduce_visible": "Terlihat",
+    "introduce_everyone_can_see": "Semua orang dapat melihat konten yang ditampilkan dalam grup",
+    "introduce_noone_can_see": "Tidak ada yang dapat melihat konten yang ditampilkan dalam grup",
+    "introduce_everyone_can_find": "Semua orang dapat menemukan grup",
+    "introduce_created_at": "Tanggal pendirian",
+    "introduce_created_from": "Dibuat dari",
+    "introduce_new_members": "1.000.000 anggota",
+    "introduce_compare_last_week": "bandingkan dengan minggu lalu",
+    "introduce_read_more": "lihat lebih banyak"
+}

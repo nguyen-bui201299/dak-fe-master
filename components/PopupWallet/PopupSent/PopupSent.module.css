@@ -1,0 +1,93 @@
+.sender {
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+
+.avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    margin: auto 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    flex: 1;
+}
+
+.sender-info {
+    display: flex;
+}
+
+.sender-name {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+    /* color: var(--main-color); */
+  }
+
+.send-date-status {
+    display: flex;
+    justify-self: space-between;
+    flex: 1;
+}
+
+.send-date {
+    opacity: 0.8;
+    display: flex;
+    /* justify-content: space-between; */
+    margin-left: 5px;
+    margin-top: 5px;
+    font-size: 10px;
+    left: 0;
+    flex: 1;
+}
+
+.send-date div br {
+    display: none;
+}
+
+.send-status {
+    margin-right: 10px;
+}
+
+.send-status::first-letter {
+    text-transform: uppercase;
+}
+
+.accepted-status {
+    color: var(--main-color)
+}
+
+.deny-status {
+    opacity: 0.8;
+}
+
+.request-status {}
+
+.request-accept-btn {
+    background-color: var(--main-color);
+    color: #383333;
+    font-weight: 600;
+    line-height: 24px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.send-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.send-point {
+    margin-right: 10px;
+}
+
+.send-point span {
+    color: var(--main-color)
+}

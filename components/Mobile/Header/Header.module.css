@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+
+.logo {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--main-color);
+}
+
+.features {
+
+}
+
+.listFeatures {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+}
+
+.ItemFeature {
+    color: var(--text-color);
+    padding: 3px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

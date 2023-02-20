@@ -1,0 +1,39 @@
+.history {
+    width: 90%;
+    height: 1000px;
+    position: relative;
+    background: #DDD;
+    padding: 18px;
+    margin: 0 auto;
+    box-shadow: 0 2px 8px rgba(0,0,0,.3);
+    border-radius: 10px;
+    background-color: var(--white-color);
+}
+
+
+.history h2 {
+    color: var(--text-color);
+}
+
+.pills_content {
+    margin-right: 27px;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: var(--text-color);
+}
+
+.pills_content li {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+@media only screen and (min-width: 960px) {
+    
+}
+
+@media only screen and (min-width: 1440px) {
+
+}

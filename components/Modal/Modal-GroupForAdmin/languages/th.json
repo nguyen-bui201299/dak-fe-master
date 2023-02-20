@@ -1,0 +1,47 @@
+{
+    "censorship_censor": "เซ็นเซอร์",
+
+    "change_role_title": "เปลี่ยนบทบาท",
+    "change_role_admin": "แอดมิน",
+    "change_role_censor": "เซ็นเซอร์",
+    "change_role_member": "สมาชิก",
+    "change_role_change_btn": "เปลี่ยน",
+
+    "modal_edit_edit_information": "แก้ไขข้อมูล",
+    "modal_edit_group_name": "ชื่อกลุ่ม",
+    "modal_edit_input_group_name": "ใส่ชื่อกลุ่มที่นี่...",
+    "modal_edit_privacy": "ความเป็นส่วนตัว",
+    "modal_edit_global_group": "กลุ่มสาธารณะ",
+    "modal_edit_private_group": "กลุ่มส่วนตัว",
+    "modal_edit_save_btn": "บันทึก",
+
+    "popup_edit_group_image_success": "เปลี่ยนภาพสำเร็จ",
+    "popup_edit_group_update_information_success": "อัพเดทข้อมูลสำเร็จ",
+    "popup_edit_group_edit_group_information": "แก้ไขข้อมูลกลุ่ม",
+    "popup_edit_group_avatar": "สัญลักษณ์",
+    "popup_edit_group_edit": "แก้ไข",
+    "popup_edit_group_background": "พื้นหลัง",
+    "popup_edit_group_info_group": "กลุ่มข้อมูล",
+    "popup_edit_group_public_group": "กลุ่มสาธารณะ",
+    "popup_edit_group_private_group": "กลุ่มส่วนตัว",
+    "popup_edit_group_select_image": "เลือกรูปภาพ",
+    "popup_edit_group_no_gif" : "ไม่รองรับแอนิเมชั่น",
+    "popup_edit_group_update_avatar": "อัปเดตอวาตาร์สำหรับกลุ่ม",
+    "popup_edit_group_save_btn": "บันทึก",
+    "popup_edit_group_update_cover_photo": "อัพเดทรูปภาพหน้าปก",
+    "popup_edit_group_group_name": "ชื่อกลุ่ม",
+    "popup_edit_group_input_group_name": "ใส่ชื่อกลุ่ม...",
+    "popup_edit_group_group_access": "การเข้าถึงแบบกลุ่ม",
+    "popup_edit_group_intro_group": "แนะนำกลุ่ม...",
+    "popup_edit_bg_group": "ภาพหน้าปก",
+
+    "kick_member_ban": "แบนสมาชิก",
+    "kick_member_asking": "คุณแน่ใจหรือว่าแบนสมาชิกรายนี้",
+    "kick_member_yes_btn": "ใช่",
+    "kick_member_cancel_btn": "ไม่",
+
+    "ban_member": "แบนสมาชิก",
+    "ban_member_asking": "คุณแน่ใจหรือที่จะแบนผู้ใช้รายนี้",
+    "unban_member": "เลิกแบนสมาชิก",
+    "unban_member_asking": "คุณแน่ใจหรือไม่ที่จะเลิกบล็อกผู้ใช้รายนี้"
+}

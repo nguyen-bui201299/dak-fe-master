@@ -1,0 +1,13 @@
+{
+    "changePassword": "पासवर्ड बदलें",
+    "oldPassword": "वर्तमान पासवर्ड",
+    "newPassword": "नया पासवर्ड",
+    "verifyPassword": "नया पासवर्ड दर्ज करें",
+
+    "changePassword_success": "पासवर्ड बदलें सफलता",
+    "changePassword_error": "पासवर्ड गलत है",
+    "changePassword_requirement": "पासवर्ड में विशेष अपरकेस, लोअरकेस अक्षर, संख्याएं और वर्ण होने चाहिए",
+    "changePassword_number_requirement": "पासवर्ड 8 अक्षर या उससे अधिक का होना चाहिए",
+    "changePassword_reconfirm_error": "गलत पासवर्ड की पुन: पुष्टि करें",
+    "changePassword_not_allow_null": "पासवर्ड खाली नहीं हो सकता"
+}

@@ -1,0 +1,286 @@
+.profile__post__item {
+    background-color: var(--box-background-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px, rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px, rgb(5 1 5 / 4%) 20px 20px 20px;
+    margin-bottom: 10px;
+    padding: 12px 0px;
+}
+
+.profile__post__heading {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: flex-start;
+    padding: 0px 12px;
+}
+
+.profile__post__avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.profile__post__avatar img {
+  width: 99%;
+  height: 99%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.profile__post__info {
+    flex: 1;
+    margin-left: 12px;
+}
+
+.profile__post__info h2 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    color: var(--main-text);
+}
+
+.profile__post__info h2 > span {
+    font-weight: 400;
+    margin-left: 4px;
+    color: var(--sub-title-color);
+}
+
+.profile__post__info p {
+    margin: 2px 0;
+    font-size: 14px;
+    color: var(--main-text);
+    font-weight: 500;
+}
+
+.profile__post__heading > span {
+    font-size: 14px;
+    letter-spacing: 4px;
+    cursor: pointer;
+}
+
+.iconThreeDots {
+  color: var(--text-color);
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.profile__post__main {
+    margin-top: 20px;
+}
+
+.profile__post__content {
+    /* background-color: #747272; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 106%; */
+    width: 100%;
+}
+
+.profile__post__content iframe {
+  width: 100%;
+  height: 400px;
+  min-width: none !important;
+}
+
+.profile__post__content__captions{
+  width: 100%;
+  padding: 0px 12px;
+  font-size: 16px;
+  color: var(--main-text);
+  font-weight: 450;
+  /* margin: 0; */
+}
+
+.profile__post__instagram iframe {
+    height: 720px;
+    min-width: 0 !important;
+}
+
+.profile__post__instagram {
+    width: 100%;
+}
+
+.profile__post__content div {
+    width: 100%;
+    height: 100%;
+}
+
+.profile__post__content div .twitter-tweet {
+    width: 100% !important;
+}
+
+.iframe__youtube {
+    width: 100%;
+    height: 100%;
+} 
+
+.hover__time__date {
+    display: flex;
+}
+
+.day__time {
+    background: var(--box-hover-background-color);
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 8px;
+    /* display: block; */
+    position: absolute;
+    margin-left: -63px;
+    margin-top: 26px;
+    z-index: 1;
+    color: var(--main-text);
+}
+
+.public__private {
+    background: var(--box-hover-background-color);
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 8px;
+    /* display: block; */
+    position: absolute;
+    margin-left: 85px;
+    margin-top: 25px;
+    z-index: 1;
+    color: var(--main-text);
+}
+
+.global__private {
+    color: var(--global-private);
+    font-size: 15px;
+    margin-top: 7px;
+    margin-left: 6px;
+}
+
+@media only screen and (max-width: 414px) {
+    .profile__post__instagram iframe {
+        height: 560px;
+    }
+    .profile__post__instagram {
+        margin-left: -12px;
+    }
+}
+
+.profile__user__post {
+  background-color: var(--bg-post);
+  overflow: hidden;
+  border-radius: var(--box-borderRadius-size);
+  padding: 12px 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.profile__user__post__top {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile__user__avatar {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 12px;
+}
+
+.profile__user__input {
+  flex: 1;
+  font-size: 16px;
+  line-height: 28px;
+  border: none;
+  outline: none;
+  padding: 8px 12px;
+  border-radius: var(--box-borderRadius-size);
+  color: #747272;
+  resize: none;
+  height: 50px;
+}
+
+.profile__user__input::placeholder {
+  color: #747272;
+  opacity: 0.8;
+}
+
+.profile__user__post__top > i {
+  font-size: 18px;
+  margin: 12px;
+  background-color: #e4e4e4;
+  padding: 16px 14px;
+  border-radius: 50%;
+  color: #383333;
+  cursor: pointer;
+}
+
+.profile__user__post__bottom {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 12px;
+  margin-right: 70px;
+}
+
+.profile__category__list {
+  font-size: 16px;
+  line-height: 28px;
+  background-color: transparent;
+  border-radius: var(--box-borderRadius-size);
+  padding: 12px;
+  border: 1px solid #ccc;
+  outline: none;
+  font-weight: 500;
+  cursor: pointer;
+  color: var(--main-text);
+}
+
+.profile__category__list:hover {
+  background-color: #e5e5e5;
+  color: #383333;
+  transition: all ease 0.4s;
+}
+
+.profile__user__private {
+  background-color: transparent;
+  padding: 12px 34px;
+  border-radius: var(--box-borderRadius-size);
+  font-size: 16px;
+  color: var(--main-text);
+  margin: 0 24px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+}
+
+.profile__user__private:hover {
+  background-color: #e5e5e5;
+  color: #383333;
+  transition: all ease 0.4s;
+}
+
+.profile__user__private > i {
+  font-size: 18px;
+  margin-right: 12px;
+  color: red;
+}
+
+.profile__user__btn {
+  font-size: 16px;
+  padding: 12px 56px;
+  border-radius: 40px;
+  border: none;
+  outline: none;
+  font-weight: 600;
+  color: #383333;
+  background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
+  cursor: pointer;
+}

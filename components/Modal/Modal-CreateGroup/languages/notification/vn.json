@@ -1,0 +1,5 @@
+{
+    "create_group_success": "Tạo nhóm thành công",
+    "create_group_fail": "Tạo nhóm thất bại",
+    "create_group_enter_name":"Bạn chưa nhập tên nhóm"
+}

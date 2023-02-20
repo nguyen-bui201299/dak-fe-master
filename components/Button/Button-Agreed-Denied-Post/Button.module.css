@@ -1,0 +1,36 @@
+.Agreed_Post {
+    margin-right: 11px;
+    width: 175px;
+    height: 32px;
+    border-radius: 5px;
+    border: none;
+    outline: 1px solid #F9D205;
+    background-color: #F9D205;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+.Agreed_Post:hover {
+    opacity: 0.7;
+    filter: alpha(opacity=100);
+    outline: none;
+}
+
+.Denied_Post {
+    margin-right: 11px;
+    width: 175px;
+    height: 32px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    outline: 1px solid #353638;
+    background-color: #353638;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+.Denied_Post:hover {
+    opacity: 0.7;
+    filter: alpha(opacity=100);
+    outline: none;
+}

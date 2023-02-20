@@ -1,0 +1,29 @@
+#fb-chat{
+  width: 100%;
+}
+#fb-chat span{
+  width: 100% !important;
+}
+#fb-chat span iframe{
+  width: 100% !important;
+}
+#tiktok-chat div{
+  width: 100% !important;
+  height: 200px !important;
+}
+#twitter-chat div div {
+  width: 100% !important;
+}
+#twitter-chat div div iframe{
+  width: 100% !important;
+  height: 200px !important;
+}
+#twitch-chat{
+  min-width: 100% !important;
+  width: 100% !important;
+}
+#instagram-chat div iframe{
+  min-width: 100% !important;
+  width: 100% !important;
+  height: 200px !important;
+}

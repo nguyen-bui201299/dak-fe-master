@@ -1,0 +1,87 @@
+{
+    "popup_edit_profile_deleteAccount_success": "Delete Account Success",
+    "popup_edit_profile_changeImg_success": "Change Image Success",
+    "popup_edit_profile_male": "Male",
+    "popup_edit_profile_female": "Female",
+    "popup_edit_profile_others": "Others",
+    "popup_edit_profile_input_fullname": "Input Full Name",
+    "popup_edit_profile_input_email": "Input Email",
+    "popup_edit_profile_input_fullname_symbol": "Invalid character",
+    "popup_edit_profile_input_fullname_length": "Name cannot exceed 30 characters",
+    "popup_edit_profile_input_bio_length": "Bio cannot exceed 100 characters",
+    "popup_edit_profile_input_empty_name": "Name cannot be empty",
+    "popup_edit_profile_input_empty_email": "Email cannot be empty",
+    "popup_edit_profile_input_empty_email_invalid": "Invalid email",
+    "popup_edit_profile_input_empty_birthday_invalid": "Invalid date of birth",
+
+    "popup_edit_profile_tile": "Customize your profile",
+    
+    "popup_edit_profile_edit_text": "Edit",
+    "popup_edit_profile_search_text": "Search",
+    "popup_edit_profile_detail_text": "Detail",
+    "popup_edit_profile_save_text": "Save",
+    "popup_edit_profile_yes_text": "Have",
+
+    "popup_edit_profile_account_is_blocked_text": "account is blocked",
+    "popup_edit_profile_account_are_blocked_text": "account are blocked",
+
+    "popup_edit_profile_avatar": "Avatar",
+    "popup_edit_no_gif": "Does not support animation",
+    "popup_edit_profile_update_avatar_img": "Update profile picture",
+    "popup_edit_profile_avatar_from_system": "Profile picture from the system",
+
+    "popup_edit_profile_background": "Background",
+    "popup_edit_profile_update_background_img": "Cover photo update",
+    "popup_edit_profile_background_from_system": "Cover photo from the system",
+
+    "popup_edit_profile_chooses_files_from_system": "Choose a photo from the system",
+    "popup_edit_profile_chooses_files_from_computer": "Select photo from computer",
+
+    "popup_edit_profile_edit_your_profile": "Edit your profile",
+    "popup_edit_profile_edit_your_profile_name": "Name",
+    "popup_edit_profile_edit_your_profile_email": "Email",
+    "popup_edit_profile_edit_your_profile_birth": "Birthday",
+    "popup_edit_profile_edit_your_profile_genger": "Genger",
+    "popup_edit_profile_edit_your_profile_genger_male": "Male",
+    "popup_edit_profile_edit_your_profile_genger_female": "Female",
+    "popup_edit_profile_edit_your_profile_genger_other": "Other",
+
+
+    "popup_edit_profile_bio": "Describe yourself",
+    "popup_edit_profile_bio_not": "No description yet",
+    "popup_edit_profile_update_bio_placeholder": "Enter a description of yourself...",
+    "popup_edit_profile_update_bio": "Update self description",
+
+    "popup_edit_profile_setting_basic": "Basic settings",
+    "popup_edit_profile_private_permissions": "Private permissions",
+    "popup_edit_profile_public": "Public",
+    "popup_edit_profile_private": "private",
+
+    "popup_edit_profile_blocked_account": "Blocked account",
+    "popup_edit_profile_selected_text": "Selected",
+    "popup_edit_profile_unblock_button_text": "Unblock",
+
+    "popup_edit_profile_family_and_relationships": "Family and relationships",
+    "popup_edit_profile_family": "Family",
+    "popup_edit_profile_add_a_family_member": "Add a family member",
+    "popup_edit_profile_family_role": "Role",
+    "popup_edit_profile_family_role_parent": "Parents",
+    "popup_edit_profile_family_role_grandparent": "Grandparent",
+    "popup_edit_profile_family_role_children": "Boy/Daughter",
+    "popup_edit_profile_family_role_uncle_aunt": "Aunt and uncle",
+    "popup_edit_profile_family_role_cousin": "Cousin",
+
+    "popup_edit_profile_relationships": "Relationship",
+    "popup_edit_profile_add_relationships": "Add relationship",
+    "popup_edit_profile_add_relationships_single": "Single",
+    "popup_edit_profile_add_relationships_get_married": "Get married",
+    "popup_edit_profile_add_relationships_in_a_relationship": "In a relationship",
+    "popup_edit_profile_add_relationships_divorced": "Divorced",
+    "popup_edit_profile_add_relationships_widow": "Widow",
+
+    
+    "popup_edit_profile_delete_your_account": "Delete your account",
+    "popup_edit_profile_delete_text": "Delete",
+    "popup_edit_profile_confirm_delete_title": "Confirm account deletion",
+    "popup_edit_profile_back_text": "Come back"
+}

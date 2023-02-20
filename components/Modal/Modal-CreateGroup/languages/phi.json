@@ -1,0 +1,23 @@
+{
+    "create_group_success": "Lumikha ng Tagumpay ng Grupo",
+    "create_group_fail": "Gumawa ng Group Fail",
+    "create_group_groupname_require": "Mangyaring Ilagay ang Pangalan ng Grupo",
+    "create_group": "Lumikha ng Bagong Grupo",
+    "create_group_cover_photo": "Larawan sa pabalat ng grupo",
+    "create_group_no_gif": "Hindi sumusuporta sa animation",
+    "create_group_optional": "Opsyonal",
+    "create_group_load_photo": "Mag-upload ng larawan mula sa iyong computer",
+    "create_group_cancel_photo": "Kanselahin ang larawan",
+    "create_group_next": "Susunod",
+    "create_group_back": "Bumalik",
+    "create_group_name": "Pangalan ng grupo",
+    "create_group_name_placeholder": "Pangalanan ang grupo dito...",
+    "create_group_about_group": "Tungkol sa grupo",
+    "create_group_about_group_placeholder": "Sumulat ng nilalaman dito ...",
+    "create_group_privacy": "Pagkapribado",
+    "create_group_public": "Pampublikong grupo",
+    "create_group_private": "Pribadong grupo",
+    "create_group_see_content": "Makikita ng lahat ang nilalaman sa grupo",
+    "create_group_not_see_content": "Walang makakakita ng nilalaman sa grupo",
+    "create_group_create_btn": "Lumikha"
+}

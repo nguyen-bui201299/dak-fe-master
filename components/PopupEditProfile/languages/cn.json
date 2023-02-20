@@ -1,0 +1,87 @@
+{
+    "popup_edit_profile_deleteAccount_success": "删除账户成功",
+    "popup_edit_profile_changeImg_success": "改变形象成功",
+    "popup_edit_profile_male": "男性",
+    "popup_edit_profile_female": "女性",
+    "popup_edit_profile_others": "其他",
+    "popup_edit_profile_input_fullname": "输入全名",
+    "popup_edit_profile_input_email": "输入电子邮件",
+    "popup_edit_profile_input_fullname_symbol": "无效字符",
+    "popup_edit_profile_input_fullname_length": "名称不能超过 30 个字符",
+    "popup_edit_profile_input_bio_length": "简历不能超过 100 个字符",
+    "popup_edit_profile_input_empty_name": "名称不能为空",
+    "popup_edit_profile_input_empty_email": "邮箱不能为空",
+    "popup_edit_profile_input_empty_email_invalid": "不合规电邮",
+    "popup_edit_profile_input_empty_birthday_invalid": "出生日期无效",
+
+    "popup_edit_profile_tile": "自定义您的个人资料",
+    
+    "popup_edit_profile_edit_text": "编辑",
+    "popup_edit_profile_search_text": "搜索",
+    "popup_edit_profile_detail_text": "细节",
+    "popup_edit_profile_save_text": "节省",
+    "popup_edit_profile_yes_text": "有",
+
+    "popup_edit_profile_account_is_blocked_text": "帐户被封锁",
+    "popup_edit_profile_account_are_blocked_text": "帐户被封锁",
+
+    "popup_edit_profile_avatar": "头像",
+    "popup_edit_no_gif": "不支持动画",
+    "popup_edit_profile_update_avatar_img": "更新个人资料图片",
+    "popup_edit_profile_avatar_from_system": "来自系统的头像",
+
+    "popup_edit_profile_background": "背景",
+    "popup_edit_profile_update_background_img": "封面照片更新",
+    "popup_edit_profile_background_from_system": "来自系统的封面照片",
+
+    "popup_edit_profile_chooses_files_from_system": "从系统中选择一张照片",
+    "popup_edit_profile_chooses_files_from_computer": "从计算机中选择照片",
+
+    "popup_edit_profile_edit_your_profile": "编辑您的个人资料",
+    "popup_edit_profile_edit_your_profile_name": "名字和姓氏",
+    "popup_edit_profile_edit_your_profile_email": "电邮",
+    "popup_edit_profile_edit_your_profile_birth": "生日",
+    "popup_edit_profile_edit_your_profile_genger": "性别",
+    "popup_edit_profile_edit_your_profile_genger_male": "男性",
+    "popup_edit_profile_edit_your_profile_genger_female": "女性",
+    "popup_edit_profile_edit_your_profile_genger_other": "其他",
+
+
+    "popup_edit_profile_bio": "描述你自己",
+    "popup_edit_profile_bio_not": "暂无说明",
+    "popup_edit_profile_update_bio_placeholder": "输入您的描述...",
+    "popup_edit_profile_update_bio": "更新自我描述",
+
+    "popup_edit_profile_setting_basic": "基本设置",
+    "popup_edit_profile_private_permissions": "私有权限",
+    "popup_edit_profile_public": "上市",
+    "popup_edit_profile_private": "私人的",
+
+    "popup_edit_profile_blocked_account": "被封锁的帐户",
+    "popup_edit_profile_selected_text": "已选中",
+    "popup_edit_profile_unblock_button_text": "解除封锁",
+
+    "popup_edit_profile_family_and_relationships": "家庭和关系",
+    "popup_edit_profile_family": "家庭",
+    "popup_edit_profile_add_a_family_member": "添加家庭成员",
+    "popup_edit_profile_family_role": "角色",
+    "popup_edit_profile_family_role_parent": "Parents",
+    "popup_edit_profile_family_role_grandparent": "祖父母",
+    "popup_edit_profile_family_role_children": "男孩/女儿",
+    "popup_edit_profile_family_role_uncle_aunt": "姑姑和叔叔",
+    "popup_edit_profile_family_role_cousin": "表哥",
+
+    "popup_edit_profile_relationships": "关系",
+    "popup_edit_profile_add_relationships": "添加关系",
+    "popup_edit_profile_add_relationships_single": "单身的",
+    "popup_edit_profile_add_relationships_get_married": "结婚了",
+    "popup_edit_profile_add_relationships_in_a_relationship": "在一个（恋爱）关系中",
+    "popup_edit_profile_add_relationships_divorced": "离婚",
+    "popup_edit_profile_add_relationships_widow": "寡妇",
+
+    
+    "popup_edit_profile_delete_your_account": "删除您的帐户",
+    "popup_edit_profile_delete_text": "删除",
+    "popup_edit_profile_confirm_delete_title": "确认帐户删除",
+    "popup_edit_profile_back_text": "回来"
+}

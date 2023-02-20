@@ -1,0 +1,32 @@
+{
+    "popupCreate_notFound": "找不到帖子",
+    "popupCreate_title": "创建招标帖",
+    "popupCreate_bidding_fee": "投标费用",
+    "popupCreate_input_bidding_fee": "输入费",
+    "popupCreate_view_fee": "查看费用",
+    "popupCreate_input_view_fee": "输入费",
+    "popupCreate_priority": "优先",
+    "popupCreate_continue_btn": "继续",
+    "popupCreate_bidding_post": "标书",
+    "popupCreate_input_URL": "输入网址",
+    "popupCreate_post_date": "发表于",
+    "popupCreate_post_by": "经过",
+    "popupCreate_accept_bidding": "接受投标",
+    "popupCreate_accept_btn": "接受",
+
+    "popupDeleted_title": "你想删除帖子吗？",
+    "popupDeleted_yes_btn": "是的",
+    "popupDeleted_no_btn": "不",
+    "popupDeleted_delete_success": "帖子已删除",
+
+    "popupEdit_title": "修改招标帖",
+    "popupEdit_bidding_fee": "投标费用",
+    "popupEdit_input_fee": "输入费",
+    "popupEdit_view_fee": "查看费用",
+    "popupEdit_priority": "优先",
+    "popupEdit_save_btn": "节省",
+    "popupEdit_success": "成功",
+
+    "popupSuccess_bidding": "标书",
+    "popupSuccess_success": "成功"
+}

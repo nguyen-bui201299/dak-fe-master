@@ -1,0 +1,87 @@
+{
+    "popup_edit_profile_deleteAccount_success": "ลบบัญชีสำเร็จ",
+    "popup_edit_profile_changeImg_success": "เปลี่ยนภาพสำเร็จ",
+    "popup_edit_profile_male": "ชาย",
+    "popup_edit_profile_female": "หญิง",
+    "popup_edit_profile_others": "คนอื่น",
+    "popup_edit_profile_input_fullname": "ใส่ชื่อเต็ม",
+    "popup_edit_profile_input_email": "ใส่อีเมล์",
+    "popup_edit_profile_input_fullname_symbol": "ตัวอักษรไม่ถูกต้อง",
+    "popup_edit_profile_input_fullname_length": "ชื่อไม่เกิน 30 ตัวอักษร",
+    "popup_edit_profile_input_bio_length": "ไบโอต้องไม่เกิน 100 ตัวอักษร",
+    "popup_edit_profile_input_empty_name": "ชื่อไม่สามารถเว้นว่างได้",
+    "popup_edit_profile_input_empty_email": "อีเมลต้องไม่เว้นว่าง",
+    "popup_edit_profile_input_empty_email_invalid": "อีเมลไม่ถูกต้อง",
+    "popup_edit_profile_input_empty_birthday_invalid": "วันเดือนปีเกิดไม่ถูกต้อง",
+    
+    "popup_edit_profile_tile": "ปรับแต่งโปรไฟล์ของคุณ",
+    
+    "popup_edit_profile_edit_text": "แก้ไข",
+    "popup_edit_profile_search_text": "ค้นหา",
+    "popup_edit_profile_detail_text": "รายละเอียด",
+    "popup_edit_profile_save_text": "บันทึก",
+    "popup_edit_profile_yes_text": "มี",
+
+    "popup_edit_profile_account_is_blocked_text": "บัญชีถูกบล็อก",
+    "popup_edit_profile_account_are_blocked_text": "บัญชีถูกบล็อก",
+
+    "popup_edit_profile_avatar": "สัญลักษณ์",
+    "popup_edit_no_gif": "ไม่รองรับแอนิเมชั่น",
+    "popup_edit_profile_update_avatar_img": "อัพเดทรูปโปรไฟล์",
+    "popup_edit_profile_avatar_from_system": "รูปโปรไฟล์จากระบบ",
+
+    "popup_edit_profile_background": "พื้นหลัง",
+    "popup_edit_profile_update_background_img": "อัพเดตรูปภาพหน้าปก",
+    "popup_edit_profile_background_from_system": "ภาพปกจากระบบ",
+
+    "popup_edit_profile_chooses_files_from_system": "เลือกรูปภาพจากระบบ",
+    "popup_edit_profile_chooses_files_from_computer": "เลือกรูปภาพจากคอมพิวเตอร์",
+
+    "popup_edit_profile_edit_your_profile": "แก้ไขโปรไฟล์ของคุณ",
+    "popup_edit_profile_edit_your_profile_name": "ชื่อและนามสกุล",
+    "popup_edit_profile_edit_your_profile_email": "อีเมล",
+    "popup_edit_profile_edit_your_profile_birth": "วันเกิด",
+    "popup_edit_profile_edit_your_profile_genger": "เพศ",
+    "popup_edit_profile_edit_your_profile_genger_male": "ชาย",
+    "popup_edit_profile_edit_your_profile_genger_female": "หญิง",
+    "popup_edit_profile_edit_your_profile_genger_other": "อื่น",
+
+
+    "popup_edit_profile_bio": "บรรยายตัวเอง",
+    "popup_edit_profile_bio_not": "ยังไม่มีคำอธิบาย",
+    "popup_edit_profile_update_bio_placeholder": "ใส่คำอธิบายเกี่ยวกับตัวคุณ...",
+    "popup_edit_profile_update_bio": "อัปเดตคำอธิบายตนเอง",
+
+    "popup_edit_profile_setting_basic": "การตั้งค่าพื้นฐาน",
+    "popup_edit_profile_private_permissions": "สิทธิ์ส่วนตัว",
+    "popup_edit_profile_public": "สาธารณะ",
+    "popup_edit_profile_private": "ส่วนตัว",
+
+    "popup_edit_profile_blocked_account": "บัญชีที่ถูกบล็อก",
+    "popup_edit_profile_selected_text": "เลือกแล้ว",
+    "popup_edit_profile_unblock_button_text": "เลิกบล็อก",
+
+    "popup_edit_profile_family_and_relationships": "ครอบครัวและความสัมพันธ์",
+    "popup_edit_profile_family": "ตระกูล",
+    "popup_edit_profile_add_a_family_member": "เพิ่มสมาชิกในครอบครัว",
+    "popup_edit_profile_family_role": "บทบาท",
+    "popup_edit_profile_family_role_parent": "ผู้ปกครอง",
+    "popup_edit_profile_family_role_grandparent": "ปู่ย่าตายาย",
+    "popup_edit_profile_family_role_children": "ลูกชายลูกสาว",
+    "popup_edit_profile_family_role_uncle_aunt": "ป้าและลุง",
+    "popup_edit_profile_family_role_cousin": "ลูกพี่ลูกน้อง",
+
+    "popup_edit_profile_relationships": "ความสัมพันธ์",
+    "popup_edit_profile_add_relationships": "เพิ่มความสัมพันธ์",
+    "popup_edit_profile_add_relationships_single": "เดี่ยว",
+    "popup_edit_profile_add_relationships_get_married": "ได้แต่งงาน",
+    "popup_edit_profile_add_relationships_in_a_relationship": "มีความสัมพันธ์",
+    "popup_edit_profile_add_relationships_divorced": "หย่าร้าง",
+    "popup_edit_profile_add_relationships_widow": "แม่หม้าย",
+
+    
+    "popup_edit_profile_delete_your_account": "ลบบัญชีของคุณ",
+    "popup_edit_profile_delete_text": "ลบ",
+    "popup_edit_profile_confirm_delete_title": "ยืนยันการลบบัญชี",
+    "popup_edit_profile_back_text": "กลับมา"
+}

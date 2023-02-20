@@ -1,0 +1,13 @@
+{
+    "changePassword": "Change Password",
+    "oldPassword": "Current Password",
+    "newPassword": "New Password",
+    "verifyPassword": "Enter New Password",
+
+    "changePassword_success": "Change Password Success",
+    "changePassword_error": "Password Is Incorrect",
+    "changePassword_requirement": "Password must contain special uppercase, lowercase letters, numbers and characters",
+    "changePassword_number_requirement": "Password must be 8 characters or more",
+    "changePassword_reconfirm_error": "Reconfirm incorrect password",
+    "changePassword_not_allow_null": "Password can not be blank"
+}

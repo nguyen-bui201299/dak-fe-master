@@ -1,0 +1,28 @@
+{
+    "like": "को यह पसंद है",
+    "vote": "वोट",
+    "comment": "टिप्पणियाँ",
+    "share": "शेयरों",
+    "read_more": "अधिक पढ़ें",
+    "tag_user": "अन्य लोग",
+
+    "public": "जनता",
+    "private": "निजी",
+    "post": "नई पोस्ट अपडेट करें",
+    "post_update_post": "अद्यतन",
+
+    "votesuccess": "वोट सफल",
+    "votefail": "वोट विफल",
+    "unvote": "मतदान रद्द नहीं किया जा सकता",
+    
+    "deleteSuccess": "सफल हटाएं",
+    "deleteFail": "विफल हटाएं",
+
+    "comment_input_comment": "इनपुट टिप्पणी",
+    "comment_reply": "जवाब",
+    "comment_stop_edit": "बंद करो संपादित करें",
+    "comment_edit": "संपादन करना",
+    "comment_delete": "मिटाना",
+    "comment_more_comments": "अधिक टिप्पणियाँ",
+    "comment_loading": "लोड हो रहा है"
+}

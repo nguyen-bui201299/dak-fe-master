@@ -1,0 +1,17 @@
+.profile__post__instagram {
+    /* height: 50vh; */
+}
+.embed div:global(.rsme-spinner){
+   width: 24px !important;
+   height: 24px !important;
+   right: 4% ;
+   top: 4% ;
+   position: absolute ;
+}
+.embed iframe:global(.instagram-media){
+    max-width: calc(100% - 70% - 2.5rem) !important;
+    
+}
+.embed iframe:global(.instagram-media-rendered){
+    max-width: 100% !important;
+}

@@ -1,0 +1,57 @@
+.editor {
+    box-sizing: border-box;
+    cursor: text;
+    border-radius: 2px;
+    margin-bottom: 2em;
+    /* box-shadow: inset 0px 1px 8px -3px #ABABAB; */
+    color: var(--text-color);
+    font-size: 15px;
+    font-weight: 300;
+  }
+  
+  .editor :global(.public-DraftEditor-content) {
+    min-height: 140px;
+  }
+
+@media (max-device-height: 414px) { 
+    .editor {
+      margin-bottom: -4.7em;
+    }
+}
+
+@media(min-width: 321px) and (max-width: 540px) {
+    .editor {
+      font-size: 14px;
+      letter-spacing: 0.5px;
+    }
+}
+
+@media(min-width: 541px) and (max-width: 720px) {
+    .editor {
+      letter-spacing: 0.5px;
+    }
+}
+
+@media(min-width: 721px) and (max-width: 960px) {
+    .editor {
+      letter-spacing: 0.5px;
+    }
+}
+
+@media(min-width: 961px) and (max-width: 1200px) {
+    .editor {
+      letter-spacing: 0.5px;
+    }
+}
+
+@media(min-width: 1201px) and (max-width: 1500px) {
+    .editor {
+      letter-spacing: 0.5px;
+    }
+}
+
+@media(min-width: 1501px) and (max-width: 1920px) {
+    .editor {
+      letter-spacing: 0.5px;
+    }
+}

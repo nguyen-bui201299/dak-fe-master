@@ -1,0 +1,8 @@
+{
+    "popup_verify_verify_account": "Xác thực tài khoản",
+    "popup_verify_verify_code": "Mã xác minh được gửi đến email",
+    "popup_verify_resend_ask": "Bạn chưa nhận được mã xác minh?",
+    "popup_verify_resend": "Gửi lại",
+    "popup_verify_btn": "Xác thực"
+
+}

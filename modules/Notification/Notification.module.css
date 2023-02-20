@@ -1,0 +1,21 @@
+
+/* Lottery Section */
+.swal_buy_lottery_success_popup {
+    background-color: var(--white-color) !important;
+    border-radius: 10px !important;
+}
+
+.swal_container_popup {
+    background-color: var(--white-color) !important;
+    border-radius: 10px !important;
+}
+
+.swal_title_popup {
+    color: rgb(255, 208, 0) !important;
+    font-size: 18px !important;
+}
+
+.swal_icon_warning {
+    color: rgb(255, 230, 0) !important;
+    border: 3px solid rgb(255, 230, 0) !important;
+}

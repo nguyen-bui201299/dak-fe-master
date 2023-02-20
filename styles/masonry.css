@@ -1,0 +1,32 @@
+.my_masonry_grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10px, 0.5fr));
+    grid-auto-rows: minmax(5vh, 14vh);
+    grid-auto-flow: dense;
+    grid-gap: 10px;
+}
+.my-masonry-grid {
+    display: -webkit-box; /* Not needed if autoprefixing */
+    display: -ms-flexbox; /* Not needed if autoprefixing */
+    display: flex;
+    margin-left: 0px; /* gutter size offset */
+    width: auto;
+    min-height: 50vh;
+  }
+.my-masonry-grid_column {
+padding-left: 10px; /* gutter size */
+background-clip: padding-box;
+}
+
+.my_masonry_grid_column{
+    float: left;
+    padding: 0 6px;
+}
+
+@media screen and (max-width: 1120px) {
+    .my_masonry_grid_column{
+        float: none;
+        width: 100% !important;
+        padding: 0 10px;
+    }
+}

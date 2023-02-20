@@ -1,0 +1,26 @@
+{
+    "createAlbum_title": "Lumikha ng Album",
+    "createAlbum_settings": "Mga setting",
+    "createAlbum_album_name": "Pangalan ng Album",
+    "createAlbum_upload_images_videos": "Mag-upload ng mga larawan",
+    "createAlbum_upload_btn": "Mag-upload",
+    "createAlbum_no_gif": "Hindi sumusuporta sa animation",
+    "createAlbum_no_avatar": "Pumili ng larawan para sa iyong album",
+    "createAlbum_success": "Matagumpay na lumikha ng album",
+    "createAlbum_same_name": "Mayroon nang album na ito",
+
+    "albumEdit_success": "I-edit ang Tagumpay",
+    "albumEdit_title": "I-edit",
+    "albumEdit_settings": "Mga setting",
+    "albumEdit_albumName": "Pangalan ng Album",
+    "albumEdit_submit_btn": "I-save",
+
+    "delAlbum_success": "Tanggalin ang Tagumpay",
+    "delAlbum_doYouWant": "Gusto mo",
+    "delAlbum_del": "tanggalin",
+    "delAlbum_thisAlbum": "ang album na ito",
+    "delAlbum_yes_btn": "Oo",
+    "delAlbum_close_btn": "Hindi",
+
+    "delAlbumSuccess_success": "Tanggalin ang Tagumpay"
+}

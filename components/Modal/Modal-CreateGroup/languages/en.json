@@ -1,0 +1,23 @@
+{
+    "create_group_success": "Create Group Success",
+    "create_group_fail": "Create Group Fail",
+    "create_group_groupname_require": "Please Input Group Name",
+    "create_group": "Create New Group",
+    "create_group_cover_photo": "Group cover photo",
+    "create_group_no_gif": "Does not support animation",
+    "create_group_optional": "Optional",
+    "create_group_load_photo": "Upload photo from your computer",
+    "create_group_cancel_photo": "Cancel photo",
+    "create_group_next": "Next",
+    "create_group_back": "Back",
+    "create_group_name": "Group name",
+    "create_group_name_placeholder": "Name the group here...",
+    "create_group_about_group": "About the group",
+    "create_group_about_group_placeholder": "Write content here ...",
+    "create_group_privacy": "Privacy",
+    "create_group_public": "Public group",
+    "create_group_private": "Private group",
+    "create_group_see_content": "Everyone can see the content in the group",
+    "create_group_not_see_content": "No one can see the content in the group",
+    "create_group_create_btn": "Create"
+}

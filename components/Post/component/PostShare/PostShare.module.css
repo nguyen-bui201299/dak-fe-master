@@ -1,0 +1,111 @@
+.profile__post_share__item {
+    background-color: var(--box-background-color);
+    border-radius: var(--box-borderRadius-size);
+    margin-bottom: 20px;
+    padding: 12px 0px;
+    display: inline-block;
+    width: 90% !important;
+
+    margin: 0 22px;
+    color: var(--main-text);
+    clear: auto;
+    border: 1px solid white;
+}
+
+.profile__post_share__item_info {
+    border-left: 1px solid;
+    padding: 8px;
+    margin-left: 24px;
+}
+
+.profile__post_share__item_img{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    padding: 8px 18px;
+
+}
+
+.profile__post_share__item_img > img {
+    object-fit: cover;
+    width:100%;
+}
+
+.profile__post_share__heading {
+    /* display: flex; */
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: flex-start;
+    /* padding: 0px 12px;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    background: white;
+    padding: 14px; */
+}
+
+.profile__post_share__infoheading {
+    display: flex;
+    height: 20px;
+}
+
+.profile__post_share__infoheading > h2 {
+    font-size: 14px;
+    margin-left: 10px;
+    margin: 0;
+}
+
+/* .profile__post_share__infoheading > p {
+    margin: 0;
+} */
+
+.profile__post_share__global {
+    border-radius: 10px;
+    display: flex;
+    padding: 0 5px;
+    align-items: center;
+    margin-left: 20px;
+    width: unset !important;
+    background: #ccc;
+}
+
+.public__private_postshare {
+    background: var(--box-hover-background-color);
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 8px;
+    /* display: block; */
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 25px;
+    z-index: 1;
+    color: var(--main-text);
+}
+
+.global__private_postshare {
+    color: var(--global-private);
+    font-size: 18px;
+    padding: 2px;
+}
+
+.time__post_share {
+    background: var(--box-hover-background-color);
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 6px;
+    /* display: block; */
+    position: absolute;
+    margin-left: 140px;
+    margin-top: -10px;
+
+    z-index: 1;
+    color: var(--main-text);
+}
+
+.profile__post_share__text {
+    color: #746E6E;
+    width: 100%;
+}

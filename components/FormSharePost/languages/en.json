@@ -1,0 +1,14 @@
+{
+    "form_create_post_title1": "Share",
+    "form_create_post_title2": "Tag friends",
+    "form_create_post_title3": "Change privacy",
+    "form_create_post_title4": "Send to friends",
+    "form_create_post_link_content": "Paste the article link here",
+    "form_create_post_button_name": "Share",
+    "form_create_post_public": "Public",
+    "form_create_post_privicy": "Only me",
+    "form_create_post_search_placeholder": "Looking for friends ...",
+    "form_create_post_noti_success": "Share is successfully",
+    "form_create_post_tags_title": "Tags: ",
+    "form_create_post_send_title": "Send to: "
+}

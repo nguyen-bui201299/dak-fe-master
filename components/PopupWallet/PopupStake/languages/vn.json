@@ -1,0 +1,11 @@
+{
+    "popup_stake_title": "Xác nhận Stake",
+    "popup_stake_amount_to_stake": "Số tiền cần stake",
+    "popup_stake_period": "Kỳ hạn",
+    "popup_stake_interest_rates_year": "Phần trăm lãi suất (%/năm)",
+    "popup_stake_interest_rates": "Tiền lãi",
+    "popup_stake_start_day": "Ngày bắt đầu",
+    "popup_stake_end_date": "Ngày kết thúc",
+    "popup_stake_receiving_wallet_address_interest": "Địa chỉ ví nhận tiền lãi",
+    "popup_stake_button_confirm": "Xác nhận"
+}

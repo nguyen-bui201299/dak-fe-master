@@ -1,0 +1,22 @@
+@media (max-width: 540px) {
+    .date{
+        display: flex;
+        justify-content: center;
+    }
+    .date span:first-child{
+        margin-right: 8px;
+    }
+    .date span {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 540px) and (max-width: 720px){
+    .date{
+        display: flex;
+        justify-content: center;
+    }
+    .date span:first-child{
+        margin-right: 8px;
+    }
+}

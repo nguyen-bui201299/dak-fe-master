@@ -1,0 +1,26 @@
+{
+    "popup_send_money_title": "Chuyển tiền",
+    "popup_send_money_amount_to_transfer": "Số tiền cần chuyển",
+    "popup_send_money_recipient_wallet_address": "Địa chỉ",
+    "popup_send_money_recipient_wallet_address_placeholder": "Địa chỉ ví người nhận",
+    "popup_send_money_money_transfer_content": "Nội dung",
+    "popup_send_money_money_transfer_content_placeholder": "Nội dung...",
+    "popup_send_money_button_next": "Tiếp theo",
+
+    "popup_send_money_warning_address": "Bạn đã nhập sai địa chỉ ví",
+    "popup_send_money_warning_not_enough_point": "Số dư không đủ",
+    "popup_send_money_warning_limt_character": "Nội dung chuyển khoản không vượt quá 120 ký tự",
+    "popup_send_money_warning_note": "Ký tự không hợp lệ",
+    "popup_send_money_success_transfers": "Chuyển khoản thành công",
+
+    "popup_send_money_remittance_confirmation": "Xác nhận chuyển tiền",
+    "popup_send_money_recipients_name": "Tên người nhận",
+    "popup_send_money_transaction_fee": "Phí giao dịch",
+    "popup_send_money_the_sender_pays": "Người gửi trả",
+    "popup_send_money_recipient_pays": "Người nhận trả",
+    "popup_send_money_confirm": "Xác nhận",
+
+    "popup_send_money_receiverAddress": "Vui lòng nhập địa chỉ người nhận",
+    "popup_send_money_errorReceiverAmount": "Vui lòng nhập số tiền",
+    "popup_send_money_sendSuccess": "Gửi thành công"
+}

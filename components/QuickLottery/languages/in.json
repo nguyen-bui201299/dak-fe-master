@@ -1,0 +1,21 @@
+{
+    "quick_lottery_button": "अपनी किस्मत आजमाओ",
+    "lottery_header": "लॉटरी",
+    "rule_lottery": "नियम",
+    "lottery_title": "लॉटरी",
+    "quick_lottery_success": "लॉटरी सफलता खरीदें",
+    "quick_lottery_error_duplicate": "खरीदे गए नंबरों में एक डुप्लीकेट नंबर है",
+    "quick_lottery_error_limitnum": "केवल 1 और 45 . के बीच दर्ज किया गया",
+    "quick_lottery_erorr_word": "चरित्र दर्ज न करें",
+    "quick_lottery_error_blank": "खाली नहीं छोड़ा जा सकता",
+    "quick_lottery_error_tryagain": "कृपया नंबर दर्ज करें और पुनः प्रयास करें!",
+    "quick_lottery_error_enterduplicate": "आपके द्वारा दर्ज किया गया नंबर डुप्लिकेट है",
+    "quick_lottery_error_enterlimitnum": "आपके द्वारा दर्ज की गई संख्या सीमा से अधिक है",
+    "quick_lottery_quick_lottery": "जल्दी नंबर पाएं",
+    "quick_lottery_warn_not_enough_point": "पर्याप्त अंक नहीं",
+
+    "rule_lottery_1": "जैकपॉट जीतने का मौका पाने के लिए 01 से 45 तक की संख्या चुनें।",
+    "rule_lottery_2": "यह संख्या की स्थिति से कोई फर्क नहीं पड़ता, एक नंबर होना एक विजेता पुरस्कार है।",
+    "rule_lottery_3": "मेगा 6/45 सप्ताह के दिनों में सुबह 10:00 बजे और दोपहर 22:00 बजे खुलता है।"
+
+}

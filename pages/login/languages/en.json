@@ -1,0 +1,23 @@
+{
+    "home_login": "Login",
+    "home_register" : "Register",
+    "home_welcome" : "WELCOME TO DAK",
+    "home_username" : "Email or account name",
+    "home_pass" : "Password",
+    "home_forget_pass" : "Forgot password",
+    "home_no_acccount" : "Don't have an account",
+    "home_fullname" : "Fullname",
+    "home_userlogin" : "User name",
+    "home_email" : "Email login",
+    "home_sex" : "Sex",
+    "home_male" : "Male",
+    "home_female" : "Female",
+    "home_other" : "Other",
+    "home_remember": "Remember me",
+    "home_phonenumber" : "Phone Number",
+    "home_dob" : "Your birthday",
+    "home_policy" : {"content1": "I agree with the", "content2": "Rules", "content3": "Privacy"},
+    "home_error_login" : "Incorrect login email or password"
+
+}
+

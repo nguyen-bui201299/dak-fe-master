@@ -1,0 +1,35 @@
+{
+    "main_content_recommend": "แนะนำสำหรับคุณ",
+    "main_content_recommend_group": "แนะนำกลุ่มสำหรับคุณ",
+    "main_content_view_recommend": "ดูรายการแนะนำทั้งหมด",
+    "main_content_your_groups": "กลุ่มของคุณ",
+    "main_content_your_joined_groups": "กลุ่มที่คุณเข้าร่วม",
+    "main_content_view_your_joined_groups": "ดูกลุ่มที่คุณเข้าร่วมทั้งหมด",
+    "main_content_back_btn": "กลับ",
+    "main_content_create_group_btn": "สร้างกลุ่ม",
+
+    "list_group_recommend": "แนะนำ",
+    "list_group_recommend_groups": "แนะนำกลุ่มสำหรับคุณ",
+    "list_group_search_placeholder": "ค้นหากลุ่ม...",
+    "list_group_history_search": "ประวัติศาสตร์",
+    "list_group_your_groups": "กลุ่มของคุณ",
+    "list_group_your_joined_groups": "กลุ่มที่คุณเข้าร่วม",
+    "list_group_no_result" : "ไม่มีผลลัพธ์",
+    "list_group_looking_result" : "ผลการค้นหา",
+    "list_group_all" : "ทั้งหมด",
+    "list_group_admin" : "จัดการ",
+
+    "child_pictures_group_member": "สมาชิก",
+
+    "introduce_public_group": "กลุ่มสาธารณะ",
+    "introduce_private_group": "กลุ่มส่วนตัว",
+    "introduce_visible": "มองเห็นได้",
+    "introduce_everyone_can_see": "ทุกคนสามารถดูเนื้อหาที่แสดงในกลุ่ม",
+    "introduce_noone_can_see": "ไม่มีใครสามารถเห็นเนื้อหาที่แสดงในกลุ่ม",
+    "introduce_everyone_can_find": "ทุกคนสามารถค้นหากลุ่ม",
+    "introduce_created_at": "วันที่ก่อตั้ง",
+    "introduce_created_from": "สร้างจาก",
+    "introduce_new_members": "สมาชิก",
+    "introduce_compare_last_week": "เทียบกับสัปดาห์ที่แล้ว",
+    "introduce_read_more": "ดูเพิ่มเติม"
+}

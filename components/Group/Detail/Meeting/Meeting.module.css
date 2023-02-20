@@ -1,0 +1,38 @@
+.box-create {
+    background-color: var(--white-color);
+    box-shadow: rgb(48 43 43 / 48%) 6px 2px 16px 0px, rgb(29 28 28 / 80%) -6px -2px 16px 0px;
+    border-radius: var(--box-borderRadius-size);
+    width: 75%;
+    height: 600px;
+    margin: 20px auto;
+    position: relative;
+}
+
+.box-header {
+    font-size: 20px;
+    padding: 20px 40px;
+    color: var(--text-color);
+}
+
+.box-img {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn-create {
+    width: 50%;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: var(--main-color);
+    font-size: var(--text-fontSize);
+    outline: none;
+    border: none;
+    position: absolute;
+    bottom: 20%;
+    left: 50%;
+    transform: translate(-50%, 30%);
+    font-weight: bold;
+    cursor: pointer;
+}

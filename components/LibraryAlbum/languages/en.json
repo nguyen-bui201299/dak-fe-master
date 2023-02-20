@@ -1,0 +1,10 @@
+{
+    "libraryAlbum_add_success": "Add To Gallery Success",
+    "libraryAlbum_add_fail": "Add To Gallery Fail",
+    "libraryAlbum_title": "Add To Gallery",
+    "libraryAlbum_createLibrary_btn": "Create Gallery",
+    "libraryAlbum_addToLibrary_btn": "Add To Gallery",
+    "libraryAlbum_check_post": "Already have post in this album",
+    "libraryAlbum_select_album": "Please choose at least 1 album"
+
+}

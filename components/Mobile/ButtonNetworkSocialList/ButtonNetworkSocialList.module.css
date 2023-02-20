@@ -1,0 +1,56 @@
+.box_button_network_social_list{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 5px;
+}
+
+.item_button{
+    width: 15%;
+    margin: 0px 2px;
+}
+
+.button {
+    width: 100%;
+    height: 35px;
+    padding: 0px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    /* background-color: var(--box-background-color); */
+}
+
+.active {
+    width: 100%;
+    height: 35px;
+    padding: 0px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    /* background-color: var(--default-color); */
+}
+
+.item_button svg {
+    line-height: 30px;
+    font-size: 15px; 
+}
+
+.subNav {
+
+}
+
+.listSubNav {
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.itemSubNav {
+    color: var(--main-color);
+    font-weight: 500;
+    font-size: 15px;
+}

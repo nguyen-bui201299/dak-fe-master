@@ -1,0 +1,342 @@
+.linkSocialPage {
+    background-color: var(--white-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px, rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px, rgb(5 1 5 / 4%) 20px 20px 20px;
+    padding: 2px 20px;
+    height: 88vh;
+}
+
+.linkSocial__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--text-color);
+    margin-bottom: 20px;
+}
+
+.linkSocial__header h2 {
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.linkSocial__add {
+    background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
+    border-radius: 6px;
+    padding: 8px;
+    font-size: 18px;
+    outline: none;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+}
+
+.linkSocial__list {
+    list-style: none;
+    color: var(--text-color);
+    margin-right: 20px;
+    max-height: 550px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+
+.linkSocial__list::-webkit-scrollbar {
+    width: 4px;
+}
+
+.linkSocial__list::-webkit-scrollbar-track {
+    background-color: transparent;
+    margin-bottom: 8px;
+}
+
+.linkSocial__list::-webkit-scrollbar-thumb {
+    background-color: var(--main-color);
+    border-radius: 4px;
+}
+
+.linkSocial__list::-webkit-scrollbar-thumb:hover {
+    background-color: #ffe043;
+}
+
+.linkSocial__items {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding-top: 10px;
+}
+
+.linkSocial__edit{
+    display: flex;
+    align-items: center;
+}
+
+.linkSocial__icon {
+    font-size: 2.2rem;
+    margin-right: 0.5rem;
+}
+
+.linkSocial__name {
+    margin-top: 0;
+    font-size: 18px;
+    color: var(--main-text);
+    font-weight: 500;
+}
+
+.linkSocial {
+    font-size: 22px;
+    color: "white";
+    font-weight: 500;
+}
+
+.icons {
+    font-size: 2.4rem;
+    margin-right: 0.5rem;
+    margin-top: 0.6rem;
+}
+
+.popupEdit {
+    /* display: none; */
+    position: relative;
+    right: 2rem;
+    padding: 1rem;
+    border-radius: 10px;
+    top: 3rem;
+    background: var(--white-color);
+    box-shadow: rgb(0 0 0 / 19%) 0px 10px 20px, rgb(0 0 0 / 23%) 0px 6px 6px;
+    z-index: 1;
+}
+
+.popupEdit__items {
+    font-size: 18px;
+    margin-bottom: 0.5rem;
+    position: relative;
+}
+
+.popupEdit__items span {
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.icon__dots {
+    font-size: 22px;
+    cursor: pointer;
+    margin-right: 24px;
+}
+
+/* Responsive */
+@media(max-width: 320px) {
+    .linkSocialPage {
+        margin: 0 2%;
+        padding: 0 4%;
+        height: 92vh;
+    }
+    .linkSocial__header h2 {
+        font-size: 18px;
+    }
+    .linkSocial__add {
+        font-size: 15px;
+        padding: 6px;
+    }
+    .linkSocial__list {
+        padding-left: 0;
+    }
+    .icons {
+        font-size: 2rem;
+    }
+    .linkSocial {
+        font-size: 18px;
+    }
+    .linkSocial__name {
+        font-size: 16px;
+    }
+    .icon__dots {
+        font-size: 16px;
+        margin-right: unset;
+    }
+    .linkSocial__items {
+        margin-bottom: 12px;
+    }
+}
+
+@media(min-width: 321px) and (max-width: 540px) {
+    .linkSocialPage {
+        margin: 0 2%;
+        padding: 0 4%;
+        height: 92vh;
+    }
+    .linkSocial__header h2 {
+        font-size: 18px;
+    }
+    .linkSocial__add {
+        font-size: 15px;
+        padding: 6px;
+    }
+    .linkSocial__list {
+        padding-left: 0;
+    }
+    .icons {
+        font-size: 2rem;
+    }
+    .linkSocial {
+        font-size: 18px;
+    }
+    .linkSocial__name {
+        font-size: 16px;
+    }
+    .icon__dots {
+        font-size: 16px;
+        margin-right: unset;
+    }
+    .linkSocial__items {
+        margin-bottom: 12px;
+    }
+}
+
+@media(min-width: 541px) and (max-width: 720px) {
+    .linkSocialPage {
+        margin: 0 2%;
+        padding: 0 4%;
+        height: 90vh;
+        margin-top: 24px;
+    }
+    .linkSocial__header h2 {
+        font-size: 20px;
+    }
+    .linkSocial__add {
+        font-size: 16px;
+        padding: 8px;
+    }
+    .linkSocial__list {
+        padding-left: 0;
+        max-height: unset;
+    }
+    .icons {
+        font-size: 2.2rem;
+    }
+    .linkSocial {
+        font-size: 19px;
+    }
+    .linkSocial__name {
+        font-size: 17px;
+    }
+    .icon__dots {
+        font-size: 17px;
+        margin-right: unset;
+    }
+    .linkSocial__items {
+        margin-bottom: 14px;
+    }
+}
+
+@media(min-width: 721px) and (max-width: 960px) {
+    .linkSocialPage {
+        margin: 0 2%;
+        padding: 0 4%;
+        height: 90vh;
+        margin-top: 24px;
+    }
+    .linkSocial__header h2 {
+        font-size: 21px;
+    }
+    .linkSocial__add {
+        font-size: 17px;
+        padding: 8px;
+    }
+    .linkSocial__list {
+        padding-left: 0;
+        max-height: unset;
+    }
+    .icons {
+        font-size: 2.4rem;
+    }
+    .linkSocial {
+        font-size: 20px;
+    }
+    .linkSocial__name {
+        font-size: 18px;
+    }
+    .icon__dots {
+        font-size: 18px;
+        margin-right: unset;
+    }
+    .linkSocial__items {
+        margin-bottom: 16px;
+    }
+}
+
+@media(min-width: 961px) and (max-width: 1200px) {
+    .linkSocialPage {
+        margin: 0 2%;
+        padding: 0 4%;
+        height: 90vh;
+        margin-top: 24px;
+    }
+    .linkSocial__header h2 {
+        font-size: 22px;
+    }
+    .linkSocial__add {
+        font-size: 18px;
+        padding: 8px;
+    }
+    .linkSocial__list {
+        padding-left: 0;
+        max-height: unset;
+    }
+    .icons {
+        font-size: 2.6rem;
+    }
+    .linkSocial {
+        font-size: 21px;
+    }
+    .linkSocial__name {
+        font-size: 19px;
+    }
+    .icon__dots {
+        font-size: 19px;
+        margin-right: unset;
+    }
+    .linkSocial__items {
+        margin-bottom: 18px;
+    }
+}
+
+@media(min-width: 1201px) and (max-width: 1500px) {
+    .linkSocialPage {
+        margin: 0 2%;
+        padding: 0 4%;
+        height: 90vh;
+        margin-top: 24px;
+    }
+    .linkSocial__header h2 {
+        font-size: 22px;
+    }
+    .linkSocial__add {
+        font-size: 18px;
+        padding: 8px;
+    }
+    .linkSocial__list {
+        padding-left: 0;
+        max-height: unset;
+    }
+    .icons {
+        font-size: 2.6rem;
+    }
+    .linkSocial {
+        font-size: 21px;
+    }
+    .linkSocial__name {
+        font-size: 19px;
+    }
+    .icon__dots {
+        font-size: 19px;
+        margin-right: unset;
+    }
+    .linkSocial__items {
+        margin-bottom: 18px;
+    }
+}
+
+@media(min-width: 1501px) and (max-width: 1920px) {}
+
+@media(min-width: 1921px) {}

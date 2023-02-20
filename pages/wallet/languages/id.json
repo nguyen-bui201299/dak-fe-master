@@ -1,0 +1,58 @@
+{
+    "wallet_title": "Dompet",
+    "wallet_menu_main_page": "Halaman Utama",
+    "wallet_menu_transaction": "Menukarkan",
+    "wallet_menu_money_change": "Uang kembalian",
+    "wallet_menu_stake": "Mempertaruhkan",
+    "wallet_menu_history": "Sejarah transaksi",
+    "wallet_menu_camera": "Kamera",
+
+    "wallet_main_page_dak_point": "DAK Point (P)",
+    "wallet_main_page_dak_token": "DAK Token (T)",
+    "wallet_main_page_your_wallet_code": "Kode dompet Anda",
+    "wallet_main_page_property_types": "Jenis properti",
+    "wallet_main_page_time_lock": "Kunci waktu",
+    "wallet_main_page_copy_success": "Salin berhasil",
+
+    "wallet_copy_success": "Salin berhasil",
+
+    "wallet_transaction_page_transfer_money_to_friends": "Transfer uang ke teman",
+    "wallet_transaction_page_ask_friend_to_transfer_money": "Minta teman untuk mentransfer uang",
+    "wallet_transaction_page_buy_dak_point": "Beli Poin DAK",
+    "wallet_transaction_page_buy_token": "Beli Token DAK",
+    "wallet_transaction_page_sent_transfer_money": "Uang Transfer Terkirim",
+    "wallet_transaction_page_received_transfer_money": "Menerima Uang Transfer",
+
+    "wallet_change_money_page_amount_to_exchange": "Jumlah untuk ditukar",
+    "wallet_change_money_page_amount_received": "Jumlah yang diterima",
+    "wallet_change_money_page_select_type": "Pilih tipe",
+    "wallet_change_money_page_button_confirm": "Mengonfirmasi",
+
+    "wallet_stake_page_asset": "Aset",
+    "wallet_stake_page_amount": "jumlah",
+    "wallet_stake_page_amount_place": "Masukkan jumlah di sini",
+    "wallet_stake_page_period": "Periode",
+    "wallet_stake_page_choose_a_period": "Pilih periode ...",
+    "wallet_stake_page_month": "bulan",
+    "wallet_stake_page_interest_rates_year": "Suku bunga (%/Tahun)",
+    "wallet_stake_page_expectedly": "Diharapkan (Token DAK/Bulan)",
+    "wallet_stake_page_button_stake": "Taruhan sekarang!!!",
+    
+    "wallet_transaction_history_time": "Waktu",
+    "wallet_transaction_transaction_type": "Tipe transaksi",
+    "wallet_transaction_content": "Isi",
+    "wallet_transaction_transaction_value": "Nilai transaksi",
+    "wallet_transaction_surplus": "Kelebihan",
+    "wallet_transaction_history_details_title": "Detil transaksi",
+    "wallet_transaction_history_details_receiving_wallet_address": "Menerima alamat dompet",
+    "wallet_transaction_history_details_sending_wallet_address": "Mengirim alamat dompet",
+    "wallet_transaction_send": "Kirim",
+    "wallet_transaction_receive": "Menerima",
+    "wallet_transaction_buy_ticket": "Beli tiket lotere",
+    "wallet_transaction_lottery_reward": "Memenangkan lotere",
+
+    "wallet_send": "Transfer uang ke",
+    "wallet_receive": "Dapatkan uang dari",
+    "buy_ticket": "membeli tiket",
+    "won_lottery" : "memenangkan lotere"
+}

@@ -1,0 +1,8 @@
+{
+    "popup_verify_verify_account": "验证账户",
+    "popup_verify_verify_code": "验证码发送到邮箱",
+    "popup_verify_resend_ask": "没有收到验证码？",
+    "popup_verify_resend": "重发",
+    "popup_verify_btn": "核实"
+
+}

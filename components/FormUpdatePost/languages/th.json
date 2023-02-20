@@ -1,0 +1,11 @@
+{
+    "titlePopup": "แก้ไขโพสต์",
+    "btnPost": "แก้ไข",
+    "inputLink": "เพิ่มลิงค์ที่นี่",
+    "public": "สาธารณะ",
+    "private": "ส่วนตัว",
+    "titleFormPost": "โพสต์",
+    "success": "แก้ไขสำเร็จ",
+    "error": "แก้ไขล้มเหลว",
+    "empty_content": "เนื้อหา"
+}

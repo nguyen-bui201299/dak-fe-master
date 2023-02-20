@@ -1,0 +1,11 @@
+{
+    "popup_stake_title": "हिस्सेदारी की पुष्टि करें",
+    "popup_stake_amount_to_stake": "हिस्सेदारी के लिए राशि",
+    "popup_stake_period": "अवधि",
+    "popup_stake_interest_rates_year": "ब्याज दरें (%/वर्ष)",
+    "popup_stake_interest_rates": "ब्याज दर",
+    "popup_stake_start_day": "प्रारंभ का दिन",
+    "popup_stake_end_date": "समाप्त तिथि",
+    "popup_stake_receiving_wallet_address_interest": "वॉलेट पता ब्याज प्राप्त करना",
+    "popup_stake_button_confirm": "पुष्टि करें"
+}

@@ -1,0 +1,38 @@
+{
+    "main_content_recommend": "Recommmends for you",
+    "main_content_recommend_group": "Recommend groups for you",
+    "main_content_view_recommend": "Recommmend groups",
+    "main_content_your_groups": "Your groups",
+    "main_content_your_joined_groups": "Your joined groups",
+    "main_content_view_your_joined_groups": "Group you have joined in",
+    "main_content_back_btn": "Back",
+    "main_content_create_group_btn": "Create group",
+
+    "list_group_recommend": "Recommends",
+    "list_group_recommend_groups": "Recommend groups for you",
+    "list_group_search_placeholder": "Find groups...",
+    "list_group_history_search": "History",
+    "list_group_your_groups": "Your groups",
+    "list_group_your_joined_groups": "Your joined groups",
+    "list_group_no_result" : "Does not exist result",
+    "list_group_looking_result" : "Search results",
+    "list_group_all" : "All",
+    "list_group_admin" : "Manage",
+
+    "child_pictures_group_member": "Members",
+
+    "introduce_public_group": "Public group",
+    "introduce_private_group": "Private group",
+    "introduce_visible": "Visible",
+    "introduce_everyone_can_see": "Everyone can see content shows in the group",
+    "introduce_noone_can_see": "Hidden contents",
+    "introduce_everyone_can_find": "Everyone can find the group",
+    "introduce_created_at": "Date of establishment",
+    "introduce_created_from": "Created from",
+    "introduce_new_members": "members",
+    "introduce_compare_last_week": "compare to last week",
+    "introduce_read_more": "see more",
+
+    "pending_title": "Pending Request",
+    "pending_empty": "Currently no one is joining the group"
+}

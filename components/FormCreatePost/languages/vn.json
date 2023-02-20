@@ -1,0 +1,15 @@
+{
+    "form_create_post_title1": "Đăng bài",
+    "form_create_post_title2": "Tags bạn bè",
+    "form_create_post_title3": "Thay đổi quyền riêng tư",
+    "form_create_post_link_content": "Dán link bài viết ở đây",
+    "form_create_post_button_name": "Đăng bài",
+    "form_create_post_public": "Công khai",
+    "form_create_post_privicy": "Chỉ mình tôi",
+    "form_create_post_search_placeholder": "Tìm kiếm bạn bè ...",
+    "form_create_post_noti_success": "Đăng bài thành công",
+    "form_create_post_errorStatus": "Vui lòng nhập nội dung",
+    "form_create_post_errorLink": "Đường link không hợp lệ",
+    "form_create_post_link_url": "Đường link phải là video"
+
+}

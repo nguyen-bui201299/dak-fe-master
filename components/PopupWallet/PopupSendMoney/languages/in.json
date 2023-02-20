@@ -1,0 +1,26 @@
+{
+    "popup_send_money_title": "दोस्तों को पैसे ट्रांसफर करें",
+    "popup_send_money_amount_to_transfer": "राशि",
+    "popup_send_money_recipient_wallet_address": "प्राप्तकर्ता वॉलेट का पता",
+    "popup_send_money_recipient_wallet_address_placeholder": "प्राप्तकर्ता वॉलेट का पता यहां पेस्ट करें",
+    "popup_send_money_money_transfer_content": "विषय",
+    "popup_send_money_money_transfer_content_placeholder": "धन हस्तांतरण सामग्री दर्ज करें...",
+    "popup_send_money_button_next": "अगला",
+
+    "popup_send_money_warning_address": "आपने गलत वॉलेट पता दर्ज किया है",
+    "popup_send_money_warning_not_enough_point": "पर्याप्त बिंदु नहीं",
+    "popup_send_money_warning_limt_character": "स्थानांतरण सामग्री 120 वर्णों से अधिक नहीं हो सकती",
+    "popup_send_money_warning_note": "अमान्य वर्ण",
+    "popup_send_money_success_text": "सफल स्थानांतरण",
+
+    "popup_send_money_remittance_confirmation": "प्रेषण पुष्टि",
+    "popup_send_money_recipients_name": "प्राप्तकर्ता का नाम",
+    "popup_send_money_transaction_fee": "लेनदेन शुल्क",
+    "popup_send_money_the_sender_pays": "प्रेषक भुगतान करता है",
+    "popup_send_money_recipient_pays": "प्राप्तकर्ता भुगतान करता है",
+    "popup_send_money_confirm": "पुष्टि करें",
+
+    "popup_send_money_receiverAddress": "कृपया रिसीवर का पता दर्ज करें",
+    "popup_send_money_errorReceiverAmount": "कृपया इनपुट राशि",
+    "popup_send_money_sendSuccess": "सफलता भेजें"
+}

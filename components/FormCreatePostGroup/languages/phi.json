@@ -1,0 +1,14 @@
+{
+    "form_create_post_title1": "Post",
+    "form_create_post_title2": "I-tag ang mga kaibigan",
+    "form_create_post_title3": "Baguhin ang privacy",
+    "form_create_post_link_content": "Idikit ang link ng artikulo dito",
+    "form_create_post_button_name": "Post",
+    "form_create_post_public": "Pampubliko",
+    "form_create_post_privicy": "Ako lang",
+    "form_create_post_search_placeholder": "Naghahanap ng Mga kaibigan ...",
+    "form_create_post_noti_success": "Matagumpay ang post",
+    "form_create_post_errorStatus": "Mangyaring Maglagay ng Caption",
+    "form_create_post_errorLink": "Di-wastong url"
+
+}

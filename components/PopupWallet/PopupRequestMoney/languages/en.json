@@ -1,0 +1,23 @@
+{
+    "popup_request_money_title": "Ask friends to send money",
+    "popup_request_amount_to_receive": "Amount",
+    "popup_request_sender_wallet_address": "Sender wallet address",
+    "popup_request_sender_wallet_address_placeholder": "Paste the sender's wallet address here",
+
+    "popup_request_amount_to_transfer": "Amount",
+    "popup_request_confirm_sending_request": "Confirm sending request",
+    "popup_request_money_senders_name": "Sender's name",
+    "popup_request_money_content": "Content",
+    "popup_request_money_content_placeholder": "Content....",
+
+    "popup_request_money_warning_address": "You have entered the wrong wallet address!",
+    "popup_request_money_success_transfers": "Successful transfer",
+
+    "popup_request_money_button_next": "Next",
+    "popup_request_money_confirm": "Confirm",
+
+    "popup_request_amount_errorReceiverAddress": "Please Input Receiver Address",
+    "popup_request_amount_errorAmount": "Please Input Amount",
+    "popup_request_money_warning_note": "Invalid character",
+    "popup_request_amount_requestSuccess": "Request Success"
+}

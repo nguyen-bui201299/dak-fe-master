@@ -1,0 +1,35 @@
+{
+    "history": "लेनदेन का इतिहास",
+    "rule_lottery": "नियम",
+    "button_check_lottery": "अपनी किस्मत आजमाओ",
+    "number_of_1stprize": "मुख्य पुरस्कार विजेता",
+    "number_of_otherprize": "अतिरिक्त पुरस्कार",
+    "jackpot_value": "इनाम",
+    "lottery_date": "दिनांक और समय",
+    "your_lottery": "आपकी लॉटरी",
+    "total_winners": "कुल विजेता",
+    "total_match": "कुल मिलान संख्या",
+    "prize_value": "पुरस्कार मूल्य",
+    "history_reward": "जीतने वाले टिकटों की सूची",
+    "result_lotterry" : "नतीजा",
+    "lottery_status_waiting": "अगली लॉटरी की प्रतीक्षा में",
+    "lottery_status_pending": "इनाम पाएं",
+    "lottery_status_block": "टिकट ब्लॉक कर दिया गया है",
+    "lottery_status_finish": "से सम्मानित किया",
+    "lottery_status_lost": "खोया",
+
+    "detail_lottery_buy_success": "लॉटरी सफलता खरीदें",
+    "detail_lottery_warn_duplicate": "इनपुट में डुप्लिकेट नंबर हैं",
+    "detail_lottery_warn_limit": "केवल 1 और 45 . के बीच दर्ज किया गया",
+    "detail_lottery_warn_character": "वर्ण दर्ज नहीं किया जा सकता",
+    "detail_lottery_warn_blank": "खाली नहीं छोड़ा जा सकता",
+    "detail_lottery_warn_input_again": "कृपया नंबर दर्ज करें और पुनः प्रयास करें!",
+    "detail_lottery_warn_not_enough_point": "पर्याप्त अंक नहीं",
+    "detail_lottery_warn_error": "गलती",
+    "detail_lottery_quick_lottery": "जल्दी नंबर पाएं",
+    
+    "rule_lottery_1": "जैकपॉट जीतने का मौका पाने के लिए 01 से 45 तक की संख्या चुनें।",
+    "rule_lottery_2": "यह संख्या की स्थिति से कोई फर्क नहीं पड़ता, एक नंबर होना एक विजेता पुरस्कार है।",
+    "rule_lottery_3": "मेगा 6/45 सप्ताह के दिनों में सुबह 10:00 बजे और दोपहर 22:00 बजे खुलता है।"
+
+}

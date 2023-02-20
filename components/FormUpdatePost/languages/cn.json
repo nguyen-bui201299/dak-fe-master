@@ -1,0 +1,11 @@
+{
+    "titlePopup": "编辑帖子",
+    "btnPost": "编辑",
+    "inputLink": "在此处添加链接",
+    "public": "上市",
+    "private": "私人的",
+    "titleFormPost": "邮政",
+    "success": "编辑成功",
+    "error": "编辑失败",
+    "empty_content": "请输入内容"
+}

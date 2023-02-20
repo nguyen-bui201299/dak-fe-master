@@ -1,0 +1,28 @@
+{
+    "profile_post": "帖子",
+    "profile_library": "图书馆",
+    "profile_statistical": "统计",
+    "profile_edit": "编辑",
+    "profile_create_news": "创建新闻",
+    "profile_create_post": "创建帖子",
+    "profile_followers": "追随者",
+    "profile_following": "下列的",
+    "profile_delete_post_success": "删除成功",
+    "profile_delete_post_fail": "删除失败",
+    "profile_get_post_fail": "获取帖子失败",
+    "profile_watch_avatar": "查看个人资料图片",
+    "profile_update_avatar": "更新个人资料图片",
+
+    "profile_library_create_album": "创建相册",
+    "profile_library_back_btn": "后退",
+    "profile_library_next_btn": "下一个",
+    "proifle_library_delete_post_library_success": "删除成功",
+
+    "profile_statistic_activities_24h": "24小时活动",
+    "profile_statistic_points": "积分",
+    "profile_statistic_activities_chart": "活动图",
+    "profile_statistic_activities_posts": "您帖子中的活动",
+    "profile_statistic_most_views": "大多数观点",
+    "profile_statistic_individual_posts": "个人帖子",
+    "profile_statistic_achieved_points": "总得分"
+}

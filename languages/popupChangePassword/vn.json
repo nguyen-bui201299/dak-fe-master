@@ -1,0 +1,13 @@
+{
+    "changePassword": "Đổi mật khẩu",
+    "oldPassword": "Mật khẩu hiện tại",
+    "newPassword": "Mật khẩu mới",
+    "verifyPassword": "Nhập mật khẩu mới",
+
+    "changePassword_success": "Đổi mật khẩu thành công",
+    "changePassword_error": "Mật khẩu không đúng",
+    "changePassword_requirement": "Mật khẩu phải chứa chữ hoa, chữ thường, số và ký tự đặc biệt",
+    "changePassword_number_requirement": "Mật khẩu phải có 8 ký tự trở lên",
+    "changePassword_reconfirm_error": "Xác nhận lại mật khẩu không chính xác",
+    "changePassword_not_allow_null": "Mật khẩu không được để trống"
+}

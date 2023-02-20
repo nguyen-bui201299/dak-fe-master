@@ -1,0 +1,737 @@
+.overlayFormCreatePost {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.8);
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.formCreatePost {
+    width: 700px;
+    max-height: 30%;
+    /* position: absolute; */
+    background-color: var(--white-color);
+    /* position: fixed; */
+    z-index: 99999999;
+    border-radius: 25px;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.formHeader {
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.formTitle {
+    margin: 0;
+    text-align: center;
+    color: var(--main-text);
+    font-size: 30px;
+    line-height: 30px;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.btnGetOut {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 50%;
+    border: none;
+    background-color: gray;
+    color: black;
+}
+
+.btnGetOut:hover {
+    opacity: 0.8;
+}
+
+.formBody {
+    width: 100%;
+}
+
+.formBody .createPost {
+    width: 100%;
+}
+
+.formBody .createPost .avtAndName {
+    display: flex;
+    justify-content: left;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.formBody .createPost .avtAndName .avt {
+    object-fit: cover;
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+}
+
+.formBody .createPost .avtAndName .name {
+    color: var(--main-text);
+    font-size: 14px;
+    line-height: 42px;
+    margin: 0px;
+    margin-left: 5px;
+}
+
+.formBody .createPost .avtAndName .viewingRights {
+    height: 22px;
+    box-sizing: border-box;
+    padding: 0px 2px;
+    margin: 10px 0px;
+    margin-left: 5px;
+    background-color: var(--main-background-color);
+    border-radius: 8px;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.formBody .createPost .avtAndName .viewingRights .iconViewingRights {
+    color: var(--main-text);
+    font-size: 15px;
+    margin: 0px;
+    justify-content: center;
+    height: 22px;
+}
+
+.formBody .createPost .avtAndName .viewingRights .iconDown {
+    color: var(--main-text);
+    font-size: 12px;
+    margin: 0px;
+    justify-content: center;
+    height: 22px;
+}
+
+.formBody .inputLinkAndContent {
+    width: 100%;
+    max-height: 500px;
+    margin-top: 15px;
+    border: 1px solid var(--gray-color);
+    ;
+    box-sizing: border-box;
+    padding: 7px;
+    border-radius: 15px;
+}
+
+
+.formBody .inputLinkAndContent .inputContent {
+    background-color: var(--white-color);
+    border: none;
+    width: 100%;
+    outline: none;
+    color: var(--main-text);
+    font-size: 15px;
+    resize: none;
+}
+
+.formBody .inputLinkAndContent .inputContent::placeholder {
+    color: var(--main-text);
+    font-style: italic;
+    font-size: 15px;
+
+}
+
+.formBody .inputLinkAndContent .inputLink {
+    background-color: var(--white-color);
+    border: none;
+    width: 100%;
+    outline: none;
+    color: var(--main-text);
+    font-size: 15px;
+    resize: none;
+    height: 35px;
+}
+
+.formBody .inputLinkAndContent .boxInputLink {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid var(--gray-color);
+    margin-bottom: 7px;
+}
+
+.formBody .inputLinkAndContent .inputLink::placeholder {
+    color: var(--main-text);
+    font-style: italic;
+    font-size: 15px;
+}
+
+.formBody .inputLinkAndContent .btnPasteLink {
+    width: 30px;
+    background-color: var(--white-color);
+    border: none;
+    cursor: pointer;
+    height: 35px;
+}
+
+.formBody .inputLinkAndContent .btnPasteLink .iconPasteLink {
+    margin: 0px;
+    font-size: 20px;
+    color: var(--main-color);
+    height: 35px;
+}
+
+.formBody .inputLinkAndContent .boxFunctionAndBtnPost {
+    display: flex;
+    justify-content: space-between;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.formBody .inputLinkAndContent .boxFunctionAndBtnPost .boxFunction {
+    width: 100%;
+    color: var(--main-text);
+}
+
+.formBody .inputLinkAndContent .boxFunctionAndBtnPost .boxFunction .iconFunction {
+    font-size: 25px;
+    cursor: pointer;
+    margin-right: 15px;
+    height: 30px;
+}
+
+.formBody .inputLinkAndContent .boxFunctionAndBtnPost .boxFunction .iconFunction:hover {
+    color: var(--main-color);
+}
+
+.formBody .inputLinkAndContent .boxFunctionAndBtnPost .boxBtnPost {
+    width: 100px;
+    display: flex;
+    justify-content: right;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.formBody .inputLinkAndContent .boxFunctionAndBtnPost .boxBtnPost .btnPost {
+    border: none;
+    cursor: pointer;
+    height: 30px;
+    color: var(--main-color);
+    font-size: 16px;
+    background-color: var(--white-color);
+}
+
+.formBody .formTagsUser {
+    width: 100%;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.pass {
+    display: flex;
+    justify-content: left;
+}
+
+.pass .iconPass {
+    font-size: 20px;
+    color: var(--main-color);
+    cursor: pointer;
+
+}
+
+.pass .titleFormPost {
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--main-color);
+    margin-left: 5px;
+}
+
+
+.formBody .formTagsUser .taggedUserList {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.formBody .formTagsUser .taggedUserList .title {
+    font-size: 14px;
+    font-weight: 300;
+    color: var(--main-text);
+    line-height: 30px;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+.formBody .formTagsUser .taggedUserList .user {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--default-hover-background-color);
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 0px 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.formBody .formTagsUser .taggedUserList .user .name {
+    box-sizing: border-box;
+    border-radius: 15px;
+    color: var(--main-text);
+    font-size: 14px;
+    line-height: 30px;
+    margin: 0px;
+
+}
+
+.formBody .formTagsUser .taggedUserList .user .close {
+    height: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+.formBody .formTagsUser .boxInputSearch {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    border: 1px solid var(--gray-color);
+    border-radius: 12px;
+    box-sizing: border-box;
+    padding: 0px 10px;
+    margin-top: 10px;
+    color: var(--main-text);
+}
+
+.formBody .formTagsUser .boxInputSearch .inputSearch {
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: var(--white-color);
+    color: var(--main-text);
+}
+
+.formBody .formTagsUser .boxInputSearch .inputSearch::placeholder {
+    font-style: italic;
+    color: var(--main-text);
+}
+
+.formBody .formTagsUser .boxInputSearch .buttonSearch {
+    height: 28px;
+    font-size: 20px;
+    color: white;
+}
+
+.formBody .formTagsUser .usersSearchResults {
+    width: 100%;
+    max-height: 300px;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+.formBody .formTagsUser .usersSearchResults .user {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.formBody .formTagsUser .usersSearchResults .user .avt {
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+}
+
+.formBody .formTagsUser .usersSearchResults .user .name {
+    color: var(--main-text);
+    font-size: 14px;
+    line-height: 42px;
+    margin: 0px;
+    margin-left: 5px;
+    width: 100%;
+}
+
+.formBody .formTagsUser .usersSearchResults .user .checkBox {
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 1px solid var(--main-color);
+    position: relative;
+    cursor: pointer;
+    margin: 15px 0px;
+}
+
+.formBody .formTagsUser .usersSearchResults .user .checkBox3 {
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 1px solid var(--gray-color);
+    position: relative;
+    cursor: pointer;
+    margin: 15px 0px;
+}
+
+.formBody .formTagsUser .usersSearchResults .user .checkBox2::before {
+    content: "";
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: var(--main-color);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.areaChoosePermission {}
+
+.iconPermission {}
+
+.areaPress {
+    font-size: var(--text-fontSize);
+    font-weight: 500;
+    color: var(--text-color);
+    padding: 10px 20px;
+    /* align-content: center; */
+}
+
+.choosePermission {
+    margin-left: 15px;
+    /* border-bottom: 1px solid var(--text-color);   */
+}
+
+.inputChoose {
+    float: right;
+}
+
+.linkUrl {
+    word-break: break-all;
+    color: var(--text-color);
+}
+
+.clearList {
+    display: flex;
+    justify-content: flex-end;
+    color: var(--main-color);
+    cursor: pointer;
+}
+
+/* ------------------- share to mess -------------------- */
+.formSharePostMess {
+    width: 550px;
+    max-height: 30%;
+    /* position: absolute; */
+    background-color: var(--white-color);
+    /* position: fixed; */
+    z-index: 99999999;
+    border-radius: 25px;
+    margin-top: 20px;
+    padding: 15px;
+    margin: auto;
+}
+
+.formBodyShareMess {
+    width: 100%;
+}
+
+.sharePostMess {
+    display: block;
+    width: 100%;
+}
+
+.sharePostMess_head {
+    background-color: var(--background-color-hover-dropdown);
+    max-height: 170px;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    border-radius: 10px;
+
+}
+
+/* ----- left ------ */
+
+.sharePostMess_head_left {
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+}
+
+.sharePostMess_head_left_user {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--main-text);
+    font-size: 0.8rem;
+}
+
+.sharePostMess_head_left_user .avt {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+
+.sharePostMess_head_left_content {
+    padding: 0;
+    color: var(--main-text);
+
+}
+
+.sharePostMess_head_left_content p {
+    width: 100%;
+    max-height: 70px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+/* ----- left ------ */
+
+.sharePostMess_body_friend_title {
+    color: var(--main-text)
+}
+
+.sharePostMess_head_right {
+    width: 25%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 65px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.sharePostMess_head_right_container {
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+
+
+.sharePostMess_body_friend_list .taggedUserList {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.sharePostMess_body_friend_list .taggedUserList .title {
+    font-size: 14px;
+    font-weight: 300;
+    color: var(--main-text);
+    line-height: 30px;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+.sharePostMess_body_friend_list .taggedUserList .user {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--default-hover-background-color);
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 0px 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.sharePostMess_body_friend_list .taggedUserList .user .name {
+    box-sizing: border-box;
+    border-radius: 15px;
+    color: var(--main-text);
+    font-size: 14px;
+    line-height: 30px;
+    margin: 0px;
+
+}
+
+.sharePostMess_body_friend_list .taggedUserList .user .close {
+    height: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+.sharePostMess_body_friend_list .boxInputSearch {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    border: 1px solid var(--gray-color);
+    border-radius: 12px;
+    box-sizing: border-box;
+    padding: 0px 10px;
+    margin-top: 10px;
+    color: var(--main-text);
+}
+
+.sharePostMess_body_friend_list .boxInputSearch .inputSearch {
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: var(--white-color);
+    color: var(--main-text);
+}
+
+.sharePostMess_body_friend_list .boxInputSearch .inputSearch::placeholder {
+    font-style: italic;
+    color: var(--main-text);
+}
+
+.sharePostMess_body_friend_list .boxInputSearch .buttonSearch {
+    height: 28px;
+    font-size: 20px;
+    color: white;
+}
+
+.sharePostMess_body_friend_list .usersSearchResults {
+    width: 100%;
+    max-height: 300px;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+.sharePostMess_body_friend_list .usersSearchResults .user {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.sharePostMess_body_friend_list .usersSearchResults .user .avt {
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    object-fit: cover;
+}
+
+.sharePostMess_body_friend_list .usersSearchResults .user .name {
+    color: var(--main-text);
+    font-size: 14px;
+    line-height: 42px;
+    margin: 0px;
+    margin-left: 5px;
+    width: 100%;
+}
+
+.sharePostMess_body_friend_list .usersSearchResults .user .checkBox {
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 1px solid var(--main-color);
+    position: relative;
+    cursor: pointer;
+    margin: 15px 0px;
+}
+
+.sharePostMess_body_friend_list .usersSearchResults .user .checkBox3 {
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 1px solid var(--gray-color);
+    position: relative;
+    cursor: pointer;
+    margin: 15px 0px;
+}
+
+.sharePostMess_body_friend_list .usersSearchResults .user .checkBox2::before {
+    content: "";
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: var(--main-color);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Responsive */
+@media screen and (max-width: 820px) {
+    .buttonIcon {
+        display: none;
+    }
+
+    .formSharePostMess {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .formCreatePost {
+        width: 480px;
+    }
+
+    .formBody .inputLinkAndContent .boxFunctionAndBtnPost .boxBtnPost .btnPost {
+        font-size: 14px;
+    }
+
+    .formBody .inputLinkAndContent .boxFunctionAndBtnPost .boxFunction .iconFunction {
+        font-size: 20px;
+    }
+
+    .formSharePostMess {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .formCreatePost {
+        margin-top: 132px;
+        width: 340px;
+    }
+
+    .formSharePostMess {
+        width: 95%;
+    }
+}

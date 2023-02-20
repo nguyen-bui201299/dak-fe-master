@@ -1,0 +1,26 @@
+{
+    "createAlbum_title": "创建相册",
+    "createAlbum_settings": "设置",
+    "createAlbum_album_name": "专辑名称",
+    "createAlbum_upload_images_videos": "上传照片",
+    "createAlbum_upload_btn": "上传",
+    "createAlbum_no_gif": "不支持动画",
+    "createAlbum_no_avatar": "为您的相册选择一张照片",
+    "createAlbum_success": "创建相册成功",
+    "createAlbum_same_name": "已经有这张专辑了",
+
+    "albumEdit_success": "编辑成功",
+    "albumEdit_title": "编辑",
+    "albumEdit_settings": "设置",
+    "albumEdit_albumName": "专辑名称",
+    "albumEdit_submit_btn": "节省",
+
+    "delAlbum_success": "删除成功",
+    "delAlbum_doYouWant": "你想要",
+    "delAlbum_del": "删除",
+    "delAlbum_thisAlbum": "这张专辑",
+    "delAlbum_yes_btn": "是的",
+    "delAlbum_close_btn": "不",
+
+    "delAlbumSuccess_success": "删除成功"
+}

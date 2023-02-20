@@ -1,0 +1,13 @@
+{
+    "changePassword": "Ganti kata sandi",
+    "oldPassword": "Kata sandi saat ini",
+    "newPassword": "Kata sandi baru",
+    "verifyPassword": "Masukan kata sandi baru",
+
+    "changePassword_success": "Ubah Kata Sandi Berhasil",
+    "changePassword_error": "Kata sandi salah",
+    "changePassword_requirement": "Kata sandi harus mengandung huruf besar, huruf kecil, angka dan karakter khusus",
+    "changePassword_number_requirement": "Kata sandi harus 8 karakter atau lebih",
+    "changePassword_reconfirm_error": "Konfirmasi ulang kata sandi yang salah",
+    "changePassword_not_allow_null": "Kata sandi tidak boleh kosong"
+}

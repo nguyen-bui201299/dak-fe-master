@@ -1,0 +1,131 @@
+.container {
+    position: relative;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.btn-call-off {
+    position: absolute;
+    background: red;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    bottom: 150px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.btn-call-off:hover {
+    opacity: 0.8;
+}
+
+.icon-call-off {
+    font-size: 30px;
+    color: #fff;
+}
+
+.content {
+    position: relative;
+    height: 100%;
+}
+
+.body {
+    height: 100%;
+}
+
+.avatar-content {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.avatar {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fff;
+    height: 132px;
+    width: 132px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.img-avatar {
+    height: 132px;
+    width: 132px;
+    object-fit: cover;
+}
+
+.username {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 2.2rem;
+}
+
+.avatar,
+.username,
+.calling {
+    text-align: center;
+    user-select: none;
+}
+
+
+.footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100px;
+    background: rgba(0, 0, 0, 0.8);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 20px;
+}
+
+.icon-item {
+    height: 50px;
+    width: 50px;
+    background: #353638;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.icon-item:hover {
+    opacity: 0.8;
+}
+
+.icon-call {
+    color: #fff;
+    font-size: 30px;
+}
+
+.call-containers {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 10px;
+    row-gap: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.call-container {
+    display: flex;
+}
+.call-vid {
+    flex: 0 1 auto;
+    height: 360px;
+    border-radius: 10px;
+    cursor: pointer;
+}

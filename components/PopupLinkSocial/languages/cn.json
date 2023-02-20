@@ -1,0 +1,25 @@
+{
+    "popup_link_social_title": "链接社交",
+    "popup_link_social_input_link": "在此输入链接...",
+    "popup_link_social_foundation": "基础",
+    "popup_link_social_choose_foundation": "选择基金会",
+    "popup_link_social_invalid_link": "无效的链接",
+    "popup_link_social_verify_heading": "验证码发送到邮箱",
+    "popup_link_social_resend_title": "还没有收到代码？",
+    "popup_link_social_resend": "重发",
+    "popup_link_social_verify_btn": "核实",
+    "popup_link_social_not_support": "尚不支持此平台",
+    "popup_link_social_connect_link": "请输入链接",
+
+    "popup_confirm_delete_success": "删除链接社交成功",
+    "popup_confirm_delete_error": "删除链接社交失败",
+    "popup_confirm_delete_header": "注意",
+    "popup_confirm_delete_asking": "你确定要删除吗",
+    "popup_confirm_delete_yes_btn": "是的",
+    "popup_confirm_delete_no_btn": "不",
+    "popup_link_social_save": "节省",
+    "popup_link_social_next": "下一个",
+    "popup_link_social_success": "添加了链接社交",
+    "popup_link_social_fail": "添加链接社交失败"
+
+}

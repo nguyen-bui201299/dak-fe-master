@@ -1,0 +1,47 @@
+{
+    "censorship_censor": "Chờ kiểm duyệt",
+
+    "change_role_title": "Thay đổi vai trò",
+    "change_role_admin": "Quản trị viên",
+    "change_role_censor": "Kiểm duyệt",
+    "change_role_member": "Thành viên",
+    "change_role_change_btn": "Thay đổi",
+
+    "modal_edit_edit_information": "Chỉnh sửa thông tin",
+    "modal_edit_group_name": "Tên nhóm",
+    "modal_edit_input_group_name": "Nhập Tên Nhóm Tại đây...",
+    "modal_edit_privacy": "Sự riêng tư",
+    "modal_edit_global_group": "Nhóm công khai",
+    "modal_edit_private_group": "Nhóm tư nhân",
+    "modal_edit_save_btn": "Lưu",
+
+    "popup_edit_group_image_success": "Thay đổi hình ảnh thành công",
+    "popup_edit_group_update_information_success": "Cập nhật thông tin thành công",
+    "popup_edit_group_edit_group_information": "Chỉnh sửa thông tin nhóm",
+    "popup_edit_group_avatar": "Hình đại diện",
+    "popup_edit_group_edit": "Chỉnh sửa",
+    "popup_edit_group_background": "Tiểu sử",
+    "popup_edit_group_info_group": "Thông tin nhóm",
+    "popup_edit_group_public_group": "Nhóm công khai",
+    "popup_edit_group_private_group": "Nhóm tư nhân",
+    "popup_edit_group_select_image": "Chọn ảnh",
+    "popup_edit_group_no_gif" : "Không hỗ trợ hình ảnh động",
+    "popup_edit_group_update_avatar": "Cập nhật hình đại diện cho nhóm",
+    "popup_edit_group_save_btn": "Lưu",
+    "popup_edit_group_update_cover_photo": "Cập nhật ảnh bìa",
+    "popup_edit_group_group_name": "Tên nhóm",
+    "popup_edit_group_input_group_name": "Nhập Tên Nhóm...",
+    "popup_edit_group_group_access": "Quyền truy cập nhóm",
+    "popup_edit_group_intro_group": "Giới thiệu Nhóm...",
+    "popup_edit_bg_group": "Ảnh bìa",
+
+    "kick_member_ban": "Đuổi thành viên",
+    "kick_member_asking": "Bạn có chắc chắn đuổi thành viên này không",
+    "kick_member_yes_btn": "Đúng",
+    "kick_member_cancel_btn": "Không",
+
+    "ban_member": "Cấm thành viên",
+    "ban_member_asking": "Bạn có chắc chắn cấm thành viên này không",
+    "unban_member": "Bỏ cấm thành viên",
+    "unban_member_asking": "Bạn có chắc chắn bỏ cấm thành viên này không"
+}

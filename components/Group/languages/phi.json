@@ -1,0 +1,35 @@
+{
+    "main_content_recommend": "Inirerekomenda para sa iyo",
+    "main_content_recommend_group": "Magrekomenda ng mga grupo para sa iyo",
+    "main_content_view_recommend": "Tingnan ang lahat ng inirerekomenda",
+    "main_content_your_groups": "Iyong mga grupo",
+    "main_content_your_joined_groups": "Ang iyong mga sumali sa mga grupo",
+    "main_content_view_your_joined_groups": "Tingnan ang lahat ng iyong sinalihang grupo",
+    "main_content_back_btn": "Bumalik",
+    "main_content_create_group_btn": "Gumawa ng grupo",
+
+    "list_group_recommend": "Inirerekomenda",
+    "list_group_recommend_groups": "Magrekomenda ng mga grupo para sa iyo",
+    "list_group_search_placeholder": "Maghanap ng mga pangkat...",
+    "list_group_history_search": "Kasaysayan",
+    "list_group_your_groups": "Iyong mga grupo",
+    "list_group_your_joined_groups": "Ang iyong mga sumali sa mga grupo",
+    "list_group_no_result" : "Walang resulta",
+    "list_group_looking_result" : "Mga Resulta ng Paghahanap",
+    "list_group_all" : "Lahat",
+    "list_group_admin" : "Pamahalaan",
+
+    "child_pictures_group_member": "Mga miyembro",
+
+    "introduce_public_group": "Pampublikong grupo",
+    "introduce_private_group": "Pribadong grupo",
+    "introduce_visible": "Nakikita",
+    "introduce_everyone_can_see": "Makikita ng lahat ang nilalamang ipinapakita sa grupo",
+    "introduce_noone_can_see": "Walang makakakita sa nilalamang ipinapakita sa grupo",
+    "introduce_everyone_can_find": "Mahahanap ng lahat ang grupo",
+    "introduce_created_at": "Petsa ng pagkakatatag",
+    "introduce_created_from": "Nilikha mula sa",
+    "introduce_new_members": "miyembro",
+    "introduce_compare_last_week": "kumpara noong nakaraang linggo",
+    "introduce_read_more": "tingnan pa"
+}

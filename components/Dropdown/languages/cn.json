@@ -1,0 +1,18 @@
+{
+    "DropdownForGroup_Unfollow_Group":"取消关注群组",
+    "DropdownForGroup_Manage_notifications":"管理通知",
+    "DropdownForGroup_Leave_Group":"离开组",
+
+    "continueWatching": "继续观看",
+    "addGallery": "添加到画廊",
+    "copyUrl": "复制网址",
+    "edit": "编辑",
+    "delete": "删除",
+    "confirmOwner": "确认所有者",
+    "report": "报告",
+    "deletePostFromGallery": "从图库中删除帖子",
+
+    "copyURL_success": "复制网址成功",
+    "authenticationPost_succeed_before": "这篇文章之前已经过验证",
+    "authenticationPost_error": "验证发布失败"
+}

@@ -1,0 +1,22 @@
+{
+    "create_group_success": "创建小组成功",
+    "create_group_fail": "创建组失败",
+    "create_group_groupname_require": "请输入群组名称",
+    "create_group": "创建组",
+    "create_group_cover_photo": "团体封面照",
+    "create_group_no_gif": "不支持动画",
+    "create_group_optional": "可选的",
+    "create_group_load_photo": "从您的计算机上传照片",
+    "create_group_cancel_photo": "取消照片",
+    "create_group_next": "下一个",
+    "create_group_back": "后退",
+    "create_group_name": "团队名字",
+    "create_group_name_placeholder": "在此处命名组...",
+    "create_group_about_group": "关于集团",
+    "create_group_about_group_placeholder": "在这里写内容 ...",
+    "create_group_privacy": "隐私",
+    "create_group_public": "公共组",
+    "create_group_private": "私人团体",
+    "create_group_see_content": "每个人都可以看到组中的内容",
+    "create_group_not_see_content": "没有人可以看到组中的内容"
+}

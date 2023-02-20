@@ -1,0 +1,22 @@
+{
+    "create_group_success": "Tạo nhóm thành công",
+    "create_group_fail": "Tạo nhóm không thành công",
+    "create_group_groupname_require": "Vui lòng nhập tên nhóm",
+    "create_group": "Tạo nhóm",
+    "create_group_cover_photo": "Ảnh bìa nhóm",
+    "create_group_no_gif": "Không hỗ trợ hình ảnh động",
+    "create_group_optional": "Không bắt buộc",
+    "create_group_load_photo": "Tải ảnh từ máy tính",
+    "create_group_cancel_photo": "Hủy ảnh",
+    "create_group_next": "Tiếp theo",
+    "create_group_back": "Quay lại",
+    "create_group_name": "Tên nhóm",
+    "create_group_name_placeholder": "Đặt tên nhóm ở đây ...",
+    "create_group_about_group": "Giới thiệu về nhóm",
+    "create_group_about_group_placeholder": "Viết nội dung ở đây ...",
+    "create_group_privacy": "Quyền riêng tư",
+    "create_group_public": "Nhóm công khai",
+    "create_group_private": "Nhóm kín",
+    "create_group_see_content": "Mọi người có thể nhìn thấy nội dung trong nhóm",
+    "create_group_not_see_content": "Không ai có thể nhìn thấy nội dung trong nhóm"
+}

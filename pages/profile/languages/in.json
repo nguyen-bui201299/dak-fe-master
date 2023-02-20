@@ -1,0 +1,28 @@
+{
+    "profile_post": "पदों",
+    "profile_library": "पुस्तकालय",
+    "profile_statistical": "सांख्यिकीय",
+    "profile_edit": "संपादन करना",
+    "profile_create_news": "समाचार बनाएं",
+    "profile_create_post": "पोस्ट बनाएं",
+    "profile_followers": "समर्थक",
+    "profile_following": "निम्नलिखित",
+    "profile_delete_post_success": "सफलता हटाएं",
+    "profile_delete_post_fail": "मिटाना विफल",
+    "profile_get_post_fail": "पोस्ट प्राप्त करना विफल",
+    "profile_watch_avatar": "प्रोफ़ाइल चित्र देखें",
+    "profile_update_avatar": "प्रोफ़ाइल चित्र अपडेट करें",
+
+    "profile_library_create_album": "एल्बम बनाओ",
+    "profile_library_back_btn": "पीछे",
+    "profile_library_next_btn": "अगला",
+    "proifle_library_delete_post_library_success": "सफलता हटाएं",
+
+    "profile_statistic_activities_24h": "24 घंटे में गतिविधियां",
+    "profile_statistic_points": "अंक",
+    "profile_statistic_activities_chart": "गतिविधि चार्ट",
+    "profile_statistic_activities_posts": "आपकी पोस्ट से गतिविधियां",
+    "profile_statistic_most_views": "सबसे ज़्यादा देखे जाने की संख्या",
+    "profile_statistic_individual_posts": "व्यक्तिगत पोस्ट",
+    "profile_statistic_achieved_points": "कुल प्राप्त अंक"
+}

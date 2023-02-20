@@ -1,0 +1,13 @@
+{
+    "changePassword": "Palitan ANG password",
+    "oldPassword": "Kasalukuyang Password",
+    "newPassword": "Bagong Password",
+    "verifyPassword": "Maglagay ng Bagong Password",
+
+    "changePassword_success": "Baguhin ang Tagumpay ng Password",
+    "changePassword_error": "Mali ang Password",
+    "changePassword_requirement": "Dapat maglaman ang password ng mga espesyal na uppercase, lowercase na letra, numero at character",
+    "changePassword_number_requirement": "Dapat na 8 character o higit pa ang password",
+    "changePassword_reconfirm_error": "Kumpirmahin muli ang maling password",
+    "changePassword_not_allow_null": "Hindi maaaring blangko ang password"
+}

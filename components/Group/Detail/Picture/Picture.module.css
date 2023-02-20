@@ -1,0 +1,84 @@
+.user-Group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-Group .name-User {
+    display: flex;
+    border: 1px solid white;
+    padding: 10px 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+
+.user-Group .name-User:hover {
+    background-color: rgba(192,192,192, 0.4);
+    border: 1px solid white;
+    font-weight: 500;
+}
+
+.user-Group .name-User .picture-User img {
+    border-radius: 50%;
+    margin-top: 0px !important;
+}
+
+.user-Group .name-User span {
+    margin-top: 6px;
+    margin-left: 5px;
+}
+
+.add-Picture-Video {
+    margin-top: 21px;
+    cursor: pointer;
+    color: #F9D205;
+    transition: 0.2s ease-in;
+}
+
+.add-Picture-Video:hover {
+    color: #F9D205;
+    opacity: 0.6;
+}
+
+.add-Picture-Video:active {
+    color: black;
+}
+
+.holdPictures-User {
+    display: grid;
+    gap: 0px 0px;
+    grid-template-columns: auto auto auto;
+    padding: 26px 0px 25px 0px;
+    justify-content: center;
+}
+
+.holdPictures-User span {
+    width: 220px;
+    height: 220px;
+    border: 1px solid white;
+    display: block;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+
+.holdPictures-User span:hover {
+    background-color: rgba(192,192,192, 0.4);
+}
+
+@media only screen and (max-width: 1440px) and (min-width: 1176px) {
+    .holdPictures-User span {
+        width: 154px;
+        height: 154px;
+    }
+}
+
+@media only screen and (max-width: 985px) {
+    .holdPictures-User span {
+        width: 186px;
+        height: 186px;
+    }
+
+    .holdPictures-User {
+        grid-template-columns: auto auto;
+    }
+}

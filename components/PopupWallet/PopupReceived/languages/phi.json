@@ -1,0 +1,9 @@
+{
+    "accept": "Tanggapin",
+    "cancel": "Kanselahin",
+    "accepted": "Tinanggap",
+    "canceled": "Tanggihan",
+    "success": "Tinanggap",
+    "fail":"Tinanggihan",
+    "not_enought_point" : "Hindi sapat na punto"
+}

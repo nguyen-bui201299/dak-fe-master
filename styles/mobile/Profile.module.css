@@ -1,0 +1,102 @@
+.profile {
+
+}
+
+.backgroundImg {
+    height: 200px;
+    background-color: #cdd0dd;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.backgroundBgAvatar {
+
+}
+
+.avatarUser {
+    width: 100%;
+    position: absolute;
+    top: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.avatar {
+    border: 5px solid #fff;
+    /* width: 100px; */
+}
+
+.infoUser {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+
+.nameUser {
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--main-color);
+}
+
+.gmailUser {
+    margin: 0;
+    font-size: 16px;
+    color: var(--text-color);
+}
+
+.statistic {
+
+}
+
+.listStatistic {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.itemStatistic {
+    font-size: 12px;
+    text-align: center;
+    color: var(--title-color);
+    font-weight: 400;
+}
+
+.quantityStatistic {
+    margin: 0;
+    color: var(--main-color);
+    font-weight: 500;
+}
+
+.btnFeature {
+    position: relative;
+    top: 80px;
+}
+
+.listBtnFeature {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.itemBtnFeature {
+    color: var(--text-color);
+    font-weight: 500;
+    background-color: var(--box-background-color);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.post_list {
+    margin-top: 100px;
+}

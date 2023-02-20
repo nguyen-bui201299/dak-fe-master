@@ -1,0 +1,35 @@
+{
+    "history": "ประวัติการทำรายการ",
+    "rule_lottery": "กฎ",
+    "button_check_lottery": "ลองเสี่ยงโชคของคุณ",
+    "number_of_1stprize": "ผู้ได้รับรางวัลหลัก",
+    "number_of_otherprize": "รางวัลพิเศษ",
+    "jackpot_value": "รางวัล",
+    "lottery_date": "วันเวลา",
+    "your_lottery": "ลอตเตอรี่ของคุณ",
+    "total_winners": "ผู้ชนะทั้งหมด",
+    "total_match": "ตัวเลขที่ตรงกันทั้งหมด",
+    "prize_value": "มูลค่ารางวัล",
+    "history_reward": "รายชื่อตั๋วที่ชนะ",
+    "result_lotterry" : "ผลลัพธ์",
+    "lottery_status_waiting": "รอหวยงวดต่อไป",
+    "lottery_status_pending": "รับรางวัล",
+    "lottery_status_block": "ตั๋วถูกปิดกั้น",
+    "lottery_status_finish": "ได้รับรางวัล",
+    "lottery_status_lost": "สูญหาย",
+
+    "detail_lottery_buy_success": "ซื้อหวยสำเร็จ",
+    "detail_lottery_warn_duplicate": "มีตัวเลขซ้ำกันในอินพุต",
+    "detail_lottery_warn_limit": "ป้อนระหว่าง 1 ถึง 45 . เท่านั้น",
+    "detail_lottery_warn_character": "ไม่สามารถป้อนอักขระได้",
+    "detail_lottery_warn_blank": "ไม่สามารถเว้นว่างได้",
+    "detail_lottery_warn_input_again": "โปรดป้อนหมายเลขแล้วลองอีกครั้ง!",
+    "detail_lottery_warn_not_enough_point": "คะแนนไม่พอ",
+    "detail_lottery_warn_error": "ข้อผิดพลาด",
+    "detail_lottery_quick_lottery": "รับเบอร์ด่วน",
+
+    "rule_lottery_1": "เลือกหมายเลขตั้งแต่ 01 ถึง 45 เพื่อลุ้นรับรางวัลแจ็คพอต",
+    "rule_lottery_2": "มันไม่สำคัญว่าตำแหน่งของตัวเลข การมีตัวเลขคือรางวัลที่ชนะ",
+    "rule_lottery_3": "Mega 6/45 เปิดเวลา 10.00 น. และ 22.00 น. ในวันธรรมดา"
+
+}

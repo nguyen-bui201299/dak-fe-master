@@ -1,0 +1,18 @@
+{
+    "DropdownForGroup_Unfollow_Group":"I-unfollow ang grupo",
+    "DropdownForGroup_Manage_notifications":"Pamahalaan ang mga notification",
+    "DropdownForGroup_Leave_Group":"Umalis sa grupo",
+
+    "continueWatching": "Ituloy ang Panonood",
+    "addGallery": "Idagdag sa gallery",
+    "copyUrl": "Kopyahin ang URL",
+    "edit": "I-edit",
+    "delete": "Tanggalin",
+    "confirmOwner": "Kumpirmahin ang May-ari",
+    "report": "Ulat",
+    "deletePostFromGallery": "Tanggalin ang Post Mula sa Gallery",
+
+    "copyURL_success": "Kopyahin ang Tagumpay ng URL",
+    "authenticationPost_succeed_before": "Na-verify na ang Post na ito",
+    "authenticationPost_error": "I-verify ang Post Fail"
+}

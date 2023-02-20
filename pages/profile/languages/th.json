@@ -1,0 +1,28 @@
+{
+    "profile_post": "กระทู้",
+    "profile_library": "ห้องสมุด",
+    "profile_statistical": "สถิติ",
+    "profile_edit": "แก้ไข",
+    "profile_create_news": "สร้างข่าว",
+    "profile_create_post": "สร้างโพสต์",
+    "profile_followers": "ผู้ติดตาม",
+    "profile_following": "กำลังติดตาม",
+    "profile_delete_post_success": "ลบสำเร็จ",
+    "profile_delete_post_fail": "ลบล้มเหลว",
+    "profile_get_post_fail": "รับโพสต์ล้มเหลว",
+    "profile_watch_avatar": "ดูรูปโปรไฟล์",
+    "profile_update_avatar": "อัพเดทรูปโปรไฟล์",
+
+    "profile_library_create_album": "สร้างอัลบั้ม",
+    "profile_library_back_btn": "กลับ",
+    "profile_library_next_btn": "ต่อไป",
+    "proifle_library_delete_post_library_success": "ลบสำเร็จ",
+
+    "profile_statistic_activities_24h": "กิจกรรมใน 24 ชม.",
+    "profile_statistic_points": "คะแนน",
+    "profile_statistic_activities_chart": "ตารางกิจกรรม",
+    "profile_statistic_activities_posts": "กิจกรรมจากโพสต์ของคุณ",
+    "profile_statistic_most_views": "ยอดวิวสูงสุด",
+    "profile_statistic_individual_posts": "โพสต์ส่วนตัว",
+    "profile_statistic_achieved_points": "คะแนนที่ได้รับทั้งหมด"
+}

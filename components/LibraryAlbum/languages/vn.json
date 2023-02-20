@@ -1,0 +1,10 @@
+{
+    "libraryAlbum_add_success": "Thêm vào thư viện thành công",
+    "libraryAlbum_add_fail": "Thêm vào thư viện thất bại",
+    "libraryAlbum_title": "Thêm vào thư viện",
+    "libraryAlbum_createLibrary_btn": "Tạo thư viện",
+    "libraryAlbum_addToLibrary_btn": "Thêm vào thư viện",
+    "libraryAlbum_check_post": "Đã có post ở album này",
+    "libraryAlbum_select_album": "Hãy chọn ít nhất 1 album"
+
+}

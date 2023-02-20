@@ -1,0 +1,28 @@
+{
+    "like": "喜欢",
+    "vote": "选票",
+    "comment": "注释",
+    "share": "分享",
+    "read_more": "阅读更多",
+    "tag_user": "其他人",
+
+    "public":"上市",
+    "private":"私人的",
+    "post": "更新新帖子",
+    "post_update_post": "更新",
+
+    "votesuccess": "投票成功",
+    "votefail": "投票失败",
+    "unvote": "投票不能取消",
+    
+    "deleteSuccess": "删除成功",
+    "deleteFail": "删除失败",
+
+    "comment_input_comment": "输入注释",
+    "comment_reply": "回复",
+    "comment_stop_edit": "停止编辑",
+    "comment_edit": "编辑",
+    "comment_delete": "删除",
+    "comment_more_comments": "更多评论",
+    "comment_loading": "正在加载"
+}

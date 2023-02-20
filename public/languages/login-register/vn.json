@@ -1,0 +1,26 @@
+{
+    "login": {
+        "title": "Đăng nhập"
+    },
+    "register": {
+        "title": "Đăng ký"
+        
+    },
+
+    "login-register:welcome": "Chào mừng bạn đến với DAK!",
+    "login-register:script": "Tham gia ngay để kết bạn mới, tạo nhóm, thêm ảnh và hơn thế nữa.",
+    "login-register:password_placeHolder": "Mật khẩu",
+    "login-register:forgot_password": "Quên mật khẩu",
+    "login-register:loginWith": "Đăng nhập với",
+    "login-register:hadPassword": "Đã có tài khoản?",
+    "login-register:noPassword": "Chưa có tài khoản?",
+    "login-register:fullName": "Họ và tên",
+    "login-register:userName": "Tên tài khoản",
+    "login-register:email": "Email",
+    "login-register:password_authentication_placeHolder": "Nhập lại mật khẩu",
+    "login-register:policyMessage": "Bằng cách nhấp vào tạo tài khoản, bạn đồng ý với Các điều khoản và điều kiện.",
+    "login-register:agreeMessage": "Tôi xác nhận đồng ý với trang web của bạn ",
+    "login-register:policyLink": "Các điều khoản và điều kiện và Chính sách bảo mật.",
+    "login-register:success_message": "Đăng nhập thành công",
+    "login-register:error_message": "Tài khoản hoặc mật khẩu không đúng"
+}

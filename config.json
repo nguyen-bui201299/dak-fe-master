@@ -1,0 +1,19 @@
+{
+  "url": "https://115.79.140.218:9008/api",
+  "path": {
+    "send_email": "/auth/active-acount",
+    "send_email_forgot_password": "auth/forgot-password/send-code",
+    "find_user": "/user?limit=10&page=1&keyword="
+  },
+
+  "firebase" : {
+    "apiKey" : "AIzaSyAip4hecOJfi2iYN-iMBzWaCi9965XgBXg",
+    "authDomain" : "stech-login.firebaseapp.com",
+    "databaseURL" : "https://stech-login-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "projectId" : "stech-login",
+    "storageBucket" : "stech-login.appspot.com",
+    "messagingSenderId" : "47306739642",
+    "appId" : "1:47306739642:web:81dbe404d0f3a3e5add783",
+    "measurementId" : "G-DKPY2G15WY"
+  }
+}

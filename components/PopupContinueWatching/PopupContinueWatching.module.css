@@ -1,0 +1,176 @@
+.overlayFormCreatePost {
+    position: fixed;
+    /* background-color: rgba(0,0,0, 0.8); */
+    /* top: 0; */
+    right: 100px;
+    /* left: 0; */
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.formCreatePost {
+    width: 100%;
+    max-width: 500px;
+    max-height: 700px;
+    height: 100%;
+    /* position: absolute; */
+    background-color: var(--white-color);
+    /* position: fixed; */
+    z-index: 99999999;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+    overflow: hidden;
+}
+
+.formHeader {
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.formTitle {
+    margin: 0;
+    text-align: center;
+    color: var(--main-text);
+    font-size: 30px;
+    line-height: 30px;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.btnGetOut {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    font-size: 15px;
+    opacity: 0.5;
+    border-radius: 50%;
+    border: none;
+    background-color: gray;
+    color: white;
+    transition: 0.3s;
+}
+
+.btnGetOut:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.formBody {
+    width: 100%;
+    max-height: 77vh;
+    overflow: hidden;
+    border-bottom: solid 2px #fff;
+    border-radius: 7px;
+}
+
+.formBody:hover {
+    overflow-y: overlay;
+
+}
+
+
+.formBody::-webkit-scrollbar {
+    display: none;
+}
+
+.formBody::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(255, 238, 0, 0.235)
+}
+
+
+.formBody .createPost {
+    width: 100%;
+    color: #fff;
+    height: 100%;
+}
+
+
+@media(max-width: 320px) {
+    .overlayFormCreatePost {
+        display: none;
+    }
+}
+
+@media(min-width: 321px) and (max-width: 540px) {
+    .overlayFormCreatePost {
+        display: none;
+    }
+}
+
+@media(min-width: 541px) and (max-width: 720px) {
+    .overlayFormCreatePost {
+        right: 2%;
+    }
+
+    .formCreatePost {
+        padding: 10px;
+    }
+
+    .btnGetOut {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+}
+
+@media(min-width: 721px) and (max-width: 960px) {
+    .overlayFormCreatePost {
+        right: 1%;
+    }
+
+    .formCreatePost {
+        padding: 10px;
+    }
+
+    .btnGetOut {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+}
+
+@media(min-width: 961px) and (max-width: 1200px) {
+    .overlayFormCreatePost {
+        right: 1%;
+    }
+
+    .formCreatePost {
+        padding: 10px;
+    }
+
+    .btnGetOut {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+}
+
+@media(min-width: 1201px) and (max-width: 1500px) {
+    .overlayFormCreatePost {
+        right: 1%;
+    }
+
+    .formCreatePost {
+        padding: 10px;
+    }
+
+    .btnGetOut {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+}
+
+@media(min-width: 1501px) and (max-width: 1920px) {}
+
+@media(min-width: 1921px) {}

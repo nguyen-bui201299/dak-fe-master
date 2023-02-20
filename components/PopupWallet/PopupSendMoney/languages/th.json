@@ -1,0 +1,26 @@
+{
+    "popup_send_money_title": "โอนเงินให้เพื่อน",
+    "popup_send_money_amount_to_transfer": "จำนวน",
+    "popup_send_money_recipient_wallet_address": "ที่อยู่กระเป๋าเงินของผู้รับ",
+    "popup_send_money_recipient_wallet_address_placeholder": "วางที่อยู่กระเป๋าเงินของผู้รับที่นี่",
+    "popup_send_money_money_transfer_content": "เนื้อหา",
+    "popup_send_money_money_transfer_content_placeholder": "ใส่เนื้อหาการโอนเงิน...",
+    "popup_send_money_button_next": "ต่อไป",
+
+    "popup_send_money_warning_address": "คุณป้อนที่อยู่กระเป๋าเงินผิด",
+    "popup_send_money_warning_not_enough_point": "จุดไม่พอ",
+    "popup_send_money_warning_limt_character": "โอนเนื้อหาได้ไม่เกิน 120 ตัวอักษร",
+    "popup_send_money_warning_note": "ตัวอักษรไม่ถูกต้อง",
+    "popup_send_money_success_text": "โอนสำเร็จ",
+
+    "popup_send_money_remittance_confirmation": "ยืนยันการโอนเงิน",
+    "popup_send_money_recipients_name": "ชื่อผู้รับ",
+    "popup_send_money_transaction_fee": "ค่าธรรมเนียมการทำธุรกรรม",
+    "popup_send_money_the_sender_pays": "ผู้ส่งจ่าย",
+    "popup_send_money_recipient_pays": "ผู้รับชำระเงิน",
+    "popup_send_money_confirm": "ยืนยัน",
+
+    "popup_send_money_receiverAddress": "กรุณาใส่ที่อยู่ผู้รับ",
+    "popup_send_money_errorReceiverAmount": "กรุณากรอกจำนวนเงิน",
+    "popup_send_money_sendSuccess": "ส่งความสำเร็จ"
+}

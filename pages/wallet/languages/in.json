@@ -1,0 +1,58 @@
+{
+    "wallet_title": "बटुआ",
+    "wallet_menu_main_page": "मुख्य पृष्ठ",
+    "wallet_menu_transaction": "अदला बदली",
+    "wallet_menu_money_change": "पैसे बदलने",
+    "wallet_menu_stake": "दांव लगाना",
+    "wallet_menu_history": "लेनदेन का इतिहास",
+    "wallet_menu_camera": "कैमरा",
+
+    "wallet_main_page_dak_point": "DAK प्वाइंट (P)",
+    "wallet_main_page_dak_token": "DAK टोकन (T)",
+    "wallet_main_page_your_wallet_code": "आपका वॉलेट कोड",
+    "wallet_main_page_property_types": "संपत्ति के प्रकार",
+    "wallet_main_page_time_lock": "लॉक टाइम",
+    "wallet_main_page_copy_success": "सफलतापूर्वक कॉपी करें",
+
+    "wallet_copy_success": "सफलतापूर्वक कॉपी करें",
+
+    "wallet_transaction_page_transfer_money_to_friends": "दोस्तों को पैसे ट्रांसफर करें",
+    "wallet_transaction_page_ask_friend_to_transfer_money": "दोस्त से पैसे ट्रांसफर करने के लिए कहें",
+    "wallet_transaction_page_buy_dak_point": "DAK प्वाइंट खरीदें",
+    "wallet_transaction_page_buy_token": "DAK टोकन खरीदें",
+    "wallet_transaction_page_sent_transfer_money": "भेजा गया ट्रांसफर मनी",
+    "wallet_transaction_page_received_transfer_money": "प्राप्त स्थानांतरण धन",
+
+    "wallet_change_money_page_amount_to_exchange": "विनिमय करने के लिए राशि",
+    "wallet_change_money_page_amount_received": "रकम प्राप्त",
+    "wallet_change_money_page_select_type": "प्रकार चुनें",
+    "wallet_change_money_page_button_confirm": "पुष्टि करें",
+
+    "wallet_stake_page_asset": "संपत्ति",
+    "wallet_stake_page_amount": "राशि",
+    "wallet_stake_page_amount_place": "यहां राशि दर्ज करें",
+    "wallet_stake_page_period": "अवधि",
+    "wallet_stake_page_choose_a_period": "एक अवधि चुनें ...",
+    "wallet_stake_page_month": "महीना",
+    "wallet_stake_page_interest_rates_year": "ब्याज दरें (%/वर्ष)",
+    "wallet_stake_page_expectedly": "अपेक्षित रूप से (DAK टोकन/माह)",
+    "wallet_stake_page_button_stake": "अब दांव !!!",
+    
+    "wallet_transaction_history_time": "समय",
+    "wallet_transaction_transaction_type": "सौदे का प्रकार",
+    "wallet_transaction_content": "विषय",
+    "wallet_transaction_transaction_value": "लेन-देन मूल्य",
+    "wallet_transaction_surplus": "आधिक्य",
+    "wallet_transaction_history_details_title": "लेनदेन का विवरण",
+    "wallet_transaction_history_details_receiving_wallet_address": "वॉलेट पता प्राप्त करना",
+    "wallet_transaction_history_details_sending_wallet_address": "बटुआ पता भेजा जा रहा है",
+    "wallet_transaction_send": "भेजना",
+    "wallet_transaction_receive": "प्राप्त करना",
+    "wallet_transaction_buy_ticket": "लॉटरी टिकट खरीदें",
+    "wallet_transaction_lottery_reward": "लॉटरी जीती",
+
+    "wallet_send": "पैसे ट्रांसफर करें",
+    "wallet_receive": "से पैसे प्राप्त करें",
+    "buy_ticket": "टिकट खरीदा",
+    "won_lottery" : "लाटरी जीत ली"
+}

@@ -1,0 +1,28 @@
+{
+    "profile_post": "Mga post",
+    "profile_library": "Aklatan",
+    "profile_statistical": "Istatistika",
+    "profile_edit": "I-edit",
+    "profile_create_news": "Lumikha ng balita",
+    "profile_create_post": "Gumawa ng post",
+    "profile_followers": "Mga tagasunod",
+    "profile_following": "Sumusunod",
+    "profile_delete_post_success": "Tanggalin ang tagumpay",
+    "profile_delete_post_fail": "Nabigo ang pagtanggal",
+    "profile_get_post_fail": "Nabigo ang pagkuha ng mga post",
+    "profile_watch_avatar": "Tingnan ang larawan sa profile",
+    "profile_update_avatar": "I-update ang larawan sa profile",
+
+    "profile_library_create_album": "Lumikha ng album",
+    "profile_library_back_btn": "Bumalik",
+    "profile_library_next_btn": "Susunod",
+    "proifle_library_delete_post_library_success": "Tanggalin ang tagumpay",
+
+    "profile_statistic_activities_24h": "Mga aktibidad sa loob ng 24 na oras",
+    "profile_statistic_points": "Mga puntos",
+    "profile_statistic_activities_chart": "Tsart ng mga aktibidad",
+    "profile_statistic_activities_posts": "Mga aktibidad mula sa iyong mga post",
+    "profile_statistic_most_views": "Karamihan sa mga view",
+    "profile_statistic_individual_posts": "Mga indibidwal na post",
+    "profile_statistic_achieved_points": "Kabuuang nakamit na puntos"
+}

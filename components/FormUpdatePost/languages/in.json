@@ -1,0 +1,11 @@
+{
+    "titlePopup": "संपादित पोस्ट",
+    "btnPost": "संपादन करना",
+    "inputLink": "यहां लिंक जोड़ें",
+    "public": "जनता",
+    "private": "निजी",
+    "titleFormPost": "पद",
+    "success": "सफल संपादित करें",
+    "error": "संपादित करें विफल",
+    "empty_content": "कृपया सामग्री दर्ज करें"
+}

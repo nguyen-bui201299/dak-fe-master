@@ -1,0 +1,16 @@
+{
+    "menusetting_successChangeTheme": "เปลี่ยนอินเทอร์เฟซสำเร็จ",
+    "menusetting_successChangeLanguage": "เปลี่ยนความสำเร็จของภาษา",
+
+    "menusetting_see_your_profile": "ดูโปรไฟล์ของคุณ",
+    "menusetting_change_theme": "โหมดมืด",
+    "menusetting_language_setting": "การตั้งค่าภาษา",
+    "menusetting_setting_and_privacy": "การตั้งค่าและความเป็นส่วนตัว",
+    "menusetting_change_password": "เปลี่ยนรหัสผ่าน",
+    "menusetting_log_in": "เข้าสู่ระบบ",
+    "menusetting_log_out": "ออกจากระบบ",
+    "menusetting_about": "ความเป็นส่วนตัว · กฎ · โฆษณา",
+    "goback": "ย้อนกลับ",
+
+    "translate": "การแปลที่ประสบความสำเร็จ"
+}

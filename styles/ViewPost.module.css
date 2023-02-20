@@ -1,0 +1,32 @@
+.wrap__view__post{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrap__post{
+    width: 700px;
+}
+
+@media (max-width: 959px) {
+    .wrap__view__post {
+        padding: 0 10px;
+    }
+    .wrap__view__post {
+        margin-top: 20px;
+    }
+}
+
+@media (min-width: 960px) and (max-width: 1200px) {
+    .wrap__view__post {
+        margin-top: 20px;
+    }
+}
+
+@media (min-width: 1201px) and (max-width: 1500px) {
+    .wrap__view__post {
+        margin-top: 20px;
+    }
+}

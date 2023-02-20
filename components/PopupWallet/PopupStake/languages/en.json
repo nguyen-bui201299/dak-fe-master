@@ -1,0 +1,11 @@
+{
+    "popup_stake_title": "Confirm Stake",
+    "popup_stake_amount_to_stake": "Amount_to_stake stake",
+    "popup_stake_period": "Period",
+    "popup_stake_interest_rates_year": "Interest rates (%/Year)",
+    "popup_stake_interest_rates": "Interest rates",
+    "popup_stake_start_day": "Start day",
+    "popup_stake_end_date": "Finished date",
+    "popup_stake_receiving_wallet_address_interest": "Receiving_wallet_address_interest",
+    "popup_stake_button_confirm": "Confirm"
+}

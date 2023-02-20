@@ -1,0 +1,21 @@
+{
+    "home_login": "Mag log in",
+    "home_register" : "Magrehistro",
+    "home_welcome" : "Maligayang ",
+    "home_username" : "Pagdating sa DAK",
+    "home_pass" : "Email o pangalan ng account",
+    "home_forget_pass" : "Password",
+    "home_no_acccount" : "Nakalimutan ang password",
+    "home_fullname" : "Walang account",
+    "home_userlogin" : "Buong pangalan User name",
+    "home_email" : "Email login",
+    "home_sex" : "Kasarian",
+    "home_male" : "Lalaki",
+    "home_female" : "Babae",
+    "home_other" : "Iba pa",
+    "home_remember": "Tandaan ang account",
+    "home_phonenumber" : "Numero Ng Telepono",
+    "home_policy" : {"content1": "Sumasang-ayon ako sa", "content2": "Mga tuntunin", "content3": "Pagkapribado"},
+    "home_error_login" : "Maling email o password sa pag-log in"
+
+}

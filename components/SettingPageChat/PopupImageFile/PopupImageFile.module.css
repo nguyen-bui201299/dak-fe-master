@@ -1,0 +1,215 @@
+@keyframes showPopup {
+    from {
+        opacity: 0;
+        transform: scale(0);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.overlayPopupImageFile {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--bg-rgba);
+    z-index: 4;
+}
+
+.popupfile {
+    max-width: 700px;
+    max-height: 600px;
+    background-color: var(--white-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px, rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px, rgb(5 1 5 / 4%) 20px 20px 20px;
+    margin: 20px auto 0;
+    padding: 4px 6px;
+    -webkit-animation: showPopup linear 0.25s;
+    animation: showPopup linear 0.25s;
+    will-change: opacity transform;
+    transition: all ease 0.25s;
+    overflow: hidden;
+}
+
+.popupfile__upload-image {
+
+}
+
+.popupfile__heading {
+    position: relative;
+    padding: 4px 0;
+    border-bottom: 1px solid var(--border-outline-search-box);
+    height: 50px;
+}
+
+.popupfile__title {
+    text-align: center;
+    margin: 4px 0;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--main-color);
+    user-select: none;
+}
+
+.popupfile__icon-close {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    font-size: 32px;
+    padding: 4px;
+    color: var(--main-text);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.popupfile__icon-close:hover {
+    background-color: var(--default-hover-background-color);
+    color: var(--main-color);
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    transition: all ease 0.25s;
+}
+
+.popupfile__nav-list {
+    margin: 4px 0;
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 4px;
+}
+
+.popupfile__nav-item {
+    font-weight: 500;
+    color: var(--main-text);
+    font-size: 18px;
+    min-width: 150px;
+    text-align: center;
+    padding: 6px 12px;
+    cursor: pointer;
+    user-select: none;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom: 2px solid transparent;
+}
+
+.popupfile__nav-item.active {
+    border-bottom: 2px solid var(--main-color);
+    color: var(--main-color);
+}
+
+.popupfile__nav-item:hover {
+    border-bottom: 2px solid var(--main-color);
+    background-color: var(--bg-mess-select);
+    transition: all ease 0.25s;
+}
+
+.popupfile__image-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-y: scroll;
+    height: 444px;
+    display: none;
+}
+
+.popupfile__image-list.active {
+    display: flex;
+}
+
+.popupfile__image-list::-webkit-scrollbar {
+    width: 4px;
+}
+
+.popupfile__image-list::-webkit-scrollbar-track {
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+
+.popupfile__image-list::-webkit-scrollbar-thumb{
+    background-color: var(--main-color);
+    border-radius: 4px;
+}
+
+.popupfile__image-list::-webkit-scrollbar-thumb:hover {
+    background-color: #ffe043;
+}
+
+.popupfile__image-item {
+    width: 30%;
+    height: 130px;
+    border-radius: var(--box-borderRadius-size);
+    overflow: hidden;
+    object-fit: cover;
+    margin: 8px 11px;
+}
+
+.popupfile__file-list {
+    padding: 0 32px;
+    display: none;
+    overflow-y: scroll;
+    height: 444px;
+}
+
+.popupfile__file-list::-webkit-scrollbar {
+    width: 4px;
+}
+
+.popupfile__file-list::-webkit-scrollbar-track {
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+
+.popupfile__file-list::-webkit-scrollbar-thumb{
+    background-color: var(--main-color);
+    border-radius: 4px;
+}
+
+.popupfile__file-list::-webkit-scrollbar-thumb:hover {
+    background-color: #ffe043;
+}
+
+.popupfile__file-list.active {
+    display: block;
+}
+
+.popupfile__file-item {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 12px 8px;
+    border-radius: 6px;
+    user-select: none;
+}
+
+.popupfile__file-item:hover {
+    background-color: var(--bg-mess-select);
+    transition: all ease 0.25s;
+}
+
+.popupfile__file-item-icon {
+    font-size: 24px;
+    color: var(--main-text);
+}
+
+.popupfile__file-item-name {
+    margin: 0;
+    flex: 1;
+    color: var(--main-text);
+    margin-left: 8px;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.popupfile__file-item-weight {
+    font-size: 17px;
+    font-weight: 500;
+    color: var(--main-text);
+}

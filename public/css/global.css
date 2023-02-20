@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com');
+@import url('https://fonts.gstatic.com');
+
+html {
+    overflow: overlay;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+:root {
+    --main-background-color: #f0f0f0; /* Màu nền chính (xám) */
+    --default-color: #292a2e; /* Màu đen chủ đạo */
+    --white-color: #fff; /* Màu trắng */
+    --main-color: #f9d205; /* Màu chủ đạo */
+    --main-text: #383333;
+    --chat-name: #000;
+    --icon-private-group: #B0B0B0;
+
+    --active-border-bottom: rgba(192,192,192,0.7);
+    --border-outline-search-box: rgba(128,128,128,0.5);
+    --background-color-dropdown: #ecf0f1;
+    --border-outline-dropdown: rgba(192,192,192,0.3);
+    --background-color-hover-dropdown: rgba(192,192,192,0.2);
+
+    --see-more: grey;
+    --icon-color: #333;
+    --icon-hover-color: rgba(0,0,0,0.3);
+
+    --box-background-file: #ecf0f1;
+    --box-shadow-color: #00000040; /* Màu bóng đổ của box */
+    --box-borderRadius-size: 24px; /* Border radius box */
+    --box-background-color: #f0f0f0; /* Màu nền của box */
+    --box-hover-background-color: rgba(192,192,192,0.5); /* Màu nền khi hover */
+
+    --text-color: #383333; /* Màu chữ */
+    --title-color: #1d1c1c; /* Màu chữ tiêu đề */
+    --sub-title-color: #747272; /* Màu chữ phụ của tiêu đề */
+    --title-fontSize: 16px; /* Kích cỡ tiêu đề */
+    --text-fontSize: 16px; /* Kích cỡ chữ */
+
+    --default-icon-color: #8f8e8e; /* Màu mặc định của icon */
+    --default-hover-background-color: #f0f0f0; /* Màu nền khi hover button của header */
+    --default-hover-text-color: #3d3d3d;
+    --setting-user-info-color: #f0f0f0; /* Màu chỉnh dark-mode cho setting user */
+    --sub-background-color: #fff;
+   
+
+    --facebook-color: #1b74e4; /* Màu Facebook */
+    --twitter-color: #1d9bf0; /* Màu Twitter  */
+    --tiktok-color: #222222; /* Màu Tiktok */
+    --youtube-color: #f20000; /* Màu Youtube */
+    --google-color: #01ff01; /* Màu Google */
+    --friends-color: #fffb00;                   
+    --insta-color: #c73363;                     
+   
+    --twitch-color: #6441a5;
+    --message-color-success: #00c800;
+    --message-color-error: #e41b1b;
+    --global-private: rgba(0,0,0,0.6);
+    --bg-profile: #fff;
+    --bg-post: #f0f0f0;
+    --bg-rgba: rgba(255, 255, 255, 0.8);
+    --bg-nav-mobile: #ccc;
+    --bg-mess-select: rgba(249, 210, 5, 0.1);
+
+    --pagination-color: rgb(132 129 129 / 61%);
+    --pagination-color-active: rgb(255, 255, 255);
+    --color-follow: #D10000;
+
+   --gray-color: rgb(238, 238, 238);
+   --icon-edit-profile: #5f5f5f;
+   --nofi--error-message: red;
+   --nofi--secces-message: green;
+   
+   --border-invite-btn: #000;
+}
+
+/* Css thay đổi màu sang giao diện dark */
+[data-theme="dark"] {
+    --box-background-file: #3A3A3A;
+    --see-more: wheat;
+    --active-border-bottom: #f5f6fa;
+    --boder-outline-search-box: rgba(128,128,128,0.2);
+    --main-background-color: #181717;
+    --background-color-dropdown: #2d3436;
+    --border-outline-dropdown: rgba(192,192,192,0.6);
+    --background-color-hover-dropdown: rgba(192,192,192,0.4);
+    --default-color: #5f5f5f;
+    --icon-color: #fff;
+    --icon-hover-color: rgba(192,192,192,0.5);
+    --boxShadow-color: #00000040;
+    --title-color: #fff;
+    --text-color: #fff;
+    --sub-title-color: #ccc; 
+    --main-text: #ccc;
+    --white-color: #292a2e;
+    --default-icon-color: #fff;
+    --default-hover-background-color: #464646;
+    --setting-user-info-color: #464646;
+    --box-background-color: #292a2e;
+    --box-hover-background-color: rgb(0,0,0,0.7);
+    --default-hover-text-color: #fff;
+    --sub-background-color: #5f5f5f;
+    --global-private: #fff;
+    --bg-profile: #424242;
+    --bg-post: #292a2e;
+    --bg-rgba: rgba(0, 0, 0, 0.8);
+    --bg-nav-mobile: #424242;
+    --bg-mess-select: rgba(249, 210, 5, 0.04);
+    --chat-name: #fff;
+    --gray-color: #746E6E; 
+    --tiktok-color: #fff; /* Màu Tiktok */
+    --border-invite-btn: #FFF;
+}

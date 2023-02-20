@@ -1,0 +1,14 @@
+{
+    "form_create_post_title1": "शेयर करना",
+    "form_create_post_title2": "टैग दोस्तों",
+    "form_create_post_title3": "गोपनीयता बदलें",
+    "form_create_post_title4": "संदेश के माध्यम से साझा करें",
+    "form_create_post_link_content": "लेख का लिंक यहां पेस्ट करें",
+    "form_create_post_button_name": "शेयर करना",
+    "form_create_post_public": "जनता",
+    "form_create_post_privicy": "केवल मैं",
+    "form_create_post_search_placeholder": "दोस्तों की तलाश में ...",
+    "form_create_post_noti_success": "शेयर सफलतापूर्वक हुआ",
+    "form_create_post_tags_title": "टैग: ",
+    "form_create_post_send_title": "भेजना: "
+}

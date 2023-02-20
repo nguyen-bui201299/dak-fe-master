@@ -1,0 +1,59 @@
+{
+    "wallet_title": "Wallet",
+    "wallet_menu_main_page": "Main Page",
+    "wallet_menu_transaction": "Transfer",
+    "wallet_menu_money_change": "Swap",
+    "wallet_menu_stake": "Stake",
+    "wallet_menu_history": "History",
+    "wallet_menu_camera": "Camera",
+
+    "wallet_main_page_dak_point": "DAK Point (P)",
+    "wallet_main_page_dak_token": "DAK Token (T)",
+    "wallet_main_page_your_wallet_code": "Your DAK point wallet",
+    "wallet_main_page_property_types": "Property types",
+    "wallet_main_page_time_lock": "Lock time",
+    "wallet_main_page_copy_success": "Copy successfully",
+
+    "wallet_copy_success": "Copy successfully",
+
+    "wallet_transaction_page_transfer_money_to_friends": "Send",
+    "wallet_transaction_page_ask_friend_to_transfer_money": " Receive",
+    "wallet_transaction_page_buy_dak_point": "Buy DAK Point",
+    "wallet_transaction_page_buy_token": "Buy DAK Token",
+    "wallet_transaction_page_sent_transfer_money": "Sent Transfer",
+    "wallet_transaction_page_received_transfer_money": "Received Transfer",
+
+
+    "wallet_change_money_page_amount_to_exchange": "Amount to exchange",
+    "wallet_change_money_page_amount_received": "Amount received",
+    "wallet_change_money_page_select_type": "Select type",
+    "wallet_change_money_page_button_confirm": "Confirm",
+
+    "wallet_stake_page_asset": "Asset",
+    "wallet_stake_page_amount": "Amount",
+    "wallet_stake_page_amount_place": "Enter amount here",
+    "wallet_stake_page_period": "Period",
+    "wallet_stake_page_choose_a_period": "Choose a period ...",
+    "wallet_stake_page_month": "month",
+    "wallet_stake_page_interest_rates_year": "Interest rates (%/Year)",
+    "wallet_stake_page_expectedly": "Expectedly (DAK Token/Month)",
+    "wallet_stake_page_button_stake": "Stake now!!!",
+    
+    "wallet_transaction_history_time": "Time",
+    "wallet_transaction_transaction_type": "Transaction type",
+    "wallet_transaction_content": "Content",
+    "wallet_transaction_transaction_value": "Transaction value",
+    "wallet_transaction_surplus": "Surplus",
+    "wallet_transaction_history_details_title": "Transaction details",
+    "wallet_transaction_history_details_receiving_wallet_address": "Receiving wallet address",
+    "wallet_transaction_history_details_sending_wallet_address": "Sending wallet address",
+    "wallet_transaction_send": "Send",
+    "wallet_transaction_receive": "Receive",
+    "wallet_transaction_buy_ticket": "Buy lottery tickets",
+    "wallet_transaction_lottery_reward": "Won a lottery",
+
+    "wallet_send": "Send to",
+    "wallet_receive": "Receive from",
+    "buy_ticket": "bought a ticket",
+    "won_lottery" : "won the lottery"
+}

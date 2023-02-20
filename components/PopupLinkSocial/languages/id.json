@@ -1,0 +1,25 @@
+{
+    "popup_link_social_title": "Tautan Sosial",
+    "popup_link_social_input_link": "Masukan Link Disini...",
+    "popup_link_social_foundation": "Dasar",
+    "popup_link_social_choose_foundation": "Pilih Yayasan",
+    "popup_link_social_invalid_link": "Tautan tidak valid",
+    "popup_link_social_verify_heading": "Kode Verifikasi Dikirim Ke Email",
+    "popup_link_social_resend_title": "Belum Menerima Kode?",
+    "popup_link_social_resend": "Kirim ulang",
+    "popup_link_social_verify_btn": "Memeriksa",
+    "popup_link_social_not_support": "Belum mendukung platform ini",
+    "popup_link_social_connect_link": "Silakan masukkan tautannya",
+
+    "popup_confirm_delete_success": "Hapus Tautan Sukses Sosial",
+    "popup_confirm_delete_error": "Hapus Tautan Gagal Sosial",
+    "popup_confirm_delete_header": "Melihat",
+    "popup_confirm_delete_asking": "Apakah Anda yakin untuk menghapus?",
+    "popup_confirm_delete_yes_btn": "Ya",
+    "popup_confirm_delete_no_btn": "Tidak",
+    "popup_link_social_save": "Menyimpan",
+    "popup_link_social_next": "Berikutnya",
+    "popup_link_social_success": "Tautan sosial telah ditambahkan",
+    "popup_link_social_fail": "Gagal menambahkan tautan sosial"
+
+}

@@ -1,0 +1,26 @@
+{
+    "createAlbum_title": "สร้างอัลบั้ม",
+    "createAlbum_settings": "การตั้งค่า",
+    "createAlbum_album_name": "ชื่ออัลบั้ม",
+    "createAlbum_upload_images_videos": "อัพโหลดรูปภาพ",
+    "createAlbum_upload_btn": "ที่อัพโหลด",
+    "createAlbum_no_gif": "ไม่รองรับแอนิเมชั่น",
+    "createAlbum_no_avatar": "เลือกรูปภาพสำหรับอัลบั้มของคุณ",
+    "createAlbum_success": "สร้างอัลบั้มสำเร็จ",
+    "createAlbum_same_name": "มีอัลบั้มนี้แล้ว",
+
+    "albumEdit_success": "แก้ไขสำเร็จ",
+    "albumEdit_title": "แก้ไข",
+    "albumEdit_settings": "การตั้งค่า",
+    "albumEdit_albumName": "ชื่ออัลบั้ม",
+    "albumEdit_submit_btn": "บันทึก",
+
+    "delAlbum_success": "ลบสำเร็จ",
+    "delAlbum_doYouWant": "คุณต้องการ",
+    "delAlbum_del": "ลบ",
+    "delAlbum_thisAlbum": "อัลบั้มนี้",
+    "delAlbum_yes_btn": "ใช่",
+    "delAlbum_close_btn": "ไม่",
+
+    "delAlbumSuccess_success": "ลบสำเร็จ"
+}

@@ -1,0 +1,25 @@
+{
+    "popup_link_social_title": "Link Social",
+    "popup_link_social_input_link": "Input Link Dito...",
+    "popup_link_social_foundation": "Pundasyon",
+    "popup_link_social_choose_foundation": "Piliin ang Foundation",
+    "popup_link_social_invalid_link": "Di-wastong link",
+    "popup_link_social_verify_heading": "Ang Verification Code ay Ipinadala Sa Email",
+    "popup_link_social_resend_title": "Hindi Natanggap ang Code?",
+    "popup_link_social_resend": "Muling ipadala",
+    "popup_link_social_verify_btn": "I-verify",
+    "popup_link_social_not_support": "Hindi pa sinusuportahan ang platform na ito",
+    "popup_link_social_connect_link": "Pakilagay ang link",
+
+    "popup_confirm_delete_success": "Tanggalin ang Link ng Social na Tagumpay",
+    "popup_confirm_delete_error": "Tanggalin ang Link Social Fail",
+    "popup_confirm_delete_header": "Pansinin",
+    "popup_confirm_delete_asking": "Sigurado ka bang tatanggalin",
+    "popup_confirm_delete_yes_btn": "Oo",
+    "popup_confirm_delete_no_btn": "Hindi",
+    "popup_link_social_save": "I-save",
+    "popup_link_social_next": "Susunod",
+    "popup_link_social_success": "Idinagdag ang link sa social",
+    "popup_link_social_fail": "Nabigong magdagdag ng link sa social"
+
+}

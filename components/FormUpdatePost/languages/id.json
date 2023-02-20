@@ -1,0 +1,11 @@
+{
+    "titlePopup": "Sunting Posting",
+    "btnPost": "Sunting",
+    "inputLink": "Tambahkan tautan di sini",
+    "public": "Publik",
+    "private": "Pribadi",
+    "titleFormPost": "Pos",
+    "success": "Edit Berhasil",
+    "error": "Edit Gagal",
+    "empty_content": "Silakan Masukkan Konten"
+}

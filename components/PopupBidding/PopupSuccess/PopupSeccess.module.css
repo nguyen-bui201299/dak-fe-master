@@ -1,0 +1,109 @@
+.notification {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 25px;
+  width: 50%;
+  background-color: var(--white-color);
+  border-radius: var(--box-borderRadius-size);
+  box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px,
+    rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px,
+    rgb(5 1 5 / 4%) 20px 20px 20px;
+  margin: 20px auto 0;
+  padding: 4px 6px;
+  animation: showPopup linear 0.25s;
+  will-change: opacity transform;
+  transition: all ease 0.25s;
+  overflow: hidden;
+  padding: 20px;
+}
+
+.success-noti {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: var(--main-text);
+  font-size: 30px;
+}
+
+.success-noti span {
+  color: var(--main-color);
+}
+
+.success-icon {
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  background-color: var(--main-color);
+  color: #fff;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ========== ANIMATION ========= */
+@keyframes showPopup {
+    from {
+        opacity: 0;
+        transform: scale(0);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* ====== RESPONSIVE ====== */
+@media(max-width: 320px) {
+  .notification {
+    width: 90%;
+    padding: 16px;
+  }
+  .success-noti {
+    font-size: 18px;
+    text-align: center;
+  }
+}
+@media(min-width: 321px) and (max-width: 540px) {
+  .notification {
+    width: 90%;
+    padding: 16px;
+  }
+  .success-noti {
+    font-size: 18px;
+    text-align: center;
+  }
+}
+@media(min-width: 541px) and (max-width: 720px) {
+  .notification {
+    width: 80%;
+    padding: 16px;
+  }
+  .success-noti {
+    font-size: 24px;
+    text-align: center;
+  }
+}
+@media(min-width: 721px) and (max-width: 960px) {
+  .notification {
+    width: 60%;
+    padding: 16px;
+  }
+  .success-noti {
+    font-size: 24px;
+    text-align: center;
+  }
+}
+@media(min-width: 961px) and (max-width: 1200px) {
+  .notification {
+    width: 60%;
+    padding: 16px;
+  }
+  .success-noti {
+    font-size: 24px;
+    text-align: center;
+  }
+}
+@media(min-width: 1201px) and (max-width: 1500px) {}
+@media(min-width: 1501px) and (max-width: 1920px) {}
+@media(min-width: 1921px) {}

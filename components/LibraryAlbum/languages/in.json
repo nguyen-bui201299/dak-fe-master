@@ -1,0 +1,10 @@
+{
+    "libraryAlbum_add_success": "गैलरी में जोड़ें सफलता",
+    "libraryAlbum_add_fail": "गैलरी में जोड़ें विफल",
+    "libraryAlbum_title": "गैलरी में जोड़ें",
+    "libraryAlbum_createLibrary_btn": "गैलरी बनाएं",
+    "libraryAlbum_addToLibrary_btn": "गैलरी में जोड़ें",
+    "libraryAlbum_check_post": "इस एल्बम में पहले से ही पोस्ट है",
+    "libraryAlbum_select_album": "कृपया कम से कम 1 एल्बम चुनें"
+
+}

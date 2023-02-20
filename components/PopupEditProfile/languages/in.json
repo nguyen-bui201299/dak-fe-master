@@ -1,0 +1,87 @@
+{
+    "popup_edit_profile_deleteAccount_success": "खाता हटाएं सफलता",
+    "popup_edit_profile_changeImg_success": "छवि बदलें सफलता",
+    "popup_edit_profile_male": "पुरुष",
+    "popup_edit_profile_female": "मादा",
+    "popup_edit_profile_others": "अन्य",
+    "popup_edit_profile_input_fullname": "इनपुट पूरा नाम",
+    "popup_edit_profile_input_email": "इनपुट ईमेल",
+    "popup_edit_profile_input_fullname_symbol": "अमान्य वर्ण",
+    "popup_edit_profile_input_fullname_length": "नाम 30 वर्णों से अधिक नहीं हो सकता",
+    "popup_edit_profile_input_bio_length": "जैव 100 वर्णों से अधिक नहीं हो सकता",
+    "popup_edit_profile_input_empty_name": "नाम खाली नहीं हो सकता",
+    "popup_edit_profile_input_empty_email": "ईमेल खाली नहीं हो सकता",
+    "popup_edit_profile_input_empty_email_invalid": "अवैध ईमेल",
+    "popup_edit_profile_input_empty_birthday_invalid": "अमान्य जन्म तिथि",
+    
+    "popup_edit_profile_tile": "अपनी प्रोफ़ाइल अनुकूलित करें",
+    
+    "popup_edit_profile_edit_text": "संपादन करना",
+    "popup_edit_profile_search_text": "खोज",
+    "popup_edit_profile_detail_text": "विवरण",
+    "popup_edit_profile_save_text": "बचाना",
+    "popup_edit_profile_yes_text": "पास होना",
+
+    "popup_edit_profile_account_is_blocked_text": "खाता अवरुद्ध है",
+    "popup_edit_profile_account_are_blocked_text": "खाता अवरुद्ध है",
+
+    "popup_edit_profile_avatar": "अवतार",
+    "popup_edit_no_gif": "एनीमेशन का समर्थन नहीं करता",
+    "popup_edit_profile_update_avatar_img": "प्रोफ़ाइल चित्र अपडेट करें",
+    "popup_edit_profile_avatar_from_system": "सिस्टम से प्रोफाइल पिक्चर",
+
+    "popup_edit_profile_background": "पार्श्वभूमि",
+    "popup_edit_profile_update_background_img": "कवर फोटो अपडेट",
+    "popup_edit_profile_background_from_system": "सिस्टम से कवर फोटो",
+
+    "popup_edit_profile_chooses_files_from_system": "सिस्टम से एक फोटो चुनें",
+    "popup_edit_profile_chooses_files_from_computer": "कंप्यूटर से फोटो चुनें",
+
+    "popup_edit_profile_edit_your_profile": "अपने प्रोफ़ाइल संपादित करें",
+    "popup_edit_profile_edit_your_profile_name": "पहला और आखरी नाम",
+    "popup_edit_profile_edit_your_profile_email": "ईमेल",
+    "popup_edit_profile_edit_your_profile_birth": "जन्मदिन",
+    "popup_edit_profile_edit_your_profile_genger": "लिंग",
+    "popup_edit_profile_edit_your_profile_genger_male": "पुरुष",
+    "popup_edit_profile_edit_your_profile_genger_female": "मादा",
+    "popup_edit_profile_edit_your_profile_genger_other": "अन्य",
+
+
+    "popup_edit_profile_bio": "स्वयं का विवरण दें",
+    "popup_edit_profile_bio_not": "अभी तक कोई विवरण नहीं",
+    "popup_edit_profile_update_bio_placeholder": "अपना विवरण दर्ज करें...",
+    "popup_edit_profile_update_bio": "स्वयं विवरण अपडेट करें",
+
+    "popup_edit_profile_setting_basic": "मूल सेटिंग्स",
+    "popup_edit_profile_private_permissions": "निजी अनुमति",
+    "popup_edit_profile_public": "जनता",
+    "popup_edit_profile_private": "निजी",
+
+    "popup_edit_profile_blocked_account": "अवरुद्ध खाता",
+    "popup_edit_profile_selected_text": "चयनित",
+    "popup_edit_profile_unblock_button_text": "अनब्लॉक",
+
+    "popup_edit_profile_family_and_relationships": "परिवार और रिश्ते",
+    "popup_edit_profile_family": "परिवार",
+    "popup_edit_profile_add_a_family_member": "परिवार के किसी सदस्य को जोड़ें",
+    "popup_edit_profile_family_role": "भूमिका",
+    "popup_edit_profile_family_role_parent": "अभिभावक",
+    "popup_edit_profile_family_role_grandparent": "दादा-दादी",
+    "popup_edit_profile_family_role_children": "लड़का/बेटी",
+    "popup_edit_profile_family_role_uncle_aunt": "आंटी और अंकल",
+    "popup_edit_profile_family_role_cousin": "चचेरा",
+
+    "popup_edit_profile_relationships": "रिश्ता",
+    "popup_edit_profile_add_relationships": "संबंध जोड़ें",
+    "popup_edit_profile_add_relationships_single": "अकेला",
+    "popup_edit_profile_add_relationships_get_married": "शादी करना",
+    "popup_edit_profile_add_relationships_in_a_relationship": "रिश्ते में",
+    "popup_edit_profile_add_relationships_divorced": "तलाकशुदा",
+    "popup_edit_profile_add_relationships_widow": "विधवा",
+
+    
+    "popup_edit_profile_delete_your_account": "अपने खाते को नष्ट करो",
+    "popup_edit_profile_delete_text": "मिटाना",
+    "popup_edit_profile_confirm_delete_title": "खाता हटाने की पुष्टि करें",
+    "popup_edit_profile_back_text": "वापस लौटें"
+}

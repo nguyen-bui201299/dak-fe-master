@@ -1,0 +1,32 @@
+{
+    "popupCreate_notFound": "Không tìm thấy bài đăng",
+    "popupCreate_title": "Tạo bài đăng đấu giá",
+    "popupCreate_bidding_fee": "Phí đấu giá",
+    "popupCreate_input_bidding_fee": "Nhập phí",
+    "popupCreate_view_fee": "Phí xem",
+    "popupCreate_input_view_fee": "Nhập phí",
+    "popupCreate_priority": "Quyền ưu tiên",
+    "popupCreate_continue_btn": "Tiếp tục",
+    "popupCreate_bidding_post": "Bài đấu giá",
+    "popupCreate_input_URL": "Nhập URL",
+    "popupCreate_post_date": "Đăng lúc",
+    "popupCreate_post_by": "Bởi",
+    "popupCreate_accept_bidding": "Chấp nhận đấu giá",
+    "popupCreate_accept_btn": "Chấp nhận",
+
+    "popupDeleted_title": "Bạn có muốn xóa bài viết không?",
+    "popupDeleted_yes_btn": "Có",
+    "popupDeleted_no_btn": "Không",
+    "popupDeleted_delete_success": "Bài viết đã xóa",
+
+    "popupEdit_title": "Chỉnh sửa bài đăng đấu giá",
+    "popupEdit_bidding_fee": "Phí đấu giá",
+    "popupEdit_input_fee": "Nhập phí",
+    "popupEdit_view_fee": "Phí xem",
+    "popupEdit_priority": "Quyền ưu tiên",
+    "popupEdit_save_btn": "Lưu",
+    "popupEdit_success": "thành công",
+
+    "popupSuccess_bidding": "Đấu giá bài viết",
+    "popupSuccess_success": "thành công"
+}

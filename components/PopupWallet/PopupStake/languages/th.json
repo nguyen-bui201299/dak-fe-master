@@ -1,0 +1,11 @@
+{
+    "popup_stake_title": "ยืนยันการเดิมพัน",
+    "popup_stake_amount_to_stake": "จำนวนเงินเดิมพัน",
+    "popup_stake_period": "ระยะเวลา",
+    "popup_stake_interest_rates_year": "อัตราดอกเบี้ย (%/ปี)",
+    "popup_stake_interest_rates": "อัตราดอกเบี้ย",
+    "popup_stake_start_day": "วันเริ่มต้น",
+    "popup_stake_end_date": "วันที่สิ้นสุด",
+    "popup_stake_receiving_wallet_address_interest": "การรับที่อยู่กระเป๋าสตางค์ดอกเบี้ย",
+    "popup_stake_button_confirm": "ยืนยัน"
+}

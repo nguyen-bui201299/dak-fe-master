@@ -1,0 +1,35 @@
+{
+    "main_content_recommend": "आपके लिए अनुशंसा करता है",
+    "main_content_recommend_group": "आपके लिए समूहों की सिफारिश करें",
+    "main_content_view_recommend": "सभी अनुशंसाएं देखें",
+    "main_content_your_groups": "आपके समूह",
+    "main_content_your_joined_groups": "आपके शामिल हुए समूह",
+    "main_content_view_your_joined_groups": "अपने सभी सम्मिलित समूह देखें",
+    "main_content_back_btn": "पीछे",
+    "main_content_create_group_btn": "समूह बनाना",
+
+    "list_group_recommend": "की सिफारिश की",
+    "list_group_recommend_groups": "आपके लिए समूहों की सिफारिश करें",
+    "list_group_search_placeholder": "समूह ढूंढें...",
+    "list_group_history_search": "इतिहास",
+    "list_group_your_groups": "आपके समूह",
+    "list_group_your_joined_groups": "आपके शामिल हुए समूह",
+    "list_group_no_result" : "परिणाम मौजूद नहीं है",
+    "list_group_looking_result" : "खोज के परिणाम",
+    "list_group_all" : "सभी",
+    "list_group_admin" : "प्रबंधित करना",
+
+    "child_pictures_group_member": "सदस्यों",
+
+    "introduce_public_group": "सार्वजनिक समूह",
+    "introduce_private_group": "निजी समूह",
+    "introduce_visible": "दृश्यमान",
+    "introduce_everyone_can_see": "ग्रुप में दिखाई गई सामग्री को हर कोई देख सकता है",
+    "introduce_noone_can_see": "ग्रुप में दिखाई गई सामग्री को कोई नहीं देख सकता",
+    "introduce_everyone_can_find": "हर कोई समूह ढूंढ सकता है",
+    "introduce_created_at": "स्थापना की तिथि",
+    "introduce_created_from": "से बनाया गया",
+    "introduce_new_members": "सदस्य",
+    "introduce_compare_last_week": "पिछले सप्ताह की तुलना करें",
+    "introduce_read_more": "और देखें"
+}

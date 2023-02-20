@@ -1,0 +1,10 @@
+{
+    "accept":"Chấp nhận",
+    "cancel":"Hủy",
+    "accepted":"Đã chấp nhận",
+    "canceled":"Đã từ chối",
+    "success":"Bạn đã chấp nhận yêu cầu",
+    "fail":"Bạn đã từ chối yêu cầu",
+    "not_enought_point" : "Số dư không đủ"
+    
+}

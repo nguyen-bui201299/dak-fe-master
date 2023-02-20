@@ -1,0 +1,21 @@
+    {
+    "quick_lottery_button": "Try your luck",
+    "lottery_header": "Lottery",
+    "rule_lottery": "Rule",
+    "lottery_title": "LOTTERY",
+    "quick_lottery_success": "Buy Lottery Success",
+    "quick_lottery_error_duplicate": "Duplicated numbers found",
+    "quick_lottery_error_limitnum": "Numbers must be bigger than 1 or smaller than 45",
+    "quick_lottery_erorr_word": "Characters are not allowed",
+    "quick_lottery_error_blank": "Numbers cannot be empty",
+    "quick_lottery_error_tryagain": "Please enter the number and try again!",
+    "quick_lottery_error_enterduplicate": "Duplicated numbers found",
+    "quick_lottery_error_enterlimitnum": "Numbers must be bigger than 1 or smaller than 45",
+    "quick_lottery_quick_lottery": "Quick numbers",
+    "quick_lottery_warn_not_enough_point": "Insufficient DAK points",
+    
+    "rule_lottery_1": "Choose numbers from 01 to 45 for a chance to win Jackpot.",
+    "rule_lottery_2": "It doesn't matter the position of the number, having a number is a winning prize.",
+    "rule_lottery_3": "Mega 6/45 opens at 10:00 am and 22:00 pm on weekdays."
+
+}

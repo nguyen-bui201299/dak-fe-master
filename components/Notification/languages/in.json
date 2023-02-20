@@ -1,0 +1,18 @@
+{
+    "notification_title": "सूचनाएं",
+    "notification_all": "सभी",
+    "notification_unread": "अपठित ग",
+    "notification_markall": "सब पढ़ो",
+    "notification_follow": "तुम्हारा पीछा",
+    "notification_like": "आपकी पोस्ट पसंद आई",
+    "notification_like_comment": "आपकी टिप्पणी पसंद आई",
+    "notification_comment": "आपकी पोस्ट पर टिप्पणी की",
+    "notification_share": "अपनी पोस्ट साझा की",
+    "notification_vote": "आपकी पोस्ट को वोट दिया",
+    "notification_invitegroup": "आपको समूह में आमंत्रित किया है",
+    "notification_reply_comment": "आपकी टिप्पणी का उत्तर दिया",
+    "notification_transfer_request": "धन हस्तांतरण अनुरोध",
+    "notification_accept_post": "आपका पद स्वीकार किया",
+    "notification_read_success": "सभी सफलतापूर्वक पढ़ें",
+    "notification_read_null": "कोई अपठित सूचना नहीं"
+}

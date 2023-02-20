@@ -1,0 +1,60 @@
+.user-Group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-Group .name-User {
+    display: flex;
+    border: 1px solid white;
+    padding: 10px 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+
+.user-Group .name-User:hover {
+    background-color: rgba(192,192,192, 0.4);
+    border: 1px solid white;
+    font-weight: 500;
+}
+
+.user-Group .name-User .picture-User img {
+    border-radius: 50%;
+    margin-top: 0px !important;
+}
+
+.user-Group .name-User span {
+    margin-top: 6px;
+    margin-left: 5px;
+}
+
+.add-Albums {
+    margin-top: 21px;
+    cursor: pointer;
+    color: #F9D205;
+    transition: 0.2s ease-in;
+}
+
+.add-Albums:hover {
+    color: #F9D205;
+    opacity: 0.6;
+}
+
+.add-Albums:active {
+    color: black;
+}
+
+.bunchAlbums-Group span {
+    margin-top: 19px;
+    width: 180px;
+    height: 180px;
+    border: 1px solid white;
+    display: block;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+
+.bunchAlbums-Group span:hover {
+    background-color: rgba(192,192,192, 0.4);
+
+}

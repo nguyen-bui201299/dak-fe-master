@@ -1,0 +1,25 @@
+{
+    "popup_link_social_title": "लिंक सामाजिक",
+    "popup_link_social_input_link": "इनपुट लिंक यहां...",
+    "popup_link_social_foundation": "नींव",
+    "popup_link_social_choose_foundation": "फाउंडेशन का चयन करें",
+    "popup_link_social_invalid_link": "अमान्य लिंक",
+    "popup_link_social_verify_heading": "सत्यापन कोड ईमेल पर भेजा जाता है",
+    "popup_link_social_resend_title": "कोड प्राप्त नहीं हुआ है?",
+    "popup_link_social_resend": "पुन: भेजें",
+    "popup_link_social_verify_btn": "सत्यापित कर",
+    "popup_link_social_not_support": "अभी तक इस मंच का समर्थन नहीं किया",
+    "popup_link_social_connect_link": "कृपया लिंक दर्ज करें",
+
+    "popup_confirm_delete_success": "सामाजिक सफलता लिंक हटाएं",
+    "popup_confirm_delete_error": "लिंक हटाएं सामाजिक विफलता",
+    "popup_confirm_delete_header": "सूचना",
+    "popup_confirm_delete_asking": "क्या वाकई हटाना है",
+    "popup_confirm_delete_yes_btn": "हाँ",
+    "popup_confirm_delete_no_btn": "नहीं",
+    "popup_link_social_save": "बचाना",
+    "popup_link_social_next": "अगला",
+    "popup_link_social_success": "लिंक सामाजिक जोड़ा गया",
+    "popup_link_social_fail": "सामाजिक लिंक जोड़ने में विफल"
+
+}

@@ -1,0 +1,28 @@
+{
+    "like": "Suka",
+    "vote": "Suara",
+    "comment": "Komentar",
+    "share": "Berbagi",
+    "read_more": "Baca selengkapnya",
+    "tag_user": "orang lain",
+
+    "public": "Publik",
+    "private": "Pribadi",
+    "post": "Perbarui posting baru",
+    "post_update_post": "Diperbarui",
+
+    "votesuccess": "Suara Berhasil",
+    "votefail": "Suara Gagal",
+    "unvote": "Voting Tidak Dapat Dibatalkan",
+    
+    "deleteSuccess": "Hapus Berhasil",
+    "deleteFail": "Hapus Gagal",
+
+    "comment_input_comment": "Masukan Komentar",
+    "comment_reply": "Membalas",
+    "comment_stop_edit": "Berhenti Mengedit",
+    "comment_edit": "Sunting",
+    "comment_delete": "Menghapus",
+    "comment_more_comments": "Lebih Banyak Komentar",
+    "comment_loading": "Memuat"
+}

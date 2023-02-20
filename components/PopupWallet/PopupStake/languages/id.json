@@ -1,0 +1,11 @@
+{
+    "popup_stake_title": "Konfirmasi Taruhan",
+    "popup_stake_amount_to_stake": "Jumlah yang dipertaruhkan",
+    "popup_stake_period": "Periode",
+    "popup_stake_interest_rates_year": "Suku bunga (%/Tahun)",
+    "popup_stake_interest_rates": "Suku bunga",
+    "popup_stake_start_day": "Mulai hari",
+    "popup_stake_end_date": "Tanggal selesai",
+    "popup_stake_receiving_wallet_address_interest": "Menerima bunga alamat dompet",
+    "popup_stake_button_confirm": "Mengonfirmasi"
+}

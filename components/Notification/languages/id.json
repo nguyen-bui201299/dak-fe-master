@@ -1,0 +1,18 @@
+{
+    "notification_title": "Pemberitahuan",
+    "notification_all": "Semua",
+    "notification_unread": "Belum dibaca",
+    "notification_markall": "Baca semua",
+    "notification_follow": "mengikutimu",
+    "notification_like": "menyukai posting Anda",
+    "notification_like_comment": "menyukai komentar Anda",
+    "notification_comment": "mengomentari postinganmu",
+    "notification_share": "membagikan kiriman Anda",
+    "notification_vote": "memilih posting Anda",
+    "notification_invitegroup": "mengundang Anda ke grup",
+    "notification_reply_comment": "membalas komentarmu",
+    "notification_transfer_request": "permintaan transfer uang",
+    "notification_accept_post": "menerima posting Anda",
+    "notification_read_success": "Baca semua dengan sukses",
+    "notification_read_null": "Tidak ada notifikasi yang belum dibaca"
+}

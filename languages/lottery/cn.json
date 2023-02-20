@@ -1,0 +1,35 @@
+{
+    "history": "交易记录",
+    "rule_lottery": "规则",
+    "button_check_lottery": "试试你的运气",
+    "number_of_1stprize": "主要奖项获得者",
+    "number_of_otherprize": "额外奖品",
+    "jackpot_value": "报酬",
+    "lottery_date": "约会时间",
+    "your_lottery": "你的彩票",
+    "total_winners": "总获奖者",
+    "total_match": "总匹配数",
+    "prize_value": "奖品价值",
+    "history_reward": "中奖彩票列表",
+    "result_lotterry" : "结果",
+    "lottery_status_waiting": "等待下一次抽奖",
+    "lottery_status_pending": "获得奖励",
+    "lottery_status_block": "票已被封锁",
+    "lottery_status_finish": "获奖",
+    "lottery_status_lost": "丢失的",
+
+    "detail_lottery_buy_success": "买彩票成功",
+    "detail_lottery_warn_duplicate": "输入中有重复的数字",
+    "detail_lottery_warn_limit": "仅输入 1 到 45 之间",
+    "detail_lottery_warn_character": "无法输入字符",
+    "detail_lottery_warn_blank": "不能留空",
+    "detail_lottery_warn_input_again": "请输入号码，然后重试!",
+    "detail_lottery_warn_not_enough_point": "积分不够",
+    "detail_lottery_warn_error": "错误",
+    "detail_lottery_quick_lottery": "快速获取号码",
+    
+    "rule_lottery_1": "选择从 01 到 45 的数字，就有机会赢得大奖。",
+    "rule_lottery_2": "号码的位置无关紧要，有号码就是中奖。",
+    "rule_lottery_3": "Mega 6/45 在工作日的上午 10:00 和下午 22:00 开放。"
+
+}

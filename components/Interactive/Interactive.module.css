@@ -1,0 +1,119 @@
+.reaction {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 0 21px 12px 12px;
+}
+
+
+.reaction__icon{
+    color: var(--main-text);
+    font-weight: 500;
+    position: relative;
+}
+
+
+.reaction__icon svg,
+.reaction__icon > span{
+    cursor: pointer;
+    opacity: 0.8;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+.reaction__icon > span {
+    border: 1px solid #ccc;
+    padding: 2px 6px 4px 6px;
+    border-radius: 10px;
+    margin: 0px;
+}
+
+.reaction__icon .reaction__title,
+.reaction__icon .reaction__title,
+.reaction__icon .reaction__title,
+.reaction__icon .reaction__title {
+    font-size: 18px;
+    font-weight: 600;
+    height: 25px;
+    line-height: 25px;
+    position: absolute;
+    top: -20px;
+    right: -14px;
+    color: red;
+}
+
+
+
+.reaction__comment__post {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 12px;
+}
+
+.reaction__comment__avatar {
+    width: 52px;
+    height: 52px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.reaction__comment__input {
+    flex: 1 1;
+    display: flex;
+    border-radius: 30px;
+    overflow: hidden;
+    margin-left: 12px;
+    background-color: var(--sub-background-color);
+}
+
+.reaction__icon__emotion {
+    padding: 4px;
+    font-size: 26px;
+    margin-top: 8px;
+    margin-right: 8px;
+}
+
+.reaction__comment__input textarea {
+    flex: 1 1;
+    /* border: none; */
+    outline: none;
+    padding: 10px 16px 0px 20px;
+    font-size: 16px;
+    color: var(--text-color);
+    resize: none;
+    background-color: var(--sub-background-color);
+}
+
+.reaction__comment__input textarea::placeholder {
+    color: var(--text-color);
+    opacity: 0.8;
+}
+
+.reaction__comment__input i {
+    background-color: var(--sub-background-color);
+    padding: 16px;
+    cursor: pointer;
+    color: var(--text-color);
+}
+
+@media (max-width: 520px) {
+    
+}
+
+@media (max-width: 720px) {
+
+}
+
+@media screen and (max-width: 1200px) {
+    
+}
+
+@media screen and (max-width: 960px) {
+    
+}

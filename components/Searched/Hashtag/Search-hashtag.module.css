@@ -1,0 +1,52 @@
+.hastag {
+    width: 90%;
+    height: 100%;
+    position: relative;
+    background: #DDD;
+    margin: 0 auto;
+    box-shadow: 0 2px 8px rgba(0,0,0,.3);
+    border-radius: 10px;
+    background-color: var(--white-color);
+}
+.hastag hr {
+    width: 90%;
+    margin-bottom: 10px;
+}
+.hastag-content {
+    padding: 18px;
+}
+
+.hastag-content h1 {
+    color: #f1c40f;
+}
+.hastag-content p {
+    color: var(--text-color);
+}
+
+.box-posts {
+    display: flex;
+    flex-direction: row;
+}
+
+.box-posts .box-posts-left {
+    padding: 10px;
+    flex: 50%;
+}
+
+.box-posts .box-posts-right {
+    padding: 10px;
+
+    flex: 50%;
+}
+
+
+
+@media (max-width: 800px) {
+    .box-posts .box-posts-left {
+    margin-right: 0;
+    }
+    .box-posts {
+          
+        flex-direction: column;
+      }
+    }

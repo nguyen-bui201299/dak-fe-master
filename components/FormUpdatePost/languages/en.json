@@ -1,0 +1,11 @@
+{
+    "titlePopup": "Edit Post",
+    "btnPost": "Edit",
+    "inputLink": "Add link here",
+    "public": "Public",
+    "private": "Private",
+    "titleFormPost": "Post",
+    "success": "Edit Successful",
+    "error": "Edit Fail",
+    "empty_content": "Please Enter Content!"
+}

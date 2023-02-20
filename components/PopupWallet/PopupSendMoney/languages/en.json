@@ -1,0 +1,27 @@
+{
+    "popup_send_money_title": "Transfer money to friends",
+    "popup_send_money_amount_to_transfer": "Amount",
+    "popup_send_money_recipient_wallet_address": "Recipient wallet address",
+    "popup_send_money_recipient_wallet_address_placeholder": "Paste the recipient wallet address here",
+    "popup_send_money_money_transfer_content": "Content",
+    "popup_send_money_money_transfer_content_placeholder": "Enter money transfer content...",
+    "popup_send_money_button_next": "Next",
+
+    "popup_send_money_warning_address": "You have entered the wrong wallet address",
+    "popup_send_money_warning_not_enough_point": "Not enough point",
+    "popup_send_money_warning_limt_character": "Transfer content cannot exceed 120 characters",
+    "popup_send_money_warning_note": "Invalid character",
+    "popup_send_money_success_text": "Successful transfer",
+
+    "popup_send_money_remittance_confirmation": "Remittance confirmation",
+    "popup_send_money_recipients_name": "Recipient's name",
+    "popup_send_money_transaction_fee": "Transaction fee",
+    "popup_send_money_the_sender_pays": "The sender pays",
+    "popup_send_money_recipient_pays": "Recipient pays",
+    "popup_send_money_confirm": "Confirm",
+
+    "popup_send_money_receiverAddress": "Please Input Receiver Address",
+    "popup_send_money_errorReceiverAmount": "Please Input Amount",
+    "popup_send_money_sendSuccess": "Transfer Success",
+    "popup_send_money_sendFailure": "Transfer Failure"
+}

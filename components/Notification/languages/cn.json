@@ -1,0 +1,18 @@
+{
+    "notification_title": "通知",
+    "notification_all": "全部",
+    "notification_unread": "未读",
+    "notification_markall": "阅读所有",
+    "notification_follow": "跟着你",
+    "notification_like": "喜欢你的帖子",
+    "notification_like_comment": "喜欢你的评论",
+    "notification_comment": "评论了你的帖子",
+    "notification_share": "分享了你的帖子",
+    "notification_vote": "投票给你的帖子",
+    "notification_invitegroup": "邀请你进群",
+    "notification_reply_comment": "回复了你的评论",
+    "notification_transfer_request": "汇款请求",
+    "notification_accept_post": "接受了你的帖子",
+    "notification_read_success": "全部阅读成功",
+    "notification_read_null": "没有未读通知"
+}

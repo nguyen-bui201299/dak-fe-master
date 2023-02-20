@@ -1,0 +1,37 @@
+.popup_container {
+    background-color: var(--white-color) !important;
+    padding: 1rem !important;
+    border-radius: 18px !important;
+    box-shadow: 0 0 5px 0px var(--main-color) !important;
+}
+
+.title_color {
+    color: var(--main-color) !important;
+}
+
+.confirm_btn {
+    box-shadow: none !important;
+    font-weight: 600 !important;
+    background-color: var(--main-color) !important;
+    border: 2px solid var(--main-color) !important;
+    color: #000 !important;
+}
+
+.confirm_btn:hover {
+    background-color: #faea9d !important;
+    box-shadow: 0 0px 6px 1px #faea9d9d !important;
+}
+
+.cancel_btn {
+    box-shadow: none !important;
+    font-weight: 600 !important;
+    background-color: #FFF !important;
+    transition: all .2s ease-in-out 0s !important;
+    border: 2px solid #fff !important;
+    color: #000 !important;
+}
+
+.cancel_btn:hover {
+    background-position: 40% 0 !important;
+    box-shadow: 0 8px 20px -10px var(--icon-color) !important;
+}

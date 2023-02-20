@@ -1,0 +1,10 @@
+{
+    "create_group_success":"สร้างกลุ่มที่ประสบความสำเร็จ",
+    "create_group_fail": "สร้างกลุ่มไม่สำเร็จ",
+    "create_group_enter_name":"คุณยังไม่ได้ป้อนชื่อกลุ่ม",
+
+    "ban_successfully" : "ความสำเร็จที่ต้องห้าม",
+    "unban_successfully": "เลิกบล็อกสำเร็จ",
+    "ban_fail" : "ห้ามความล้มเหลว",
+    "unban_fail": "ปลดแบนล้มเหลว"
+}

@@ -1,0 +1,47 @@
+{
+    "censorship_censor": "Censor",
+
+    "change_role_title": "Baguhin ang Tungkulin",
+    "change_role_admin": "Admin",
+    "change_role_censor": "Censor",
+    "change_role_member": "Miyembro",
+    "change_role_change_btn": "Baguhin",
+
+    "modal_edit_edit_information": "I-edit ang Impormasyon",
+    "modal_edit_group_name": "Pangalan ng grupo",
+    "modal_edit_input_group_name": "Ipasok ang Pangalan ng Grupo Dito...",
+    "modal_edit_privacy": "Pagkapribado",
+    "modal_edit_global_group": "Pampublikong Grupo",
+    "modal_edit_private_group": "Pribadong Grupo",
+    "modal_edit_save_btn": "I-save",
+
+    "popup_edit_group_image_success": "Baguhin ang Tagumpay ng Larawan",
+    "popup_edit_group_update_information_success": "I-update ang Tagumpay ng Impormasyon",
+    "popup_edit_group_edit_group_information": "I-edit ang Impormasyon ng Grupo",
+    "popup_edit_group_avatar": "Avatar",
+    "popup_edit_group_edit": "I-edit",
+    "popup_edit_group_background": "Background",
+    "popup_edit_group_info_group": "Grupo ng Impormasyon",
+    "popup_edit_group_public_group": "Pampublikong Grupo",
+    "popup_edit_group_private_group": "Pribadong Grupo",
+    "popup_edit_group_select_image": "Piliin ang Imahe",
+    "popup_edit_group_no_gif" : "Hindi sumusuporta sa animation",
+    "popup_edit_group_update_avatar": "I-update ang Avatar Para sa Grupo",
+    "popup_edit_group_save_btn": "I-save",
+    "popup_edit_group_update_cover_photo": "I-update ang Cover Photo",
+    "popup_edit_group_group_name": "Pangalan ng grupo",
+    "popup_edit_group_input_group_name": "Ipasok ang Pangalan ng Grupo...",
+    "popup_edit_group_group_access": "Access sa Grupo",
+    "popup_edit_group_intro_group": "Ipakilala ang Grupo...",
+    "popup_edit_bg_group": "Larawan sa pabalat",
+
+    "kick_member_ban": "Ban Member",
+    "kick_member_asking": "Sigurado ka bang ipagbabawal ang miyembrong ito",
+    "kick_member_yes_btn": "Oo",
+    "kick_member_cancel_btn": "Hindi",
+
+    "ban_member": "Ipagbawal ang mga miyembro",
+    "ban_member_asking": "Sigurado ka bang ipagbawal ang user na ito",
+    "unban_member": "I-unban ang mga miyembro",
+    "unban_member_asking": "Sigurado ka bang i-unblock ang user na ito"
+}

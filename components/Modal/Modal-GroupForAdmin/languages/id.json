@@ -1,0 +1,47 @@
+{
+    "censorship_censor": "Sensor",
+
+    "change_role_title": "Ubah Peran",
+    "change_role_admin": "Admin",
+    "change_role_censor": "Sensor",
+    "change_role_member": "Anggota",
+    "change_role_change_btn": "Mengubah",
+
+    "modal_edit_edit_information": "Sunting Informasi",
+    "modal_edit_group_name": "Nama grup",
+    "modal_edit_input_group_name": "Masukkan Nama Grup Di Sini...",
+    "modal_edit_privacy": "Pribadi",
+    "modal_edit_global_group": "Grup Publik",
+    "modal_edit_private_group": "Grup Pribadi",
+    "modal_edit_save_btn": "Menyimpan",
+
+    "popup_edit_group_image_success": "Ubah Gambar Berhasil",
+    "popup_edit_group_update_information_success": "Perbarui Informasi Sukses",
+    "popup_edit_group_edit_group_information": "Edit Informasi Grup",
+    "popup_edit_group_avatar": "Avatar",
+    "popup_edit_group_edit": "Sunting",
+    "popup_edit_group_background": "Latar belakang",
+    "popup_edit_group_info_group": "Grup Info",
+    "popup_edit_group_public_group": "Grup Publik",
+    "popup_edit_group_private_group": "Grup Pribadi",
+    "popup_edit_group_select_image": "Pilih gambar",
+    "popup_edit_group_no_gif" : "Tidak mendukung animasi",
+    "popup_edit_group_update_avatar": "Perbarui Avatar Untuk Grup",
+    "popup_edit_group_save_btn": "Menyimpan",
+    "popup_edit_group_update_cover_photo": "Perbarui Foto Sampul",
+    "popup_edit_group_group_name": "Nama grup",
+    "popup_edit_group_input_group_name": "Masukkan Nama Grup...",
+    "popup_edit_group_group_access": "Akses Grup",
+    "popup_edit_group_intro_group": "Perkenalkan Grup...",
+    "popup_edit_bg_group": "Foto sampul",
+
+    "kick_member_ban": "Larangan Anggota",
+    "kick_member_asking": "Apakah Anda yakin untuk melarang anggota ini?",
+    "kick_member_yes_btn": "Ya",
+    "kick_member_cancel_btn": "Tidak",
+
+    "ban_member": "Larangan anggota",
+    "ban_member_asking": "Apakah Anda yakin untuk mencekal pengguna ini",
+    "unban_member": "Batalkan pencekalan anggota",
+    "unban_member_asking": "Apakah Anda yakin untuk membebaskan pengguna ini"
+}

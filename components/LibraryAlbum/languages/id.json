@@ -1,0 +1,10 @@
+{
+    "libraryAlbum_add_success": "Tambahkan Ke Galeri Sukses",
+    "libraryAlbum_add_fail": "Tambahkan Ke Galeri Gagal",
+    "libraryAlbum_title": "Tambahkan Ke Galeri",
+    "libraryAlbum_createLibrary_btn": "Buat Galeri",
+    "libraryAlbum_addToLibrary_btn": "Tambahkan Ke Galeri",
+    "libraryAlbum_check_post": "Sudah ada postingan di album ini",
+    "libraryAlbum_select_album": "Silakan pilih minimal 1 album"
+
+}

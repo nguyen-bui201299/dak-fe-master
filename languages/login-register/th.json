@@ -1,0 +1,45 @@
+{
+    "login": {
+        "title": "เข้าสู่ระบบ"
+    },
+    "register": {
+        "title": "ลงทะเบียน"
+        
+    },
+
+    "login-register:welcome": "ยินดีต้อนรับสู่ DAK!",
+    "login-register:script": "เข้าร่วมตอนนี้เพื่อสร้างเพื่อนใหม่ สร้างกลุ่ม เพิ่มรูปภาพ และอื่นๆ",
+    "login-register:password_placeHolder": "รหัสผ่าน",
+    "login-register:forgot_password": "ลืมรหัสผ่าน",
+    "login-register:loginWith": "เข้าสู่ระบบด้วย",
+    "login-register:hadPassword": "มีบัญชีอยู่แล้ว?",
+    "login-register:noPassword": "ไม่มีบัญชี?",
+    "login-register:fullName": "ชื่อเต็ม",
+    "login-register:userName": "ชื่อผู้ใช้",
+    "login-register:email": "อีเมล",
+    "login-register:password_authentication_placeHolder": "ยืนยันรหัสผ่าน",
+    "login-register:phone-number": "หมายเลขโทรศัพท์",
+    "login-register:policyMessage": "โปรดยอมรับข้อกำหนดและเงื่อนไขของเรา",
+    "login-register:agreeMessage": "ฉันเห็นด้วยกับเว็บไซต์ของคุณ",
+    "login-register:policyLink": "ข้อกำหนดและเงื่อนไขและนโยบายความเป็นส่วนตัว",
+    "login-register:success_message": "เข้าสู่ระบบสำเร็จ",
+    "login-register:error_message": "บัญชีไม่ถูกต้อง โปรดตรวจสอบอีเมลหรือหมายเลขโทรศัพท์และรหัสผ่านของคุณ",
+    "login-register:save-account": "บันทึกบัญชี?",
+    "login-register:gender": "เพศ",
+    "login-register:male": "ชาย",
+    "login-register:female": "หญิง",
+
+    "login-register:errors_message_register": {
+        "1": "ต้องระบุข้อมูลในช่องนี้",
+        "2": "ชื่อผู้ใช้ต้องสั้นกว่าหรือเท่ากับ 20 ตัวอักษร",
+        "3": "ชื่อต้องสั้นกว่าหรือเท่ากับ 20 ตัวอักษร",
+        "4": "มีชื่อผู้ใช้นี้แล้ว",
+        "5": "กรุณาใส่อีเมล์ที่ถูกต้อง",
+        "6": "มีอีเมลอยู่แล้ว",
+        "7": "รหัสผ่านต้องมีอักขระอย่างน้อย 8 ตัว รวมทั้งตัวพิมพ์ใหญ่อย่างน้อย 1 ตัว ตัวพิมพ์เล็ก 1 ตัว ตัวเลข และอักขระพิเศษ 1 ตัว",
+        "8": "ยืนยันรหัสผ่านไม่ตรงกัน",
+        "9": "วันที่ไม่ถูกต้อง"
+    },
+
+    "login-register:success_message_register": "Register successfully"
+}

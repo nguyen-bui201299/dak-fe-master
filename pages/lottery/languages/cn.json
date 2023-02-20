@@ -1,0 +1,11 @@
+{
+    "lottery_next_draw": "下一次抽奖",
+    "lottery_buy_ticket": "买票",
+    "detail_rule": "规则",
+    "detail_luck": "试试你的运气",
+    "detail_time": "时间",
+    "detail_Jackpot": "头奖",
+    "detail_rule_1": "1. 数字必须与结果中的数字相匹配，但不需要顺序正确",
+    "detail_rule_2": "2. 每10分钟抽奖一次",
+    "detail_rule_3": "3. 彩票结果直接显示在销售点的电视屏幕上"
+}

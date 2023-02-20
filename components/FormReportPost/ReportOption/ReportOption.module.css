@@ -1,0 +1,115 @@
+.optionReport {
+    margin-bottom: 5px;
+}
+
+.optionsList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+    transition: 0.3s;
+}
+
+/* .options:last-child {
+    display: none;
+} */
+
+
+
+.options,
+.options__dark,
+.options__active {
+    /* margin-right: 15px; */
+    padding: 10px;
+    border-radius: 12px;
+    text-align: left;
+    font-size: 0.8rem;
+    font-weight: 700;
+    height: 50px;
+    border: solid 2px #fff;
+    transition: 0.2s;
+    /* display: none; */
+}
+
+
+.options__dark {
+    background-color: black;
+    border: solid 2px black;
+    color: rgb(208, 208, 208);
+}
+
+.options__dark:hover {
+    background-color: rgb(100, 100, 100);
+    border: solid 2px rgb(100, 100, 100);
+    cursor: pointer;
+}
+
+
+
+.options:hover {
+    color: #f9d205;
+    border: solid 2px #f9d205;
+    cursor: pointer;
+    cursor: pointer;
+}
+
+.options__active {
+    background-color: #f9d205;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+/* ---------------- giao diện khi chọn other issues ------------------------ */
+.content__others {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.optionsList__others {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 10px;
+    transition: 0.3s;
+    width: 100%;
+
+}
+
+.options__others {
+    min-width: 100px;
+    height: 30px;
+    background-color: var(--gray-color);
+    color: var(--chat-name);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.input__others {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: var(--gray-color);
+    border-color: transparent;
+    border-radius: 12px;
+    color: var(--chat-name);
+}
+
+.input__others:focus {
+    border-color: transparent;
+}
+
+.input__others:empty:before {
+    content: attr(data-placeholder);
+    color: var(--main-text)
+}

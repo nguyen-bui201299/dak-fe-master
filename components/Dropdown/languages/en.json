@@ -1,0 +1,18 @@
+{
+    "DropdownForGroup_Unfollow_Group":"Unfollow the group",
+    "DropdownForGroup_Manage_notifications":"Manage notifications",
+    "DropdownForGroup_Leave_Group":"Leave group",
+
+    "continueWatching": "Continue Watching",
+    "addGallery": "Add to gallery",
+    "copyUrl": "Copy URL",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirmOwner": "Confirm Owner",
+    "report": "Report",
+    "deletePostFromGallery": "Delete Post From Gallery",
+
+    "copyURL_success": "Copy URL Success",
+    "authenticationPost_succeed_before": "This Post Has Been Verified Before",
+    "authenticationPost_error": "Verify Post Fail"
+}

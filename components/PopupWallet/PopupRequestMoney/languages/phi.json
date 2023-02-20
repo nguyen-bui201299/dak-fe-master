@@ -1,0 +1,23 @@
+{
+    "popup_request_money_title": "Hilingin sa mga kaibigan na magpadala ng pera",
+    "popup_request_amount_to_receive": "Halaga",
+    "popup_request_sender_wallet_address": "Address ng wallet ng nagpadala",
+    "popup_request_sender_wallet_address_placeholder": "Idikit dito ang wallet address ng nagpadala",
+
+    "popup_request_amount_to_transfer": "Halaga",
+    "popup_request_confirm_sending_request": "Kumpirmahin ang pagpapadala ng kahilingan",
+    "popup_request_money_senders_name": "Pangalan ng nagpadala",
+    "popup_request_money_content": "Nilalaman",
+    "popup_request_money_content_placeholder": "Nilalaman....",
+
+    "popup_request_money_warning_address": "Maling address ng wallet ang nailagay mo!",
+    "popup_request_money_success_transfers": "Matagumpay na paglipat",
+
+    "popup_request_money_button_next": "Susunod",
+    "popup_request_money_confirm": "Kumpirmahin",
+
+    "popup_request_amount_errorSenderAddress": "Mangyaring I-input ang Receiver Address",
+    "popup_request_amount_errorAmount": "Mangyaring Mag-input ng Halaga",
+    "popup_request_money_warning_note": "Di-wastong character",
+    "popup_request_amount_requestSuccess": "Humiling ng Tagumpay"
+}

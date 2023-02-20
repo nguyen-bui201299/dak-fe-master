@@ -1,0 +1,26 @@
+{
+    "createAlbum_title": "Membuat album",
+    "createAlbum_settings": "Pengaturan",
+    "createAlbum_album_name": "Nama Album",
+    "createAlbum_upload_images_videos": "Unggah Foto",
+    "createAlbum_upload_btn": "Mengunggah",
+    "createAlbum_no_gif": "Tidak mendukung animasi",
+    "createAlbum_no_avatar": "Pilih foto untuk album Anda",
+    "createAlbum_success": "Buat album berhasil",
+    "createAlbum_same_name": "Sudah punya album ini",
+
+    "albumEdit_success": "Sunting Sukses",
+    "albumEdit_title": "Sunting",
+    "albumEdit_settings": "Pengaturan",
+    "albumEdit_albumName": "Nama Album",
+    "albumEdit_submit_btn": "Menyimpan",
+
+    "delAlbum_success": "Hapus Sukses",
+    "delAlbum_doYouWant": "Apa kau mau",
+    "delAlbum_del": "menghapus",
+    "delAlbum_thisAlbum": "album ini",
+    "delAlbum_yes_btn": "Ya",
+    "delAlbum_close_btn": "Tidak",
+
+    "delAlbumSuccess_success": "Hapus Sukses"
+}

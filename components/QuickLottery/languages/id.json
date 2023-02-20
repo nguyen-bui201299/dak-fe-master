@@ -1,0 +1,21 @@
+{
+    "quick_lottery_button": "Coba keberuntugan",
+    "lottery_header": "Lotre",
+    "rule_lottery": "Aturan",
+    "lottery_title": "LOTRE",
+    "quick_lottery_success": "Beli Lotere Sukses",
+    "quick_lottery_error_duplicate": "Di antara nomor yang dibeli, ada nomor duplikat",
+    "quick_lottery_error_limitnum": "Hanya masuk antara 1 dan 45",
+    "quick_lottery_erorr_word": "Jangan masukkan karakter",
+    "quick_lottery_error_blank": "Tidak boleh dikosongkan",
+    "quick_lottery_error_tryagain": "Masukkan nomornya dan coba lagi!",
+    "quick_lottery_error_enterduplicate": "Nomor yang Anda masukkan adalah duplikat",
+    "quick_lottery_error_enterlimitnum": "Nomor yang Anda masukkan melebihi batas",
+    "quick_lottery_quick_lottery": "Dapatkan nomor cepat",
+    "quick_lottery_warn_not_enough_point": "Poin tidak cukup",
+
+    "rule_lottery_1": "Pilih nomor dari 01 hingga 45 untuk kesempatan memenangkan Jackpot.",
+    "rule_lottery_2": "Tidak masalah posisi nomor, memiliki nomor adalah hadiah yang menang.",
+    "rule_lottery_3": "Mega 6/45 buka pada pukul 10:00 pagi dan 22:00 malam pada hari kerja."
+
+}

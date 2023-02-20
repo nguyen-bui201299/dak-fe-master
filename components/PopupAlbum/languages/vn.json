@@ -1,0 +1,26 @@
+{
+    "createAlbum_title": "Tạo Album",
+    "createAlbum_settings": "Tùy chỉnh",
+    "createAlbum_album_name": "Tên Album",
+    "createAlbum_upload_images_videos": "Tải lên hình ảnh",
+    "createAlbum_upload_btn": "Tải lên",
+    "createAlbum_no_gif": "Không hỗ trợ ảnh động",
+    "createAlbum_no_avatar": "Chọn ảnh cho album của bạn",
+    "createAlbum_success": "Tạo album thành công",
+    "createAlbum_same_name": "Đã có album này",
+
+    "albumEdit_success": "Chỉnh sửa thành công",
+    "albumEdit_title": "Chỉnh sửa",
+    "albumEdit_settings": "Tùy chỉnh",
+    "albumEdit_albumName": "Tên Album",
+    "albumEdit_submit_btn": "Lưu",
+
+    "delAlbum_success": "Xóa thành công",
+    "delAlbum_doYouWant": "Bạn muốn",
+    "delAlbum_del": "xóa",
+    "delAlbum_thisAlbum": "album này",
+    "delAlbum_yes_btn": "Có",
+    "delAlbum_close_btn": "Không",
+
+    "delAlbumSuccess_success": "Xóa thành công"
+}

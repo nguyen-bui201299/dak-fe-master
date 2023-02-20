@@ -1,0 +1,11 @@
+{
+    "popup_stake_title": "确认股权",
+    "popup_stake_amount_to_stake": "质押金额",
+    "popup_stake_period": "时期",
+    "popup_stake_interest_rates_year": "利率（%/年）",
+    "popup_stake_interest_rates": "利率",
+    "popup_stake_start_day": "开始日",
+    "popup_stake_end_date": "完成日期",
+    "popup_stake_receiving_wallet_address_interest": "收款钱包地址利息",
+    "popup_stake_button_confirm": "确认"
+}

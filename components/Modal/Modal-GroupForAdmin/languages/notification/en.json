@@ -1,0 +1,10 @@
+{
+    "create_group_success":"Create a successful group",
+    "create_group_fail": "Create group failed",
+    "create_group_enter_name":"You have not entered the group name",
+
+    "ban_successfully" : "Ban successfully",
+    "unban_successfully": "Unban successfully",
+    "ban_fail" : "Failed ban",
+    "unban_fail": "Failed Unban"
+}

@@ -1,0 +1,184 @@
+.deleted-overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 60px;
+  left: 0;
+  background-color: var(--bg-rgba);
+  z-index: 4;
+  padding-top: 30vh;
+}
+
+.deleted-content {
+  max-width: 490px;
+  background-color: var(--white-color);
+  border-radius: var(--box-borderRadius-size);
+  box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px,
+    rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px,
+    rgb(5 1 5 / 4%) 20px 20px 20px;
+  margin: 20px auto 0;
+  padding: 24px;
+  -webkit-animation: showPopup linear 0.25s;
+  animation: showPopup linear 0.25s;
+  transition: all ease 0.25s;
+  overflow: hidden;
+}
+
+.deleted-title {
+  margin: 0;
+  text-align: center;
+  font-size: 25px;
+  color: var(--main-text);
+}
+
+.deleted-buttons {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 25px;
+}
+
+.button {
+  padding: 4px 35px;
+  font-size: 20px;
+  border: 0;
+  background-color: var(--gray-color);
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.button.active {
+  background-color: var(--main-color);
+}
+
+.deleted-close {
+  max-width: 320px;
+  background-color: var(--white-color);
+  border-radius: var(--box-borderRadius-size);
+  box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px,
+    rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px,
+    rgb(5 1 5 / 4%) 20px 20px 20px;
+  margin: 20px auto 0;
+  padding: 12px;
+  animation: closePopup linear 1s;
+  animation-fill-mode: forwards;
+  transition: all ease 0.25s;
+  overflow: hidden;
+}
+
+@keyframes showPopup {
+  from {
+    opacity: 0;
+    transform: scale(0);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes closePopup {
+  0% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  20%,
+  80% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0);
+  }
+}
+
+/* ====== RESPONSIVE ====== */
+@media(max-width: 320px) {
+  .deleted-overlay {
+    top: 50px;
+  }
+  .deleted-content {
+    width: 90%;
+  }
+  .deleted-title {
+    font-size: 18px;
+  }
+  .button {
+    width: 8rem;
+    padding: 4px;
+    font-size: 18px;
+  }
+  .button.active {
+    margin-right: 0.5rem;
+  }
+  .deleted-close {
+    width: 300px;
+  }
+}
+@media(min-width: 321px) and (max-width: 540px) {
+  .deleted-overlay {
+    top: 50px;
+  }
+  .deleted-content {
+    width: 90%;
+  }
+  .deleted-title {
+    font-size: 18px;
+  }
+  .button {
+    width: 8rem;
+    padding: 4px;
+    font-size: 18px;
+  }
+  .button.active {
+    margin-right: 0.5rem;
+  }
+}
+@media(min-width: 541px) and (max-width: 720px) {
+  .deleted-overlay {
+    top: 50px;
+  }
+  .deleted-content {
+    width: 90%;
+  }
+  .deleted-title {
+    font-size: 18px;
+  }
+  .button {
+    width: 8rem;
+    padding: 4px;
+    font-size: 18px;
+  }
+  .button.active {
+    margin-right: 0.5rem;
+  }
+}
+@media(min-width: 721px) and (max-width: 960px) {
+  .deleted-overlay {
+    top: 50px;
+  }
+  .deleted-content {
+    width: 90%;
+  }
+  .deleted-title {
+    font-size: 20px;
+  }
+  .button {
+    width: 8rem;
+    padding: 4px;
+    font-size: 18px;
+  }
+  .button.active {
+    margin-right: 0.5rem;
+  }
+}
+@media(min-width: 961px) and (max-width: 1200px) {
+  .deleted-overlay {
+    top: 50px;
+  }
+}
+@media(min-width: 1201px) and (max-width: 1500px) {}
+@media(min-width: 1501px) and (max-width: 1920px) {}
+@media(min-width: 1921px) {}
+

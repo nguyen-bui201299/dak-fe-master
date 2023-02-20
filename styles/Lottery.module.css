@@ -1,0 +1,1469 @@
+/* Chứa toàn bộ phần xổ số*/
+.Container__Merge__Box__Lottery{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-height: 100vh;
+    gap: 1%;
+    margin-bottom: 2%;
+}
+
+/* Chứa các mini box xổ số*/
+.Container__Mini__Box__Lottery{
+    position: relative;
+    flex: 1 1 48%; 
+    background-color: var(--box-background-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: 
+    rgb(5 1 5 / 14%) 5px 5px 5px 5px, 
+    rgb(5 1 5 / 2%) 10px 10px 10px 10px, 
+    rgb(5 1 5 / 0%) 15px 15px 15px 15px, 
+    rgb(5 1 5 / 4%) 20px 20px 20px;
+    margin: 0% 0% 1.6% 0%;
+}
+
+.Title__Mini__Box__Lottery{
+    position: relative;
+    text-align: center;
+    color: var(--text-color);
+    background: linear-gradient(to right, #ffdd00, #fb2f2f, #fb922f 80%, #ffdd00 100%);
+    background-size: 200% auto;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 3s linear infinite; 
+}
+
+.Box__Lottery{
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.Box__Lottery__ul{
+    position: absolute;
+    left: 10%;
+    width: 80%;
+    display: inline-flex;
+    margin: 0;
+    padding: 0;
+    gap: 0rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.Box__Lottery__li{
+    list-style-type: none;
+    border: 0.1rem solid var(--main-color);
+    background-color: var(--box-background-color);
+    margin: 0rem 0rem 0rem -0.4rem;
+    padding: 1.0rem 1.0rem;
+    border-radius: 50%;
+}
+
+.Box__Lottery__li__number{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    color: var(--text-color);
+    font-size: var(--title-fontSize);
+    text-align: center;
+}
+/* Phần ghi chú xổ số */
+.Detail__Lottery__Box{
+    position: relative;
+    margin-top: 20%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: var(--text-color);
+}
+
+.Detail__Lottery__Box__text__h2{
+    line-height: 0.9rem;
+    color: var(--sub-title-color);
+}
+
+.Detail__Lottery__Box__text__span{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 2%;
+    font-size: var(--text-fontSize);;
+    color: var(--title-color);
+}
+
+.Detail__Lottery__Box__text__p1{
+    line-height: 0.2rem;
+    color: var(--sub-title-color);;
+    font-size: var(--text-fontSize);
+}
+
+.Detail__Lottery__Box__text__p2{
+    line-height: 0.2rem;
+    font-size: var(--text-fontSize);
+    padding: 4px 0;
+}
+
+/* Phần chuyển trang và mua xổ số */
+.Button__Group{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+    margin-bottom: 2%;
+}
+
+.Button__Website{
+    position: relative;
+    width: 7.2rem;
+    height: 2.4rem;
+    border: 0.1rem solid #fff;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: var(--box-background-color);
+    color: var(--text-color);
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.Button__Website:hover {
+    background-image: linear-gradient(315deg, #eb732d 5%, #eba22d 30%, #eb732d 60%);
+    background-size: 200% 100%;
+    background-position: 100% 0;
+    transition : background-position .2s ease-in-out 0s;
+    border: 2px solid var(--main-color);
+    outline: none;
+}
+
+.Button__Sell{
+    position: relative;
+    width: 7.2rem;
+    height: 2.4rem;
+    border-radius: 10px;
+    box-sizing: border-box;
+    /* color: var(--sub-title-color); */
+    cursor: pointer;
+    background-image: linear-gradient(315deg, #eb732d 5%, #ffdd00 30%, #eba22d 60%);
+    background-size: 200% 100%;
+    background-position: 100% 0;
+    transition : background-position .2s ease-in-out 0s;
+    border: 2px solid var(--main-color);
+    outline: none;
+}
+
+.Button__Sell:hover {
+    background-position: 40% 0;
+    box-shadow: 0 8px 20px -8px rgb(255, 230, 0);
+}
+
+/* Trang chi tiết xổ số */
+.Detaillottery__Container__Box{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #00000080;
+    border: 2px solid var(--main-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: 
+    rgb(5 1 5 / 14%) 5px 5px 5px 5px, 
+    rgb(5 1 5 / 2%) 10px 10px 10px 10px, 
+    rgb(5 1 5 / 0%) 15px 15px 15px 15px, 
+    rgb(5 1 5 / 4%) 20px 20px 20px;
+}
+
+.Detaillottery__Container__Box h2{
+    color: var(--main-text);
+}
+
+.Detaillottery__Container__Box h2 span{
+    font-size: 52px;
+    color: var(--main-color);
+    /* background: -webkit-linear-gradient(315deg, #ffdd00 0%, #fbb034 89%); */
+    background: linear-gradient(to right, #ffdd00, #fb2f2f, #fb922f 80%, #ffdd00 100%);
+    background-size: 200% auto;
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 3s linear infinite;  
+}
+
+.Detaillottery__Container__Box__Mega{
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Text__Box__Mega {
+    position: relative;
+    color: var(--text-color);
+    font-size: 108px;
+    text-align: center;
+    padding-top: 0;
+    /* line-height: 0.6rem; */
+    margin-bottom: 0;
+    letter-spacing: 0.6rem;
+    margin-top: 0;
+    /* background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%); */
+    background: linear-gradient(to right, #ffdd00, #fb2f2f, #fb922f 80%, #ffdd00 100%);
+    background-size: 200% auto;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 3s linear infinite;   
+}
+@keyframes shine {
+    to {
+      background-position: 200% center;
+    }
+}
+
+.Text__Box__Mega__Price {
+    color: var(--main-color);
+}
+
+.Hr__Lottery{
+    width: 20%;
+}
+
+.Rule__Lottery{
+    position: absolute;
+    display: flex;
+    width: 9rem; 
+    top: 6%;
+    right: 3%;
+    color: var(--text-color);
+    font-size: var(--text-fontSize);
+    border-radius: 20px;
+    background-color: var(--box-background-color);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 3%;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.Icon__rule{
+    font-size: 1.5rem;
+}
+
+/* Computer Lottery */
+.Computer__Lottery{
+    position: relative;
+    width: 100%;
+    display: inline-flex;
+    margin: 0 0rem 2rem 0;
+    padding: 0.6rem 1.5rem;
+    gap: 0rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.Computer__Lottery__ul{
+    position: relative;
+    width: 80%;
+    display: inline-flex;
+    margin: 0;
+    padding: 0;
+    gap: 0rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.Computer__Lottery__li{
+    list-style-type: none;
+    border: 3px solid var(--main-color);
+    background-color: var(--box-background-color);
+    margin: 0rem 0rem 0rem -0.4rem;
+    padding: 1.8rem 1.8rem;
+    border-radius: 50%;
+}
+
+.Computer__Lottery__li__number{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+/* Player Lottery */
+.PLayer__Lottery{
+    position: relative;
+    width: 100%;
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.Player__Lottery__ul{
+    position: relative;
+    display: inline-flex;
+    margin: 0rem;
+    padding: 0.6rem 1.5rem;
+    gap: 0rem;
+    justify-content: center;
+    align-items: center;
+    /* border: 0.1rem dashed #ffdd00;
+    border-radius: 30px; */
+    background: linear-gradient(90deg, #ffdd00 50%, transparent 50%), 
+                linear-gradient(90deg, #ffa600 50%, transparent 50%), 
+                linear-gradient(0deg, #ffdd00 50%, transparent 50%), 
+                linear-gradient(0deg, #ffa600 50%, transparent 50%);
+    background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+    background-size: 12px 1.5px, 12px 1.5px, 2px 12px, 2px 12px;
+    background-position: 0% 0%, 100% 100%, 0% 100%, 100% 0px;
+    border-radius: 5px;
+    animation: dash 5s linear infinite;
+}
+
+@keyframes dash {
+    to {
+        background-position: 100% 0%, 0% 100%, 0% 0%, 100% 100%;
+    }
+}
+
+.Player__Lottery__li{
+    list-style-type: none;
+    /* border: 0.1rem solid var(--default-color); */
+    background-color: var(--main-text);
+    margin: 0rem 0rem 0rem -0.8rem;
+    /* padding: 1.8rem 1.8rem; */
+    border-radius: 50%;
+    border: 3px solid transparent;
+}
+
+.Player__Lottery__li:focus-within{
+    z-index: 99;
+    border: 3px solid rgb(255, 217, 0);
+}
+
+/* .Player__Lottery__li__number{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    color: var(--default-color);
+    text-align: center;
+} */
+
+.Player__Lottery__li__number__input{
+    position: relative;
+    color: var(--default-color);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 5.6rem;
+    height: 5.6rem;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    border-radius: 50%;
+    border: 3px solid var(--default-color);
+}
+
+.Player__Lottery__li__number__input::-webkit-inner-spin-button{ 
+    display: none;
+}
+
+.Player__Lottery__li__number__input::placeholder{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    color: var(--youtube-color);
+    margin-top: 5%;  
+    opacity: 0.5;
+}
+
+.Button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Button__Check__Lottery{
+    transition : all .2s ease-in-out 0s;
+    position: relative;
+    margin: 2rem 10px;
+    width: 200px;
+    height: 100%;
+    padding: 0.5rem;
+    border-radius: 28px;
+    box-sizing: border-box;
+    cursor: pointer;
+    /* background-image: linear-gradient(112.63deg, #F7F9A7 50%, rgb(216, 197, 23) 80%, rgba(238, 231, 173, 0.9) 97.59%);
+    background-size: 200% 100%;
+    background-position: 100% 0; */
+    background-color: var(--main-color);
+    border: transparent;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+.Button__Check__Lottery:hover {
+    /* background-position: 40% 0; */
+    /* box-shadow: 0 8px 8px -8px #faea9d; */
+    /* background-image: linear-gradient(to left, #ff7f02 0%, #f5c000bf 100%); */
+    /* background-image: linear-gradient(to left, #ff7f02 0%, #f5c000bf 100%); */
+    background-color: #faea9d;
+    box-shadow: 0 0px 6px 1px #faea9d9d;
+}
+
+.Button__Check__Lottery:active {
+    box-shadow: 0 8px 20px -8px #faea9d;
+    transition: .2 ease-in-out;
+    transform: scale(1.05);
+}
+
+
+.Button__Check__Lottery h2 {
+    color: #3f3501;
+    line-height: 1rem;
+}
+
+/* Box__rule__lottery */
+.Box__Rule__Show{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    left: 10%;
+    top: 15%;
+    color: var(--text-color);
+    background-color: var(--box-background-color);
+    border: 0.1rem solid var(--main-color);
+    font-size: var(--text-fontSize);
+    text-align: center;
+    z-index: 1;
+}
+
+.Box__Rule__Show__Quick{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    left: 0%;
+    top: 14%;
+    color: var(--text-color);
+    background-color: var(--box-background-color);
+    border: 0.1rem solid var(--main-color);
+    font-size: var(--text-fontSize);
+    text-align: center;
+    z-index: 1000;
+}
+
+.Box__Rule__Header{
+    position: relative;
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-top: 1%;
+    align-items: center;
+    text-align: center;
+}
+
+.Box__Rule__Header__h3{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.Box__Rule__Header__Mini{
+    position: relative;
+    display: flex;
+    width: 26px;
+    height: 26px;
+    border: 0.1rem solid var(--default-color);
+    background-color: var(--main-text);
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+.Hr__Box__Rule{
+    position: relative;
+    width: 90%;
+}
+
+.Box__Rule__Main{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.Box__Rule__Main__ul{
+    position: relative;
+}
+
+.Box__Rule__Main__ul{
+    position: relative;
+}
+
+.Box__Rule__Main__Quick__ul{
+    position: relative;
+    padding-inline-start: 10px;
+    padding-right: 10px;
+}
+
+.Box__Rule__Main__li{
+    list-style-type: none;
+    text-align: left;
+}
+
+/* Jackpot - History - Box */
+.Box__Detail{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-top: 22px;
+    padding: 12px 0px;
+}
+
+.Box__Detail__ul{
+    position: relative;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.Box__Detail__li{
+    margin-right: 32px;
+    color: var(--main-text);
+    font-size: 18px;
+}
+
+.Box__Detail__li.hover {
+    padding: 8px 16px;
+    border-bottom: 2px solid transparent;
+}
+
+.Box__Detail__li.hover:hover {
+    color: var(--main-color);
+    background-color: var(--bg-profile);
+    border-bottom: 2px solid var(--main-color);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    transition: all ease 0.25s;
+}
+
+.Box__Detail__li.active {
+    color: var(--main-color);
+}
+
+.Box__Detail__link{
+    font-weight: bold;
+}
+
+/* Table - Jackpot */
+.Box__Table__Jackpot{
+    position: relative;
+    width: 100%;
+    background-color: var(--box-background-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: 
+    rgb(5 1 5 / 14%) 5px 5px 5px 5px, 
+    rgb(5 1 5 / 2%) 10px 10px 10px 10px, 
+    rgb(5 1 5 / 0%) 15px 15px 15px 15px, 
+    rgb(5 1 5 / 4%) 20px 20px 20px;
+    /* padding: 0 10px; */
+    margin-bottom: 3rem;
+    max-height: 600px;
+    min-height: fit-content;
+    overflow: auto;
+}
+
+.Box__Table__Jackpot_2 {
+    padding: 0 4px;
+}
+
+.Table__Jackpot{
+    position: relative;
+    width: 100%;
+    font-size: var(--title-fontSize);
+    color: var(--text-color);
+    justify-content: center;
+    border-radius: var(--box-borderRadius-size);
+    /* border: 1px solid var(--text-color) !important; */
+    border-collapse: collapse;
+}
+
+.Table__Jackpot__thead {
+    position: sticky;
+    top: 0;
+    background-color: var(--box-background-color);
+    z-index: 1;
+}
+
+.Table__Jackpot__tr{
+    position: relative;
+    padding-bottom: 10px;
+}
+
+/* Phần đầu */
+.Table__Jackpot__th{    
+    border-right: 0.08rem solid var(--text-color);
+    margin: 0;
+    padding: 20px 10px;
+    font-size: 20px;
+    height: 80px;
+    user-select: none;
+}
+
+.Table__Jackpot__th:first-child {
+    width: 25%;
+}
+
+.Table__Jackpot__th:nth-child(2) {
+    width: 25%;
+}
+
+
+.Table__Jackpot__th:last-child  {
+    border-right: none;
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.Table__Jackpot__th:last-child p {
+    font-size: 16px;
+    color: var(--main-color);
+    cursor: pointer;
+    position: absolute;
+    right: 50%;
+    bottom: -12%;
+    transform: translateX(50%);
+}
+
+/* Phần thân */
+.Table__Jackpot__td{
+    position: relative;
+    text-align: center;
+    font-size: large;
+    border-right: 0.08rem solid var(--text-color);
+    padding: 10px;
+}
+
+.Table__Jackpot__td__special{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Table__Jackpot__td__special .has__claim {
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.4s ease;
+    user-select: none;
+    cursor: pointer;
+    color: grey;
+    margin: 0;
+}
+
+/* Show Lottery */
+.Jackpot__show{
+    position: relative;
+}
+
+.Jackpot__show__ul{
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    display: inline-flex;
+    padding: 0;
+
+}
+
+.Jackpot__show__li{
+    position: relative;
+    list-style-type: none;
+    margin-right: 4px;
+}
+
+.btn_claim_reward button{
+    padding: 10px;
+    max-width: 150px;
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    background: var(--main-color);
+    transition: 0.4s ease;
+    user-select: none;
+    cursor: pointer;
+
+}
+
+.btn_claim_reward button.clicked {
+    pointer-events: none;
+    background: transparent;
+    color: grey;
+}
+
+.btn_claim_reward button:hover {
+    background: rgb(243, 222, 118)
+}
+
+/* Reponsive */
+@media(max-width: 320px) {
+    .Container__Merge__Box__Lottery {
+        margin: 12px 2% 2%;
+    }
+    .Container__Mini__Box__Lottery {
+        width: 100%;
+        margin-bottom: 16px;
+        margin-right: 2%;
+        padding: 4%;
+    }
+    .Title__Mini__Box__Lottery {
+        font-size: 28px;
+        margin: 6px 0 12px;
+    }
+    .Box__Lottery__li {
+        padding: 0.6rem 0.8rem;
+    }
+    .Detail__Lottery__Box {
+        margin-top: 24%;
+    }
+    .Detail__Lottery__Box__text__h2 {
+        font-size: 22px;
+        margin: 12px 0;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box__text__span {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .Detail__Lottery__Box__text__p1 {
+        line-height: unset;
+        font-weight: 500;
+        margin-bottom: 6px;
+    }
+    .Detail__Lottery__Box__text__p2 {
+        line-height: unset;
+        margin-top: 6px;
+    }
+    .Button__Website {
+        font-weight: 600;
+    }
+    .Button__Sell {
+        font-weight: 600;
+        border: none;
+    }
+    .Detaillottery__Container__Box__Mega {
+        padding: 2%;
+        margin-top: 12px;
+    }
+    .Text__Box__Mega {
+        font-size: 60px;
+    }
+    .Rule__Lottery {
+        display: none;
+    }
+    .Hr__Lottery {
+        width: 50%;
+    }
+    .Text__Box__Mega__Price {
+        font-size: 17px;
+        font-weight: 500;
+    }
+    .Computer__Lottery {
+        padding-bottom: 1rem;
+    }
+    .Player__Lottery__ul {
+        width: 90%;
+    }
+    .Computer__Lottery__li {
+        font-size: 15px;
+        font-weight: 400;
+        padding: 0.6rem 0.7rem;
+    }
+    .Player__Lottery__li__number__input {
+        width: 3rem;
+        height: 3rem;
+    }
+    .Button__Check__Lottery {
+        font-weight: 600;
+        text-transform: capitalize;
+        width: 50%;
+        height: 3rem;
+        margin-top: 18px;
+        border: none;
+        outline: none;
+    }
+    .Box__Detail {
+        margin-top: 8px;
+        justify-content: center;
+    }
+    .Box__Detail__li {
+        margin-right: 24px;
+        font-size: 12px;
+    }
+    .Box__Detail__li:last-child {
+        margin-right: unset;
+    }
+    .Table__Jackpot {
+        margin: 0px;
+    }
+    .Table__Jackpot__th:nth-child(3),
+    .Table__Jackpot__th:nth-child(4) {
+        display: none;
+    }
+    .Table__Jackpot__th {
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .Table__Jackpot__td:nth-child(3),
+    .Table__Jackpot__td__special {
+        display: none;
+    }
+    .Table__Jackpot__td {
+        font-size: 15px;
+    }
+}
+
+@media(min-width: 321px) and (max-width: 540px) {
+    .Container__Merge__Box__Lottery {
+        margin: 12px 2% 2%;
+    }
+    .Container__Mini__Box__Lottery {
+        width: 100%;
+        margin-bottom: 16px;
+        margin-right: 2%;
+        padding: 4%;
+    }
+    .Title__Mini__Box__Lottery {
+        font-size: 28px;
+        margin: 6px 0 12px;
+    }
+    .Box__Lottery__li {
+        padding: 0.6rem 0.8rem;
+    }
+    .Detail__Lottery__Box {
+        margin-top: 24%;
+    }
+    .Detail__Lottery__Box__text__h2 {
+        font-size: 22px;
+        margin: 12px 0;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box__text__span {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .Detail__Lottery__Box__text__p1 {
+        line-height: unset;
+        font-weight: 500;
+        margin-bottom: 6px;
+    }
+    .Detail__Lottery__Box__text__p2 {
+        line-height: unset;
+        margin-top: 6px;
+    }
+    .Button__Website {
+        font-weight: 600;
+    }
+    .Button__Sell {
+        font-weight: 600;
+        border: none;
+    }
+    .Detaillottery__Container__Box__Mega {
+        padding: 2%;
+        margin-top: 12px;
+    }
+    .Text__Box__Mega {
+        font-size: 70px;
+    }
+    .Rule__Lottery {
+        display: none;
+    }
+    .Hr__Lottery {
+        width: 40%;
+    }
+    .Text__Box__Mega__Price {
+        font-size: 17px;
+        font-weight: 500;
+    }
+    .Computer__Lottery {
+        padding-bottom: 1rem;
+    }
+    .Player__Lottery__ul {
+        width: unset;
+    }
+    .Computer__Lottery__li {
+        font-size: 15px;
+        font-weight: 400;
+        padding: 0.6rem 0.7rem;
+    }
+    .Player__Lottery__li__number__input {
+        width: 3rem;
+        height: 3rem;
+    }
+    .Button__Check__Lottery {
+        font-weight: 600;
+        text-transform: capitalize;
+        width: 40%;
+        height: 3.0rem;
+        margin-top: 18px;
+        line-height: 100%;
+        border: none;
+        outline: none;
+    }
+    .Box__Detail {
+        margin-top: 8px;
+        justify-content: center;
+    }
+    .Box__Detail__li {
+        margin-right: 24px;
+        font-size: 14px;
+    }
+    .Box__Detail__li:last-child {
+        margin-right: unset;
+    }
+    .Table__Jackpot {
+        margin: 0px;
+    }
+    .Table__Jackpot__th:nth-child(3),
+    .Table__Jackpot__th:nth-child(4) {
+        display: none;
+    }
+    .Table__Jackpot__th {
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .Table__Jackpot__td:nth-child(3),
+    .Table__Jackpot__td__special {
+        display: none;
+    }
+    .Table__Jackpot__td {
+        font-size: 15px;
+    }
+    .Table__Jackpot__th:nth-child(2),
+    .Table__Jackpot__td:nth-child(2) {
+        border-right: none;
+    }
+    .Table__Jackpot__th:first-child,
+    .Table__Jackpot__th:nth-child(2) {
+        width: 50%;
+    }
+}
+
+@media(min-width: 541px) and (max-width: 720px) {
+    .Container__Merge__Box__Lottery {
+        margin: 12px 2% 2%;
+    }
+    .Container__Mini__Box__Lottery {
+        width: 100%;
+        margin-bottom: 16px;
+        margin-right: 2%;
+        padding: 4%;
+    }
+    .Title__Mini__Box__Lottery {
+        font-size: 28px;
+        margin: 6px 0 12px;
+    }
+    .Box__Lottery__li {
+        padding: 0.6rem 0.8rem;
+    }
+    .Box__Lottery__li__number {
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box {
+        margin-top: 16%;
+    }
+    .Detail__Lottery__Box__text__h2 {
+        font-size: 22px;
+        margin: 12px 0;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box__text__span {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .Detail__Lottery__Box__text__p1 {
+        line-height: unset;
+        font-weight: 500;
+        margin-bottom: 6px;
+    }
+    .Detail__Lottery__Box__text__p2 {
+        line-height: unset;
+        margin-top: 6px;
+    }
+    .Button__Website {
+        font-weight: 600;
+    }
+    .Button__Sell {
+        font-weight: 600;
+        border: none;
+    }
+    .Detaillottery__Container__Box__Mega {
+        padding: 2%;
+        margin-top: 24px;
+    }
+    .Text__Box__Mega {
+        font-size: 70px;
+    }
+    .Rule__Lottery {
+        display: none;
+    }
+    .Hr__Lottery {
+        width: 50%;
+    }
+    .Text__Box__Mega__Price {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .Computer__Lottery {
+        padding-bottom: 1rem;
+    }
+    .Player__Lottery__ul {
+        width: unset;
+    }
+    .Computer__Lottery__li {
+        font-size: 15px;
+        font-weight: 400;
+        padding: 0.8rem 0.9rem;
+    }
+    .Player__Lottery__li__number__input {
+        width: 3.6rem;
+        height: 3.5rem;
+    }
+    .Button__Check__Lottery {
+        font-weight: 600;
+        text-transform: capitalize;
+        width: 40%;
+        height: 3.0rem;
+        margin-top: 18px;
+        line-height: 100%;
+        border: none;
+        outline: none;
+    }
+    .Box__Detail {
+        margin-top: 8px;
+        justify-content: center;
+    }
+    .Box__Detail__li {
+        margin-right: 24px;
+    }
+    .Box__Detail__li:last-child {
+        margin-right: unset;
+    }
+    .Table__Jackpot {
+        margin: 0px;
+    }
+    .Table__Jackpot__th {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .Table__Jackpot__th:nth-child(3),
+    .Table__Jackpot__td:nth-child(3) {
+        display: none;
+    }
+
+    .Table__Jackpot__th:first-child {
+        width: 40%;
+    }
+    .Table__Jackpot__th:nth-child(2) {
+        width: 40%;
+    }
+    .Table__Jackpot__th:last-child {
+        width: 200%;
+    }
+}
+
+@media(min-width: 721px) and (max-width: 960px) {
+    .Container__Merge__Box__Lottery {
+        margin: 12px 2% 2%;
+    }
+    .Container__Mini__Box__Lottery {
+        width: 46%;
+        margin-bottom: 16px;
+        margin-right: 2%;
+        padding: 4%;
+        flex: unset;
+    }
+    .Title__Mini__Box__Lottery {
+        font-size: 28px;
+        margin: 6px 0 12px;
+    }
+    .Box__Lottery__li {
+        padding: 0.6rem 0.8rem;
+    }
+    .Box__Lottery__li__number {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box {
+        margin-top: 28%;
+    }
+    .Detail__Lottery__Box__text__h2 {
+        font-size: 22px;
+        margin: 12px 0;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box__text__span {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .Detail__Lottery__Box__text__p1 {
+        line-height: unset;
+        font-weight: 500;
+        margin-bottom: 6px;
+        font-size: 17px;
+    }
+    .Detail__Lottery__Box__text__p2 {
+        line-height: unset;
+        margin-top: 6px;
+        font-size: 17px;
+    }
+    .Button__Website {
+        font-weight: 600;
+        font-size: 17px;
+    }
+    .Button__Sell {
+        font-weight: 600;
+        font-size: 17px;
+        border: none;
+    }
+    .Detaillottery__Container__Box__Mega {
+        padding: 2%;
+        margin-top: 24px;
+    }
+    .Text__Box__Mega {
+        font-size: 90px;
+    }
+    .Hr__Lottery {
+        width: 40%;
+    }
+    .Text__Box__Mega__Price {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .Computer__Lottery {
+        padding-bottom: 1rem;
+    }
+    .Player__Lottery__ul {
+        width: unset;
+    }
+    .Computer__Lottery__li {
+        font-size: 15px;
+        font-weight: 400;
+        padding: 1rem 1.1rem;
+    }
+    .Player__Lottery__li__number__input {
+        width: 3.6rem;
+        height: 3.5rem;
+    }
+    .Button__Check__Lottery {
+        font-weight: 600;
+        text-transform: capitalize;
+        width: 30%;
+        height: 3rem;
+        margin-top: 18px;
+        line-height: 100%;
+        border: none;
+        outline: none;
+    }
+    .Box__Detail {
+        margin-top: 8px;
+        justify-content: center;
+    }
+    .Box__Detail__li {
+        margin-right: 24px;
+    }
+    .Box__Detail__li:last-child {
+        margin-right: unset;
+    }
+    .Table__Jackpot {
+        margin: 0px;
+    }
+    .Table__Jackpot__th {
+        font-size: 15px;
+        font-weight: 500;
+    }
+}
+
+@media(min-width: 961px) and (max-width: 1200px) {
+    .Container__Merge__Box__Lottery {
+        margin: 12px 2% 2%;
+        justify-content: center;
+    }
+    .Container__Mini__Box__Lottery {
+        width: 46%;
+        margin-bottom: 16px;
+        margin-right: 2%;
+        padding: 4%;
+        flex: unset;
+    }
+    .Title__Mini__Box__Lottery {
+        font-size: 28px;
+        margin: 6px 0 12px;
+    }
+    .Box__Lottery__li {
+        padding: 0.7rem 0.9rem;
+    }
+    .Box__Lottery__li__number {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box {
+        margin-top: 22%;
+    }
+    .Detail__Lottery__Box__text__h2 {
+        font-size: 22px;
+        margin: 12px 0;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box__text__span {
+        font-weight: 400;
+        font-size: 18px;
+    }
+    .Detail__Lottery__Box__text__p1 {
+        line-height: unset;
+        font-weight: 500;
+        margin-bottom: 6px;
+        font-size: 17px;
+    }
+    .Detail__Lottery__Box__text__p2 {
+        line-height: unset;
+        margin-top: 6px;
+        font-size: 17px;
+    }
+    .Button__Website {
+        font-weight: 600;
+        font-size: 17px;
+    }
+    .Button__Sell {
+        font-weight: 600;
+        font-size: 17px;
+        border: none;
+    }
+    .Detaillottery__Container__Box__Mega {
+        padding: 2%;
+        margin-top: 24px;
+    }
+    .Text__Box__Mega {
+        font-size: 90px;
+    }
+    .Hr__Lottery {
+        width: 40%;
+    }
+    .Text__Box__Mega__Price {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .Computer__Lottery {
+        padding-bottom: 1rem;
+    }
+    .Player__Lottery__ul {
+        width: unset;
+    }
+    .Computer__Lottery__li {
+        font-size: 15px;
+        font-weight: 400;
+        padding: 1rem 1.1rem;
+    }
+    .Player__Lottery {
+        width: unset;
+    }
+    .Player__Lottery__li__number__input {
+        width: 3.6rem;
+        height: 3.5rem;
+    }
+    .Button__Check__Lottery {
+        font-weight: 600;
+        text-transform: capitalize;
+        width: 30%;
+        height: 3.5rem;
+        line-height: 100%;
+        margin-top: 18px;
+        border: none;
+        outline: none;
+    }
+    .Button__Check__Lottery h2 {
+        line-height: 100%;
+    }
+    .Box__Detail {
+        margin-top: 8px;
+        justify-content: center;
+    }
+    .Box__Detail__li {
+        margin-right: 24px;
+    }
+    .Box__Detail__li:last-child {
+        margin-right: unset;
+    }
+    .Table__Jackpot {
+        margin: 8px 0;
+    }
+    .Table__Jackpot__th {
+        font-size: 18px;
+        font-weight: 500;
+    }
+}
+
+@media(min-width: 1201px) and (max-width: 1500px) {
+    .Container__Merge__Box__Lottery {
+        margin: 12px 2% 2%;
+        justify-content: center;
+    }
+    .Container__Mini__Box__Lottery {
+        width: 100%;
+        margin-bottom: 16px;
+        margin-right: 5%;
+        padding: 4%;
+        flex: unset;
+    }
+    .Title__Mini__Box__Lottery {
+        font-size: 28px;
+        margin: 6px 0 12px;
+    }
+    .Box__Lottery__li {
+        padding: 0.7rem 0.9rem;
+    }
+    .Box__Lottery__li__number {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box {
+        margin-top: 14%;
+    }
+    .Detail__Lottery__Box__text__h2 {
+        font-size: 24px;
+        margin: 12px 0;
+        font-weight: 600;
+    }
+    .Detail__Lottery__Box__text__span {
+        font-weight: 400;
+        font-size: 19px;
+    }
+    .Detail__Lottery__Box__text__p1 {
+        line-height: unset;
+        font-weight: 500;
+        margin-bottom: 6px;
+        font-size: 18px;
+    }
+    .Detail__Lottery__Box__text__p2 {
+        line-height: unset;
+        margin-top: 6px;
+        font-size: 19px;
+    }
+    .Button__Website {
+        font-weight: 600;
+        font-size: 17px;
+    }
+    .Button__Sell {
+        font-weight: 600;
+        font-size: 17px;
+        border: none;
+    }
+    .Detaillottery__Container__Box {
+        margin: 0 4%;
+        width: unset;
+    }
+    .Detaillottery__Container__Box__Mega {
+        padding: 2%;
+        margin-top: 24px;
+    }
+    .Text__Box__Mega {
+        font-size: 90px;
+        margin: 12px 0 50px;
+        padding-top: 5%;
+    }
+    .Hr__Lottery {
+        width: 40%;
+    }
+    .Text__Box__Mega__Price {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .Computer__Lottery {
+        padding-bottom: 1rem;
+    }
+    .Player__Lottery__ul {
+        width: unset;   
+    }
+    .Computer__Lottery__li {
+        font-size: 15px;
+        font-weight: 400;
+        padding: 1rem 1.1rem;
+    }
+    .Player__Lottery__li__number__input {
+        width: 3.6rem;
+        height: 3.5rem;
+    }
+    .Button__Check__Lottery {
+        font-weight: 600;
+        text-transform: capitalize;
+        width: 40%;
+        height: 3.5rem;
+        /* line-height: 100%; */
+        margin-top: 18px;
+        border: none;
+        outline: none;
+    }
+    .Box__Detail {
+        margin: 0 4%;
+        margin-top: 8px;
+        justify-content: center;
+    }
+    .Box__Detail__li {
+        margin-right: 24px;
+    }
+    .Box__Detail__li:last-child {
+        margin-right: unset;
+    }
+    .Box__Table__Jackpot {
+        margin: 0 4%;
+        width: unset;
+    }
+    .Table__Jackpot {
+        margin: 8px 0;
+    }
+    .Table__Jackpot__th {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .Table__Jackpot__th:first-child {
+        width: 35%;
+    }
+    .Table__Jackpot__th:nth-child(2) {
+        width: 35%;
+    }
+    .Table__Jackpot__th:nth-child(3) {
+        width: 15%;
+    }
+    .Table__Jackpot__th:last-child {
+        width: 15%;
+    }
+}
+
+@media(min-width: 1501px) and (max-width: 1920px) {}
+
+@media(min-width: 1921px) {}

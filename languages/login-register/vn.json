@@ -1,0 +1,46 @@
+{
+    "login": {
+        "title": "Đăng nhập"
+    },
+    "register": {
+        "title": "Đăng ký"
+        
+    },
+
+    "login-register:welcome": "Chào mừng bạn đến với DAK!",
+    "login-register:script": "Tham gia ngay để kết bạn mới, tạo nhóm, thêm ảnh và hơn thế nữa.",
+    "login-register:password_placeHolder": "Mật khẩu",
+    "login-register:forgot_password": "Quên mật khẩu",
+    "login-register:loginWith": "Đăng nhập với",
+    "login-register:hadPassword": "Đã có tài khoản?",
+    "login-register:noPassword": "Chưa có tài khoản?",
+    "login-register:fullName": "Họ và tên",
+    "login-register:userName": "Tên tài khoản",
+    "login-register:email": "Email",
+    "login-register:password_authentication_placeHolder": "Nhập lại mật khẩu",
+    "login-register:phone-number": "Số điện thoại",
+    "login-register:policyMessage": "Bằng cách nhấp vào tạo tài khoản, bạn đồng ý với Các điều khoản và điều kiện.",
+    "login-register:agreeMessage": "Tôi xác nhận đồng ý với trang web của bạn ",
+    "login-register:policyLink": "Các điều khoản và điều kiện và Chính sách bảo mật.",
+    "login-register:success_message": "Đăng nhập thành công",
+    "login-register:error_message": "Tài khoản hoặc mật khẩu không đúng",
+    "login-register:save-account": "Nhớ tài khoản?",
+    "login-register:gender": "Giới tính",
+    "login-register:male": "Nam",
+    "login-register:female": "Nữ",
+
+    
+    "login-register:errors_message_register": {
+        "1": "Trường này là bắt buộc",
+        "2": "Tên đăng nhập phải ngắn hơn hoặc bằng 20 ký tự",
+        "3": "Họ và tên phải ngắn hơn hoặc bằng 20 ký tự",
+        "4": "Tên đăng nhập đã đăng ký",
+        "5": "Vui lòng nhập email hợp lệ",
+        "6": "Email này đã được đăng ký",
+        "7": "Mật khẩu phải có ít nhất 8 ký tự, bao gồm 1 chữ hoa, 1 chữ thường, 1 chữ số và 1 ký tự đặc biệt",
+        "8": "Mật khẩu không khớp",
+        "9": "Ngày không hợp lệ"
+    },
+
+    "login-register:success_message_register": "Register successfully"
+}

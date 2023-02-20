@@ -1,0 +1,449 @@
+.listFriendPage {
+    background-color: var(--white-color);
+    border-radius: var(--box-borderRadius-size  );
+    box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px, rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px, rgb(5 1 5 / 4%) 20px 20px 20px;
+    padding: 15px;
+    height: 88vh;
+}
+
+.listFriendTitle {
+    color: var(--text-color);
+    margin-top: 10px;
+}
+
+.listFriendSearch {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid var(--text-color);
+    border-radius: 20px;
+    align-items: center;
+    margin: 0 auto;
+}   
+.iconLoading{
+    color: var(--text-color);
+    margin-right: 10px;
+    animation: spin  0.7s infinite;
+}
+.search {
+    border: 1px solid var(--white-color);
+    padding: 8px 0px 7px 0px;
+    width: 100%;
+    outline: none;
+    margin-left: 15px;
+    color: var(--text-color);
+    background-color: var(--white-color);
+    font-size: 16px;
+}   
+.left{
+    display: flex;
+    align-items: center;
+}
+.iconSearch {
+    margin-right: 10px;
+    color: var(--text-color);
+    font-weight: 500;
+    font-size: var(--text-font-size);
+}
+
+.listFriend {
+    list-style-type: none;
+    padding: 0; 
+    position: relative;
+    max-height: calc(100vh - 265px);
+    height: fit-content;
+    overflow-y: scroll;
+}
+
+.listFriend::-webkit-scrollbar {
+    width: 4px;
+}
+
+.listFriend::-webkit-scrollbar-track {
+    background-color: transparent;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+.listFriend::-webkit-scrollbar-thumb {
+    background-color: var(--main-color);
+    border-radius: 4px;
+}
+
+.listFriend::-webkit-scrollbar-thumb:hover {
+    background-color: #ffe043;
+}
+
+.friendItem {
+    transition: all .1s ease-in-out;
+    display: flex;
+    align-items: center;   
+    padding: 10px 5px;
+    border-bottom: 1px solid var(--main-background-color);
+}
+
+.friendItem:hover {
+    transition: all .1s ease-in-out;
+    background-color: var(--main-background-color); 
+    border-radius: 5px;
+}
+
+.friendAvatar {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.friendAvatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.friendInfo {
+    color: var(--text-color);
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.friendItem:hover .friendInfo {
+    transition: all .1s ease-in-out;
+    color: var(--main-color);
+}
+
+.friendName {
+    margin: 0;
+    font-weight: 500;
+}
+
+.quantityFollower {
+    margin: 0;
+    font-size: var(--sub-title-color);
+}
+
+.listFeature {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    position: absolute;
+    right: 0;
+}
+
+.featureItem {
+    font-size: 20px;
+    color: var(--main-color);
+    margin: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.featureItem:hover {
+    transition: all .1s ease-in-out;
+    color: #faea9d;
+}
+
+/* Responsive */
+@media(max-width: 320px) {
+    .listFriend {
+        max-height: calc(100vh - 220px);
+    }
+    .listFriend::-webkit-scrollbar {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-track {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb:hover {
+        display: none;
+    }
+    .listFriendPage {
+        margin: 0 2%;
+        height: 92vh;
+    }
+    .listFriendTitle {
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .listFriendSearch {
+        width: 100%;
+    }
+    .listFeature {
+        display: none;
+    }
+    .friendAvatar {
+        width: 40px;
+        height: 40px;
+        margin-right: 8px;
+    }
+    .friendName {
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 28px;
+    }
+    .quantityFollower {
+        font-size: 15px;
+        margin-top: 4px;
+        font-weight: 400;
+    }
+    .left {
+        display: grid;
+        width: 100%;
+        grid-template-columns: 18% 82%;
+        align-items: center;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 420px) {
+    .left {
+        display: grid;
+        width: 100%;
+        grid-template-columns: 15% 85%;
+        align-items: center;
+    }
+    .listFriend {
+        max-height: calc(100vh - 220px);
+    }
+}
+
+@media(min-width: 321px) and (max-width: 540px) {
+    .listFriend {
+        max-height: calc(100vh - 220px);
+    }
+
+    .listFriend::-webkit-scrollbar {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-track {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb:hover {
+        display: none;
+    }
+    .listFriendPage {
+        margin: 0 2%;
+        height: 92vh;
+    }
+    .listFriendTitle {
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .listFriendSearch {
+        width: 100%;
+    }
+    .listFeature {
+        display: none;
+    }
+    .friendAvatar {
+        width: 40px;
+        height: 40px;
+        margin-right: 8px;
+    }
+    .friendName {
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 28px;
+    }
+    .quantityFollower {
+        font-size: 15px;
+        margin-top: 4px;
+        font-weight: 400;
+    }
+}
+
+@media(min-width: 541px) and (max-width: 720px) {
+    .listFriend::-webkit-scrollbar {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-track {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb:hover {
+        display: none;
+    }
+    .listFriendPage {
+        margin: 0 2%;
+        height: 90vh;
+        margin-top: 22px;
+    }
+    .listFriendTitle {
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .listFriendSearch {
+        width: 100%;
+    }
+    .friendAvatar {
+        width: 40px;
+        height: 40px;
+        margin-right: 8px;
+    }
+    .friendName {
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 28px;
+    }
+    .quantityFollower {
+        font-size: 16px;
+        margin-top: 4px;
+        font-weight: 400;
+    }
+}
+
+@media(min-width: 721px) and (max-width: 960px) {
+    .listFriend::-webkit-scrollbar {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-track {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb:hover {
+        display: none;
+    }
+    .listFriendPage {
+        margin: 0 2%;
+        height: 90vh;
+        margin-top: 22px;
+    }
+    .listFriendTitle {
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .listFriendSearch {
+        width: 100%;
+    }
+    .friendAvatar {
+        width: 44px;
+        height: 44px;
+        margin-right: 8px;
+    }
+    .friendName {
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 28px;
+    }
+    .quantityFollower {
+        font-size: 17px;
+        margin-top: 4px;
+        font-weight: 400;
+    }
+    .featureItem {
+        font-size: 22px;
+    }
+}
+
+@media(min-width: 961px) and (max-width: 1200px) {
+    .listFriend::-webkit-scrollbar {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-track {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb:hover {
+        display: none;
+    }
+    .listFriendPage {
+        margin: 0 2%;
+        height: 90vh;
+        margin-top: 22px;
+    }
+    .listFriendTitle {
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .listFriendSearch {
+        width: 100%;
+    }
+    .friendAvatar {
+        width: 44px;
+        height: 44px;
+        margin-right: 8px;
+    }
+    .friendName {
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 28px;
+    }
+    .quantityFollower {
+        font-size: 17px;
+        margin-top: 4px;
+        font-weight: 400;
+    }
+    .featureItem {
+        font-size: 22px;
+    }
+}
+
+@media(min-width: 1201px) and (max-width: 1500px) {
+    .listFriend::-webkit-scrollbar {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-track {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb {
+        display: none;
+    }
+    .listFriend::-webkit-scrollbar-thumb:hover {
+        display: none;
+    }
+    .listFriendPage {
+        margin: 0 2%;
+        height: 90vh;
+        margin-top: 16px;
+    }
+    .listFriendTitle {
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .listFriendSearch {
+        width: 100%;
+    }
+    .friendAvatar {
+        width: 44px;
+        height: 44px;
+        margin-right: 8px;
+    }
+    .friendName {
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 28px;
+    }
+    .quantityFollower {
+        font-size: 17px;
+        margin-top: 4px;
+        font-weight: 400;
+    }
+    .featureItem {
+        font-size: 22px;
+    }
+}
+
+@media(min-width: 1501px) and (max-width: 1920px) {}
+
+@media(min-width: 1921px) {}
+@keyframes spin {
+    from{
+        transform: rotate(0);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}

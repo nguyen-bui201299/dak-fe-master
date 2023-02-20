@@ -1,0 +1,150 @@
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(60%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0%);
+    }
+}
+
+.overlayPopupTagFriends {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--bg-rgba);
+    z-index: 99;
+}
+
+.popupTagFriend {
+    width: 550px;
+    height: 70%;
+    position: absolute;
+    top: 140px;
+    left: 0;
+    right: 0;
+    background-color: var(--white-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px, rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px, rgb(5 1 5 / 4%) 20px 20px 20px;
+    margin: auto;
+    padding: 0.5rem 0 0.5rem 1.5rem;
+    -webkit-animation: slideIn linear 0.25s;
+    animation: slideIn linear 0.25s;
+    will-change: opacity transform;
+    transition: all ease 0.25s;
+    overflow: auto;
+}
+
+.popupTagFriend__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.popupTagFriend__header > h2 {
+    color: var(--main-color) !important;
+    font-size: 22px !important;
+}
+
+.popupTagFriend__close {
+    font-size: 2rem;
+    color: var(--text-color);
+    cursor: pointer;
+}
+
+.container__popup__list{
+    height: calc(100% - 100px);
+    overflow: auto;
+    margin-top: 30px;
+}
+
+.container__popup__list > ul{
+    list-style: none;
+    margin-top: 0;
+    width: 92%;
+    padding: 0;
+}
+
+.container__popup__list::-webkit-scrollbar{
+    width: 5px;
+}
+.container__popup__list::-webkit-scrollbar-thumb{
+    background: var(--main-color);
+    border-radius: 5px;
+}
+
+.actual-people {
+    display: flex;
+    padding: 10px 0px 10px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.people-name span {
+    cursor: pointer;
+    font-weight: 500;
+    color: var(--text-color);
+    word-break: break-word;
+}
+
+.people-images{
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.people-avatar{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* object-position: 50%; */
+}
+
+.people-name-follow {
+    line-height: 1.2;
+    padding: 0 5px 0  10px;
+    width: 100%;
+}
+
+.people-items {
+    display: flex;
+    margin-top: 10px;
+    width: 70%;
+}
+
+.people-follow span {
+    color: grey;
+    font-size: 13px;
+}
+
+.button-follow {
+    width: 30% ;
+}
+
+@media (max-width: 320px) { 
+    .container__popup__list > ul {
+        width: 100%;
+        padding:  0 5px;
+    }
+
+    .people-name {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 540px) {
+    .popupTagFriend {
+        width: 100vw;
+        margin: 0;
+    }
+
+    .container__popup__list > ul {
+        width: 100%;
+        padding:  0 10px;
+    }
+}

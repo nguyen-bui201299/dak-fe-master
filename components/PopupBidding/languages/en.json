@@ -1,0 +1,32 @@
+{
+    "popupCreate_notFound": "Post's Not Found",
+    "popupCreate_title": "Create Bidding Post",
+    "popupCreate_bidding_fee": "Bidding Fee",
+    "popupCreate_input_bidding_fee": "Input Fee",
+    "popupCreate_view_fee": "View Fee",
+    "popupCreate_input_view_fee": "Input Fee",
+    "popupCreate_priority": "Priority",
+    "popupCreate_continue_btn": "Continue",
+    "popupCreate_bidding_post": "Bidding Post",
+    "popupCreate_input_URL": "Input URL",
+    "popupCreate_post_date": "Post at",
+    "popupCreate_post_by": "By",
+    "popupCreate_accept_bidding": "Accept Bidding",
+    "popupCreate_accept_btn": "Accept",
+
+    "popupDeleted_title": "Do you want to delete the post?",
+    "popupDeleted_yes_btn": "Yes",
+    "popupDeleted_no_btn": "No",
+    "popupDeleted_delete_success": "Post Deleted",
+
+    "popupEdit_title": "Edit Bidding Post",
+    "popupEdit_bidding_fee": "Bidding Fee",
+    "popupEdit_view_fee": "View Fee",
+    "popupEdit_input_fee": "Input Fee",
+    "popupEdit_priority": "Priority",
+    "popupEdit_save_btn": "Save",
+    "popupEdit_success": "success",
+
+    "popupSuccess_bidding": "Bidding post",
+    "popupSuccess_success": "success"
+}

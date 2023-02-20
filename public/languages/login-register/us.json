@@ -1,0 +1,26 @@
+{
+    "login": {
+        "title": "Login"
+    },
+    "register": {
+        "title": "Register"
+        
+    },
+
+    "login-register:welcome": "Welcome to DAK!",
+    "login-register:script": "Join now to make new friends, create groups, add photos and more.",
+    "login-register:password_placeHolder": "Password",
+    "login-register:forgot_password": "Forgot password",
+    "login-register:loginWith": "Login with",
+    "login-register:hadPassword": "Already had an account?",
+    "login-register:noPassword": "Don't have account?",
+    "login-register:fullName": "Full name",
+    "login-register:userName": "Usernam",
+    "login-register:email": "Email",
+    "login-register:password_authentication_placeHolder": "Confirm password",
+    "login-register:policyMessage": "Please agree to our Terms and Conditions.",
+    "login-register:agreeMessage": "I agree with your website ",
+    "login-register:policyLink": "Terms and Conditions and Privacy Policy.",
+    "login-register:success_message": "Login successfully",
+    "login-register:error_message": "Invalid account, please check your email or phone number and password"
+}

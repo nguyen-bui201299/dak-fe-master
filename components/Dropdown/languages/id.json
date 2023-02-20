@@ -1,0 +1,18 @@
+{
+    "DropdownForGroup_Unfollow_Group":"Berhenti mengikuti grup",
+    "DropdownForGroup_Manage_notifications":"Kelola notifikasi",
+    "DropdownForGroup_Leave_Group":"Meninggalkan grup",
+
+    "continueWatching": "Lanjutkan Menonton",
+    "addGallery": "Tambahkan ke galeri",
+    "copyUrl": "Salin URL",
+    "edit": "Sunting",
+    "delete": "Menghapus",
+    "confirmOwner": "Konfirmasi Pemilik",
+    "report": "Laporan",
+    "deletePostFromGallery": "Hapus Posting Dari Galeri",
+
+    "copyURL_success": "Salin URL Sukses",
+    "authenticationPost_succeed_before": "Postingan Ini Telah Diverifikasi Sebelumnya",
+    "authenticationPost_error": "Verifikasi Posting Gagal"
+}

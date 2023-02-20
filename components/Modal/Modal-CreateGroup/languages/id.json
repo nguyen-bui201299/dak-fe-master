@@ -1,0 +1,23 @@
+{
+    "create_group_success": "Buat Grup Sukses",
+    "create_group_fail": "Buat Grup Gagal",
+    "create_group_groupname_require": "Silakan Masukkan Nama Grup",
+    "create_group": "Buat Grup Baru",
+    "create_group_cover_photo": "Foto sampul grup",
+    "create_group_no_gif": "Tidak mendukung animasi",
+    "create_group_optional": "Opsional",
+    "create_group_load_photo": "Unggah foto dari komputer Anda",
+    "create_group_cancel_photo": "Batalkan foto",
+    "create_group_next": "Lanjut",
+    "create_group_back": "Kembali",
+    "create_group_name": "Nama grup",
+    "create_group_name_placeholder": "Beri nama grup di sini...",
+    "create_group_about_group": "Tentang grup",
+    "create_group_about_group_placeholder": "Tulis konten di sini...",
+    "create_group_privacy": "Pribadi",
+    "create_group_public": "Grup publik",
+    "create_group_private": "Grup pribadi",
+    "create_group_see_content": "Semua orang dapat melihat konten dalam grup",
+    "create_group_not_see_content": "Tidak ada yang dapat melihat konten dalam grup",
+    "create_group_create_btn": "Membuat"
+}

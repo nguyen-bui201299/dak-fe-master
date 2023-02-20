@@ -1,0 +1,23 @@
+{
+    "popup_request_money_title": "दोस्तों से पैसे भेजने के लिए कहें",
+    "popup_request_amount_to_receive": "राशि",
+    "popup_request_sender_wallet_address": "प्रेषक वॉलेट पता",
+    "popup_request_sender_wallet_address_placeholder": "प्रेषक का वॉलेट पता यहां चिपकाएं",
+
+    "popup_request_amount_to_transfer": "राशि",
+    "popup_request_confirm_sending_request": "अनुरोध भेजने की पुष्टि करें",
+    "popup_request_money_senders_name": "भेजने वाले का नाम",
+    "popup_request_money_content": "विषय",
+    "popup_request_money_content_placeholder": "विषय....",
+
+    "popup_request_money_warning_address": "आपने गलत वॉलेट पता दर्ज किया है!",
+    "popup_request_money_success_transfers": "सफल स्थानांतरण",
+
+    "popup_request_money_button_next": "अगला",
+    "popup_request_money_confirm": "पुष्टि करें",
+
+    "popup_request_amount_errorSenderAddress": "कृपया रिसीवर का पता दर्ज करें",
+    "popup_request_amount_errorAmount": "कृपया इनपुट राशि",
+    "popup_request_money_warning_note": "अमान्य वर्ण",
+    "popup_request_amount_requestSuccess": "अनुरोध सफलता"
+}

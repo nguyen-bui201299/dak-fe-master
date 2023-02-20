@@ -1,0 +1,228 @@
+@keyframes showPopup {
+    from {
+        opacity: 0;
+        transform: scale(0);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(60%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0%);
+    }
+}
+
+.btn-submit {
+    font-size: 16px;
+    color: #000;
+    padding: 8px 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    background-image: linear-gradient(315deg,#fbb034 0%,#ffdd00 74%);
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    float: right;
+    margin-right: 20px;
+}
+
+.overlayPopupBackground {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--bg-rgba);
+    z-index: 4;
+}
+
+.popupbackground {
+    max-width: 700px;
+    max-height: 600px;
+    background-color: var(--white-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px, rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px, rgb(5 1 5 / 4%) 20px 20px 20px;
+    margin: 20px auto 0;
+    padding: 4px 6px;
+    -webkit-animation: showPopup linear 0.25s;
+    animation: showPopup linear 0.25s;
+    will-change: opacity transform;
+    transition: all ease 0.25s;
+    overflow: hidden;
+}
+
+.popupbackground__upload-image {
+
+}
+
+.popupbackground__heading {
+    position: relative;
+    padding: 4px 0;
+    border-bottom: 1px solid var(--border-outline-search-box);
+    height: 50px;
+}
+
+.popupbackground__title {
+    text-align: center;
+    margin: 4px 0;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--main-color);
+    user-select: none;
+}
+
+.popupbackground__icon-close {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    font-size: 32px;
+    padding: 4px;
+    color: var(--main-text);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.popupbackground__icon-close:hover {
+    background-color: var(--default-hover-background-color);
+    color: var(--main-color);
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    transition: all ease 0.25s;
+}
+
+.popupbackground__upload-body {
+    -webkit-animation: slideIn linear 0.25s;
+    animation: slideIn linear 0.25s;
+    will-change: opacity transform;
+    transition: all ease 0.25s;
+}
+
+.popupbackground__upload-heading {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 8px 0;
+    margin-top: 6px;
+}
+
+.popupbackground__upload-heading-icon {
+    color: var(--main-text);
+    padding: 4px;
+    font-size: 30px;
+    margin-right: 8px;
+    margin-top: 2px;
+    cursor: pointer;
+}
+
+.popupbackground__upload-heading-icon:hover {
+    color: var(--main-color);
+    transition: all ease 0.25s;;
+}
+
+.popupbackground__upload-heading-title {
+    flex: 1;
+    margin: 4px 0;
+    font-size: 20px;
+    color: var(--main-color);
+    line-height: 30px;
+    font-weight: 500;
+    user-select: none;
+}
+
+.popupbackground__upload-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 32px 0;
+}
+
+.popupbackground__upload-left,
+.popupbackground__upload-right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid var(--border-outline-dropdown);
+    border-radius: var(--box-borderRadius-size);
+    padding: 50px;
+    cursor: pointer;
+}
+
+.popupbackground__upload-icon {
+    font-size: 120px;
+    color: var(--main-text);
+    padding: 4px;
+}
+
+.popupbackground__upload-title {
+    color: var(--main-text);
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 16px;
+    user-select: none;
+}
+
+.popupbackground__image-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    overflow-y: scroll;
+    height: 490px;
+}
+
+.popupbackground__image-list.background .popupbackground__image-item {
+    width: 46%;
+    height: 200px;
+}
+
+.popupbackground__image-selected.background {
+    width: 90%;
+    border-radius: var(--box-borderRadius-size);
+}
+
+.popupbackground__image-list::-webkit-scrollbar {
+    width: 4px;
+}
+
+.popupbackground__image-list::-webkit-scrollbar-track {
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+
+.popupbackground__image-list::-webkit-scrollbar-thumb {
+    background-color: var(--main-color);
+    border-radius: 4px;
+}
+
+.popupbackground__image-list::-webkit-scrollbar-thumb:hover {
+    background-color: #ffe043;
+}
+
+.popupbackground__image-item {
+    width: 30%;
+    height: 250px;
+    margin: 10px;
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: var(--box-borderRadius-size);
+    cursor: pointer;
+}
+
+.popupbackground__image-selected {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 32px auto;
+}

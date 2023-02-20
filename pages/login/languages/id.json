@@ -1,0 +1,21 @@
+{
+    "home_login": "Gabung",
+    "home_register" : "Daftar",
+    "home_welcome" : "Selamat datang di DAK",
+    "home_username" : "Email atau nama akun",
+    "home_pass" : "Kata sandi",
+    "home_forget_pass" : "Tidak ingat kata sandi",
+    "home_no_acccount" : "Tidak punya akun",
+    "home_fullname" : "Nama lengkap",
+    "home_userlogin" : "Nama belakang",
+    "home_email" : "Masuk email",
+    "home_sex" : "Seks",
+    "home_male" : "Pria",
+    "home_female" : "Perempuan",
+    "home_other" : "Lainnya",
+    "home_remember": "Ingat akun",
+    "home_phonenumber" : "Nomor Telepon",
+    "home_policy" : {"content1": "Saya setuju dengan", "content2": "Aturan", "content3": "Pribadi"},
+    "home_error_login" : "Email masuk atau kata sandi salah"
+
+}

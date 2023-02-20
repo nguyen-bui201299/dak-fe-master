@@ -1,0 +1,26 @@
+{
+    "popup_send_money_title": "汇款给朋友",
+    "popup_send_money_amount_to_transfer": "数量",
+    "popup_send_money_recipient_wallet_address": "收款人钱包地址",
+    "popup_send_money_recipient_wallet_address_placeholder": "在此处粘贴收件人钱包地址",
+    "popup_send_money_money_transfer_content": "内容",
+    "popup_send_money_money_transfer_content_placeholder": "输入汇款内容...",
+    "popup_send_money_button_next": "下一个",
+
+    "popup_send_money_warning_address": "你输入了错误的钱包地址",
+    "popup_send_money_warning_not_enough_point": "点数不够",
+    "popup_send_money_warning_limt_character": "传输内容不能超过 120 个字符",
+    "popup_send_money_warning_note": "无效字符",
+    "popup_send_money_success_text": "转移成功",
+
+    "popup_send_money_remittance_confirmation": "汇款确认",
+    "popup_send_money_recipients_name": "收件人的姓名",
+    "popup_send_money_transaction_fee": "手续费",
+    "popup_send_money_the_sender_pays": "发件人付款",
+    "popup_send_money_recipient_pays": "收款人付款",
+    "popup_send_money_confirm": "确认",
+
+    "popup_send_money_receiverAddress": "请输入收货人地址",
+    "popup_send_money_errorReceiverAmount": "请输入金额",
+    "popup_send_money_sendSuccess": "发送成功"
+}

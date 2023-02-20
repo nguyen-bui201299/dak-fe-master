@@ -1,0 +1,11 @@
+{
+    "formReportPost_title": "รายงาน",
+    "formReportPost_heading": "แจ้งให้เราทราบว่าเกิดอะไรขึ้นที่นี่",
+    "formReportPost_report_btn": "รายงาน",
+    "reportOptions_spam": "SPAM",
+    "reportOptions_trouble": "ปัญหา",
+    "reportOptions_selfInjury": "อาการบาดเจ็บของตัวเอง",
+    "reportOptions_sharingInappropriateContent": "การแบ่งปันเนื้อหาที่ไม่เหมาะสม",
+    "reportOptions_clone": "โคลน",
+    "reportOptions_other": "อื่นๆ"
+}

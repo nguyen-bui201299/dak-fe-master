@@ -1,0 +1,26 @@
+{
+    "popup_link_social_title": "Link Social",
+    "popup_link_social_input_link": "Input link here...",
+    "popup_link_social_foundation": "Foundation",
+    "popup_link_social_choose_foundation": "Select Foundation",
+    "popup_link_social_invalid_link": "Invalid link",
+    "popup_link_social_verify_heading": "Verification Code Is Sent To Email",
+    "popup_link_social_resend_title": "Haven't Received The Code?",
+    "popup_link_social_resend": "Resend",
+    "popup_link_social_verify_btn": "Verify",
+    "popup_link_social_not_support": "Unsupported this platform yet",
+    "popup_link_social_connect_link": "Please enter the link",
+
+    "popup_confirm_delete_success": "Delete Link Social Success",
+    "popup_confirm_delete_error": "Delete Link Social Fail",
+    "popup_confirm_delete_header": "Notice",
+    "popup_confirm_delete_asking": "Are you sure to delete",
+    "popup_confirm_delete_yes_btn": "Yes",
+    "popup_confirm_delete_no_btn": "No",
+    "popup_link_social_save": "Save",
+    "popup_link_social_next": "Next",
+    "popup_link_social_success": "Link social was added",
+    "popup_link_social_fail": "Failed to add link social"
+
+
+}

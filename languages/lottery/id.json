@@ -1,0 +1,35 @@
+{
+    "history": "Sejarah transaksi",
+    "rule_lottery": "Aturan",
+    "button_check_lottery": "Coba keberuntunganmu",
+    "number_of_1stprize": "Pemenang Hadiah Utama",
+    "number_of_otherprize": "hadiah tambahan",
+    "jackpot_value": "Penghargaan",
+    "lottery_date": "Tanggal Waktu",
+    "your_lottery": "Lotere Anda",
+    "total_winners": "Total Pemenang",
+    "total_match": "Jumlah nomor yang cocok",
+    "prize_value": "Nilai Hadiah",
+    "history_reward": "Daftar tiket pemenang",
+    "result_lotterry" : "hasil",
+    "lottery_status_waiting": "Di tunggu undian selanjutnya",
+    "lottery_status_pending": "Dapatkan imbalan",
+    "lottery_status_block": "Tiket telah diblokir",
+    "lottery_status_finish": "Diberikan",
+    "lottery_status_lost": "Hilang",
+
+    "detail_lottery_buy_success": "Beli lotere sukses",
+    "detail_lottery_warn_duplicate": "Ada nomor duplikat di input",
+    "detail_lottery_warn_limit": "Hanya masuk antara 1 dan 45",
+    "detail_lottery_warn_character": "Karakter tidak dapat dimasukkan",
+    "detail_lottery_warn_blank": "Tidak boleh dikosongkan",
+    "detail_lottery_warn_input_again": "Masukkan nomornya dan coba lagi!",
+    "detail_lottery_warn_not_enough_point": "Poin tidak cukup",
+    "detail_lottery_warn_error": "Kesalahan",
+    "detail_lottery_quick_lottery": "Dapatkan nomor cepat",
+    
+    "rule_lottery_1": "Pilih nomor dari 01 hingga 45 untuk kesempatan memenangkan Jackpot.",
+    "rule_lottery_2": "Tidak masalah posisi nomor, memiliki nomor adalah hadiah yang menang.",
+    "rule_lottery_3": "Mega 6/45 buka pada pukul 10:00 pagi dan 22:00 malam pada hari kerja."
+
+}

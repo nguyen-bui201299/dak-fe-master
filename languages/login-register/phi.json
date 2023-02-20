@@ -1,0 +1,45 @@
+{
+    "login": {
+        "title": "Mag log in"
+    },
+    "register": {
+        "title": "Magrehistro"
+        
+    },
+
+    "login-register:welcome": "Maligayang pagdating sa DAK!",
+    "login-register:script": "Sumali ngayon upang magkaroon ng mga bagong kaibigan, lumikha ng mga grupo, magdagdag ng mga larawan at higit pa.",
+    "login-register:password_placeHolder": "Password",
+    "login-register:forgot_password": "Nakalimutan ang password",
+    "login-register:loginWith": "Mag-login gamit ang",
+    "login-register:hadPassword": "Nagkaroon na ng account?",
+    "login-register:noPassword": "Walang account?",
+    "login-register:fullName": "Buong pangalan",
+    "login-register:userName": "Username",
+    "login-register:email": "Email",
+    "login-register:password_authentication_placeHolder": "Kumpirmahin ang password",
+    "login-register:phone-number": "Numero ng telepono",
+    "login-register:policyMessage": "Mangyaring sumang-ayon sa aming Mga Tuntunin at Kundisyon.",
+    "login-register:agreeMessage": "Sumasang-ayon ako sa iyong website ",
+    "login-register:policyLink": "Mga Tuntunin at Kundisyon at Patakaran sa Privacy.",
+    "login-register:success_message": "Matagumpay na mag-log in",
+    "login-register:error_message": "Di-wastong account, pakitingnan ang iyong email o numero ng telepono at password",
+    "login-register:save-account": "I-save ang account?",
+    "login-register:gender": "Kasarian",
+    "login-register:male": "Lalaki",
+    "login-register:female": "Babae",
+
+    "login-register:errors_message_register": {
+        "1": "Kinakailangan ang field na ito",
+        "2": "Ang username ay dapat na mas maikli sa o katumbas ng 20 character",
+        "3": "Ang pangalan ay dapat na mas maikli sa o katumbas ng 20 character",
+        "4": "Umiiral na ang username",
+        "5": "Mangyaring magpasok ng wastong email address",
+        "6": "Umiiral na ang email",
+        "7": "Dapat na hindi bababa sa 8 character ang password, kasama ang hindi bababa sa 1 uppercase, 1 lowercase, isang numero at 1 espesyal na character",
+        "8": "Walang tugma ang pagkumpirma ng password",
+        "9": "Maling petsa"
+    },
+
+    "login-register:success_message_register": "Matagumpay na magparehistro"
+}

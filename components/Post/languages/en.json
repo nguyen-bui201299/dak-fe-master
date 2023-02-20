@@ -1,0 +1,32 @@
+{
+    "likes": "Likes",
+    "votes": "Votes",
+    "comments": "Comments",
+    "shares": "Shares",
+    "like": "Like",
+    "vote": "Vote",
+    "comment": "Comment",
+    "share": "Share",
+    "read_more": "Read more",
+    "tag_user": "others",
+
+    "public": "Public",
+    "private": "Private",
+    "post": "Update new post",
+    "post_update_post": "Updated",
+
+    "votesuccess": "Vote Successful",
+    "votefail": "Vote Fail",
+    "unvote": "Voting Cannot Be Canceled",
+    
+    "deleteSuccess": "Delete Successful",
+    "deleteFail": "Delete Fail",
+
+    "comment_input_comment": "Input Comment",
+    "comment_reply": "Reply",
+    "comment_stop_edit": "Stop Edit",
+    "comment_edit": "Edit",
+    "comment_delete": "Delete",
+    "comment_more_comments": "More comments",
+    "comment_loading": "Loading"
+}

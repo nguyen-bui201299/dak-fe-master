@@ -1,0 +1,26 @@
+{
+    "popup_send_money_title": "Transfer uang ke teman",
+    "popup_send_money_amount_to_transfer": "Jumlah",
+    "popup_send_money_recipient_wallet_address": "Alamat dompet penerima",
+    "popup_send_money_recipient_wallet_address_placeholder": "Tempel alamat dompet penerima di sini",
+    "popup_send_money_money_transfer_content": "Isi",
+    "popup_send_money_money_transfer_content_placeholder": "Masukkan konten transfer uang...",
+    "popup_send_money_button_next": "Lanjut",
+
+    "popup_send_money_warning_address": "Anda telah memasukkan alamat dompet yang salah",
+    "popup_send_money_warning_not_enough_point": "Poin tidak cukup",
+    "popup_send_money_warning_limt_character": "Konten transfer tidak boleh melebihi 120 karakter",
+    "popup_send_money_warning_note": "Karakter salah",
+    "popup_send_money_success_text": "Transfer berhasil",
+
+    "popup_send_money_remittance_confirmation": "Konfirmasi pengiriman uang",
+    "popup_send_money_recipients_name": "Nama Penerima",
+    "popup_send_money_transaction_fee": "Biaya transaksi",
+    "popup_send_money_the_sender_pays": "Pengirim membayar",
+    "popup_send_money_recipient_pays": "Penerima membayar",
+    "popup_send_money_confirm": "Mengonfirmasi",
+
+    "popup_send_money_receiverAddress": "Silakan Masukkan Alamat Penerima",
+    "popup_send_money_errorReceiverAmount": "Silakan Masukkan Jumlah",
+    "popup_send_money_sendSuccess": "Kirim Sukses"
+}

@@ -1,0 +1,28 @@
+{
+    "like": "Gusto",
+    "vote": "Mga boto",
+    "comment": "Mga komento",
+    "share": "Pagbabahagi",
+    "read_more": "magbasa pa",
+    "tag_user": "ibang tao",
+
+    "public": "Pampubliko",
+    "private": "Pribado",
+    "post": "I-update ang bagong post",
+    "post_update_post": "Na-update",
+
+    "votesuccess": "Matagumpay na Bumoto",
+    "votefail": "Nabigo ang Pagboto",
+    "unvote": "Hindi Maaaring Kanselahin ang Pagboto",
+    
+    "deleteSuccess": "Matagumpay na Tanggalin",
+    "deleteFail": "Nabigo ang pagtanggal",
+
+    "comment_input_comment": "Mag-input ng Komento",
+    "comment_reply": "Sumagot",
+    "comment_stop_edit": "Itigil ang Pag-edit",
+    "comment_edit": "I-edit",
+    "comment_delete": "Tanggalin",
+    "comment_more_comments": "Higit pang mga Komento",
+    "comment_loading": "Naglo-load"
+}

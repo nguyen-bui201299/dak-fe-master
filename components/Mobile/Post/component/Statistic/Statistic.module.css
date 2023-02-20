@@ -1,0 +1,136 @@
+.statistic {
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    background-color: var(--main-background-color);
+    width: 100%;
+}
+
+.statisticHeading {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.btnBack {
+    margin: 0;
+    color: var(--text-color);
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.nameUser {
+    margin: 0;
+    color: var(--text-color);
+    font-size: 17px;    
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.statisticContent {
+    padding: 0 15px;
+}
+
+.headerList {
+  display: flex;
+  margin: 5px 0px;    
+}
+
+.headerListTitle {
+  margin: 0;
+  color: var(--text-color);
+}
+
+.headerListQuantity {
+  font-size: 20px;
+  color: var(--main-color);
+  margin-left: 10px;
+}
+
+.statisticSearch {
+  width: 100%;
+  border-radius: 3px;
+  padding: 7px 10px;
+  background-color: var(--main-background-color);
+  color: var(--text-color);
+  font-size: var(--text-fontSize);
+  margin-top: 15px; 
+  border: 1px solid var(--text-color);
+  border-radius: 15px;
+}
+
+.statisticSearch::placeholder {
+  color: var(--text-color);
+}
+
+.listStatisticed {
+  padding: 0;
+  list-style-type: none;
+  margin: 10px 0px;
+  /* overflow-y: scroll; */
+  /* height: 300px; */
+}
+
+/* .listStatisticed::-webkit-scrollbar {
+  width: 6px;
+}
+
+.listStatisticed::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.listStatisticed::-webkit-scrollbar-thumb {
+  background-color: var(--main-color);
+  border-radius: 4px;
+}
+
+.listStatisticed::-webkit-scrollbar-thumb:hover {
+  background-color: #ffe043;
+} */
+
+.itemStatisticed {
+  display: flex;
+  align-items: center;
+  padding: 5px 0px;
+}
+
+.itemImage {
+  width: 40px;
+  height: 40px;
+}
+
+.itemInfo {
+  flex: 1;
+  margin-left: 10px;
+}
+
+.itemInfo_Name {
+  margin: 0;
+  color: var(--text-color);
+  font-size: var(--text-fontSize);
+  font-weight: 500;
+}
+
+.itemInfo_Tag {
+  margin: 0;
+  font-size: var(--text-fontSize);
+  color: var(--text-color);
+}
+
+.itemBtn {
+  background-color: var(--white-color);
+  border: none;
+  border-radius: 10px;
+  color: var(--text-color);
+  padding: 5px 15px;
+  border: 1px solid var(--main-color);
+  font-size: var(--text-fontSize);
+  font-weight: 400;
+  margin-right: 15px;
+}
+
+.itemBtn:hover {
+  background-color: var(--main-color);
+}

@@ -1,0 +1,18 @@
+{
+    "notification_title": "Mga abiso",
+    "notification_all": "Lahat",
+    "notification_unread": "Hindi pa nababasa",
+    "notification_markall": "Basahin lahat",
+    "notification_follow": "sinundan kita",
+    "notification_like": "ni-like ang iyong post",
+    "notification_like_comment": "nagustuhan ang iyong komento",
+    "notification_comment": "nagkomento sa iyong post",
+    "notification_share": "ibinahagi ang iyong post",
+    "notification_vote": "bumoto sa iyong post",
+    "notification_invitegroup": "inimbitahan ka sa grupo",
+    "notification_reply_comment": "sumagot sa iyong komento",
+    "notification_transfer_request": "kahilingan sa paglilipat ng pera",
+    "notification_accept_post": "tinanggap ang iyong post",
+    "notification_read_success": "Basahin ang lahat ng matagumpay",
+    "notification_read_null": "Walang hindi pa nababasang notification"
+}

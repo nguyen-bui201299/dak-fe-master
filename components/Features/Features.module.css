@@ -1,0 +1,26 @@
+.features {
+    /* margin-top: 20px; */
+    background-color: var(--white-color);
+    width: 100%;
+    border-radius: 20px;
+    padding: 20px 10px;
+    box-shadow: 2px 2px 5px 0px var(--box-shadow-color);
+    margin-left: -10px;
+    max-height: fit-content;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none; 
+    -moz-user-select: none;    
+    -ms-user-select: none;     
+    -o-user-select: none;
+    user-select: none;
+}
+
+.features__title {
+    margin: 0.5rem;
+    color: var(--main-color);
+    display: flex;
+    font-size: 18px;
+    border-bottom: 2px solid var(--main-color);
+    padding-bottom: 16px;
+}

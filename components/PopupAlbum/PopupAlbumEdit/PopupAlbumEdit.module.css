@@ -1,0 +1,212 @@
+.AlbumCreate{
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.8);
+    z-index: 100;
+}
+@keyframes PopupDelAlb {
+    from{
+        top: 70%;
+        opacity: 0;
+    }
+    to{
+        top: 50%;
+        opacity: 1;
+    }
+}
+.Album{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 800px;
+    border-radius: var(--box-borderRadius-size);
+    padding:40px 50px;
+    box-sizing: border-box;
+    background: var(--box-background-color);
+    animation: PopupDelAlb 0.5s ease;
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+.Album_heading{
+    display: flex;
+    justify-content: space-between;
+}
+.Album_title{
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Nunito';
+    font-style: normal;
+    color: var(--title-color);
+}
+.Album_del svg{
+    width: 40px;
+    height: 40px;
+    color: var(--icon-color);
+    border-radius: 50%;
+    cursor: pointer;
+    transform: 0.25s;
+}
+.Album_del svg:hover{
+    color: var(--icon-hover-color);;
+}
+.Album_content {
+    display: flex;
+    box-sizing: border-box;
+    position: relative;
+}
+.Album_content > p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    color: var(--sub-title-color);
+    margin-right: 10px;
+    cursor: pointer;
+}
+.Album_content > svg{
+    position: absolute;
+    top: 50%;
+    left: 18%;
+    transform: translate(0,-50%);
+    font-size: 20px;
+    cursor: pointer;
+    color: var(--icon-color);
+    transition: 0.5s ease-in;
+}
+.Form_album{
+     width: 100%;
+}
+.Form_album > div{
+    width: 100%;
+}
+.Form_album > div:first-child{
+    padding: 10px 0px;
+    height: 80px;
+}
+.Form_album > div:first-child > input{
+    width: 100%;
+    height: 100%;
+    border: 1px solid var(--border-outline-search-box);
+    outline: none;
+    border-radius: 10px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: var(--text-color);
+    font-size: 25px;
+    font-family: 'Nunito';
+    font-weight: 600;
+}
+.Form_album > div:first-child > input:placeholder-shown
+{
+    font-weight: 600;
+    font-style: italic;
+    font-size: 25px;
+    font-family: 'Nunito';
+    color: var(--sub-title-color);
+}
+.Album_from_img{
+    height: 280px;
+    border-radius: var(--box-borderRadius-size);
+    box-sizing: border-box;
+    border: 1px solid var(--border-outline-search-box);
+    border-radius: var(--box-borderRadius-size);
+    background-color: transparent;
+    margin: 20px 0;
+    cursor: pointer;
+    position: relative;
+}
+.Album_from_img > svg{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 40px;
+    color: var(--box-background-file);
+    color: var(--icon-color);
+
+
+}
+.Album_from_img > input {
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+    padding: 40px;
+    box-sizing: border-box;
+    background: transparent;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 25px;
+    font-family: 'Nunito';
+    font-weight: 600;
+    cursor: pointer;
+    /* user-select: none; */
+    opacity: 0;
+    user-select: none;
+}
+.Album_from_img > input:placeholder-shown{
+    font-weight: 400;
+    font-style: italic;
+    font-size: 25px;
+    font-family: 'Nunito';
+    color: var(--sub-title-color);
+}
+.Album_from_img > span{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 25px;
+    font-family: 'Nunito';
+    font-weight: 300;
+    font-style: italic;
+    cursor: pointer;
+    color: var(--sub-title-color);
+}
+.Album_form_submit{
+    align-items: center;
+    text-align: center;
+    border: none;
+}
+.Album_form_submit > div  > button{
+    min-width: 150px;
+    height: 100%; 
+    background:linear-gradient(315deg,#fbb034 0%,#ffdd00 74%) !important ;
+    border-radius: var(--box-borderRadius-size);
+    background: transparent;
+    font-size: 25px;
+    cursor: pointer;
+    font-family: 'Nunito';
+    color: var(--text-color);
+    border: none;
+    transition:0.25s;
+ }
+ .Album_form_submit  > div > button:hover{
+     box-shadow: 1px 1px 4px var(--box-shadow-color),-1px -1px 4px var(--box-shadow-color),3px 3px 4px var(--box-shadow-color);
+ }
+.Album_form_submit  > div{
+    padding-top: 10px;
+    width: 100%;
+    height: 60px;
+    line-height: 50px;
+    align-items: center;
+    font-weight: 700;
+    cursor: pointer;
+ }
+ .Album_form_submit  > div > button{
+     border: none;
+     background: transparent;
+     font-size: 25px;
+     font-weight: bold;
+     cursor: pointer;
+     font-family: 'Nunito';
+     color: var(--text-color);
+ }
+ .Album_form_submit svg{
+     font-size: 20px;
+     color: var(--icon-color);
+ }

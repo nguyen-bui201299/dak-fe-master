@@ -1,0 +1,26 @@
+{
+    "createAlbum_title": "एल्बम बनाओ",
+    "createAlbum_settings": "समायोजन",
+    "createAlbum_album_name": "एल्बम का नाम",
+    "createAlbum_upload_images_videos": "तस्वीरें अपलोड करें",
+    "createAlbum_upload_btn": "डालना",
+    "createAlbum_no_gif": "एनीमेशन का समर्थन नहीं करता",
+    "createAlbum_no_avatar": "अपने एल्बम के लिए एक फोटो चुनें",
+    "createAlbum_success": "एल्बम सफलतापूर्वक बनाएं",
+    "createAlbum_same_name": "पहले से ही यह एल्बम है",
+
+    "albumEdit_success": "सफलता संपादित करें",
+    "albumEdit_title": "संपादन करना",
+    "albumEdit_settings": "समायोजन",
+    "albumEdit_albumName": "एल्बम का नाम",
+    "albumEdit_submit_btn": "बचाना",
+
+    "delAlbum_success": "सफलता हटाएं",
+    "delAlbum_doYouWant": "क्या तुम चाहते हो",
+    "delAlbum_del": "मिटाना",
+    "delAlbum_thisAlbum": "यह एल्बम",
+    "delAlbum_yes_btn": "हाँ",
+    "delAlbum_close_btn": "नहीं",
+
+    "delAlbumSuccess_success": "सफलता हटाएं"
+}

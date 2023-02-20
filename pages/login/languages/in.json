@@ -1,0 +1,21 @@
+{
+    "home_login": "लॉग इन करें",
+    "home_register" : "पंजीकरण करवाना",
+    "home_welcome" : "DAK . में आपका स्वागत है",
+    "home_username" : "ईमेल या खाता नाम",
+    "home_pass" : "पासवर्ड",
+    "home_forget_pass" : "पासवर्ड भूल गए",
+    "home_no_acccount" : "खाता नहीं है",
+    "home_fullname" : "पूरा नाम",
+    "home_userlogin" : "उपयोगकर्ता नाम",
+    "home_email" : "ईमेल लॉगिन",
+    "home_sex" : "लिंग",
+    "home_male" : "पुरुष",
+    "home_female" : "मादा",
+    "home_other" : "अन्य",
+    "home_remember": "खाता याद रखें",
+    "home_phonenumber" : "फ़ोन नंबर",
+    "home_policy" : {"content1": "मैं से सहमत हूं", "content2": "नियम", "content3": "गोपनीयता"},
+    "home_error_login" : "गलत लॉगिन ईमेल या पासवर्ड"
+
+}

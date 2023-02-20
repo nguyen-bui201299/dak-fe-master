@@ -1,0 +1,28 @@
+{
+    "like": "ชอบ",
+    "vote": "โหวต",
+    "comment": "ความคิดเห็น",
+    "share": "หุ้น",
+    "read_more": "อ่านเพิ่มเติม",
+    "tag_user": "คนอื่นๆ",
+
+    "public": "สาธารณะ",
+    "private": "ส่วนตัว",
+    "post": "อัพเดทโพสต์ใหม่",
+    "post_update_post": "อัปเดต",
+
+    "votesuccess": "โหวตสำเร็จ",
+    "votefail": "โหวตล้มเหลว",
+    "unvote": "ไม่สามารถยกเลิกการลงคะแนนได้",
+    
+    "deleteSuccess": "ลบสำเร็จ",
+    "deleteFail": "ลบล้มเหลว",
+
+    "comment_input_comment": "ใส่ความคิดเห็น",
+    "comment_reply": "ตอบกลับ",
+    "comment_stop_edit": "หยุดแก้ไข",
+    "comment_edit": "แก้ไข",
+    "comment_delete": "ลบ",
+    "comment_more_comments": "ความคิดเห็นเพิ่มเติม",
+    "comment_loading": "กำลังโหลด"
+}

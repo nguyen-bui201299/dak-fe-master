@@ -1,0 +1,21 @@
+{
+    "home_login": "登录",
+    "home_register" : "登记",
+    "home_welcome" : "欢迎来到达克",
+    "home_username" : "电子邮件或帐户名称",
+    "home_pass" : "密码",
+    "home_forget_pass" : "忘记密码",
+    "home_no_acccount" : "没有帐户",
+    "home_fullname" : "全名",
+    "home_userlogin" : "用户名",
+    "home_email" : "邮箱登录",
+    "home_sex" : "性别",
+    "home_male" : "男性",
+    "home_female" : "女性",
+    "home_other" : "其他",
+    "home_remember": "记住账号",
+    "home_phonenumber" : "电话号码",
+    "home_policy" : {"content1": "我同意", "content2": "规则", "content3": "隐私"},
+    "home_error_login" : "登录电子邮件或密码不正确"
+
+}

@@ -1,0 +1,11 @@
+{
+    "lottery_next_draw": "Next draw",
+    "lottery_buy_ticket": "Buy ticket",
+    "detail_rule": "Rule",
+    "detail_luck": "try your luck",
+    "detail_time": "Time",
+    "detail_Jackpot": "Jackpot",
+    "detail_rule_1": "1. The numbers must match the numbers in the result but do not need to be in the correct order",
+    "detail_rule_2": "2. Lucky draw every 10 minutes",
+    "detail_rule_3": "3. Lottery results are displayed directly on TV screens at points of sale"
+}

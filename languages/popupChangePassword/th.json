@@ -1,0 +1,13 @@
+{
+    "changePassword": "เปลี่ยนรหัสผ่าน",
+    "oldPassword": "รหัสผ่านปัจจุบัน",
+    "newPassword": "รหัสผ่านใหม่",
+    "verifyPassword": "ใส่รหัสผ่านใหม่",
+
+    "changePassword_success": "เปลี่ยนรหัสผ่านสำเร็จ",
+    "changePassword_error": "รหัสผ่านไม่ถูกต้อง",
+    "changePassword_requirement": "รหัสผ่านต้องมีตัวพิมพ์ใหญ่พิเศษ ตัวพิมพ์เล็ก ตัวเลขและตัวอักษร",
+    "changePassword_number_requirement": "รหัสผ่านต้องมีอักขระ 8 ตัวขึ้นไป",
+    "changePassword_reconfirm_error": "ยืนยันรหัสผ่านไม่ถูกต้องอีกครั้ง",
+    "changePassword_not_allow_null": "รหัสผ่านไม่สามารถเว้นว่างได้"
+}

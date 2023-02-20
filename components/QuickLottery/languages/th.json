@@ -1,0 +1,21 @@
+{
+    "quick_lottery_button": "ลองโชคของคุณ",
+    "lottery_header": "หวย",
+    "rule_lottery": "กฎ",
+    "lottery_title": "หวย",
+    "quick_lottery_success": "ซื้อหวยสำเร็จ",
+    "quick_lottery_error_duplicate": "ในบรรดาหมายเลขที่ซื้อมีหมายเลขที่ซ้ำกัน",
+    "quick_lottery_error_limitnum": "ป้อนระหว่าง 1 ถึง 45 . เท่านั้น",
+    "quick_lottery_erorr_word": "ห้ามใส่ตัวอักษร",
+    "quick_lottery_error_blank": "ไม่สามารถเว้นว่างได้",
+    "quick_lottery_error_tryagain": "โปรดป้อนหมายเลขแล้วลองอีกครั้ง!",
+    "quick_lottery_error_enterduplicate": "หมายเลขที่คุณป้อนซ้ำกัน",
+    "quick_lottery_error_enterlimitnum": "จำนวนที่คุณป้อนเกินขีดจำกัด",
+    "quick_lottery_quick_lottery": "รับเบอร์ด่วน",
+    "quick_lottery_warn_not_enough_point": "คะแนนไม่พอ",
+
+    "rule_lottery_1": "เลือกหมายเลขตั้งแต่ 01 ถึง 45 เพื่อลุ้นรับรางวัลแจ็คพอต",
+    "rule_lottery_2": "มันไม่สำคัญว่าตำแหน่งของตัวเลข การมีตัวเลขคือรางวัลที่ชนะ",
+    "rule_lottery_3": "Mega 6/45 เปิดเวลา 10.00 น. และ 22.00 น. ในวันธรรมดา"
+
+}

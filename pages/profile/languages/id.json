@@ -1,0 +1,28 @@
+{
+    "profile_post": "Postingan",
+    "profile_library": "Perpustakaan",
+    "profile_statistical": "Statistik",
+    "profile_edit": "Sunting",
+    "profile_create_news": "Buat berita",
+    "profile_create_post": "Buat postingan",
+    "profile_followers": "pengikut",
+    "profile_following": "Mengikuti",
+    "profile_delete_post_success": "Hapus sukses",
+    "profile_delete_post_fail": "Hapus gagal",
+    "profile_get_post_fail": "Dapatkan posting gagal",
+    "profile_watch_avatar": "Lihat gambar profil",
+    "profile_update_avatar": "Perbarui gambar profil",
+
+    "profile_library_create_album": "Membuat album",
+    "profile_library_back_btn": "Kembali",
+    "profile_library_next_btn": "Lanjut",
+    "proifle_library_delete_post_library_success": "Hapus sukses",
+
+    "profile_statistic_activities_24h": "Aktivitas dalam 24 jam",
+    "profile_statistic_points": "Poin",
+    "profile_statistic_activities_chart": "Bagan aktivitas",
+    "profile_statistic_activities_posts": "Aktivitas dari postingan Anda",
+    "profile_statistic_most_views": "Tampilan terbanyak",
+    "profile_statistic_individual_posts": "Postingan individu",
+    "profile_statistic_achieved_points": "Total poin yang dicapai"
+}

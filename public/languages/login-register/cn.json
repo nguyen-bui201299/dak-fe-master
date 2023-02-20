@@ -1,0 +1,25 @@
+{
+    "login": {
+        "title": "登录"
+    },
+    "register": {
+        "title": "登记"
+    },
+
+    "login-register:welcome": "欢迎来到 DAK！",
+    "login-register:script": "立即加入以结交新朋友、创建群组、添加照片等",
+    "login-register:password_placeHolder": "密码",
+    "login-register:forgot_password": "忘记密码",
+    "login-register:loginWith": "登录",
+    "login-register:hadPassword": "已经有账号了？",
+    "login-register:noPassword": "没有账号？",
+    "login-register:fullName": "全名",
+    "login-register:userName": "用户名",
+    "login-register:email": "电子邮件",
+    "login-register:password_authentication_placeHolder": "确认密码",
+    "login-register:policyMessage": "请同意我们的条款和条件。",
+    "login-register:agreeMessage": "我同意你的网站",
+    "login-register:policyLink": "条款和条件以及隐私政策。",
+    "login-register:success_message": "登录成功",
+    "login-register:error_message": "帐号无效，请检查您的邮箱或手机号码和密码"
+}

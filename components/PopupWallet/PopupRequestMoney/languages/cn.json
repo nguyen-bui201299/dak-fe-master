@@ -1,0 +1,23 @@
+{
+    "popup_request_money_title": "请朋友汇款",
+    "popup_request_amount_to_receive": "数量",
+    "popup_request_sender_wallet_address": "发件人钱包地址",
+    "popup_request_sender_wallet_address_placeholder": "在此处粘贴发件人的钱包地址",
+
+    "popup_request_amount_to_transfer": "数量",
+    "popup_request_confirm_sending_request": "确认发送请求",
+    "popup_request_money_senders_name": "发信人的姓名",
+    "popup_request_money_content": "内容",
+    "popup_request_money_content_placeholder": "内容....",
+
+    "popup_request_money_warning_address": "你输入了错误的钱包地址!",
+    "popup_request_money_success_transfers": "转移成功",
+
+    "popup_request_money_button_next": "下一个",
+    "popup_request_money_confirm": "确认",
+
+    "popup_request_amount_errorSenderAddress": "请输入收货人地址",
+    "popup_request_amount_errorAmount": "请输入金额",
+    "popup_request_money_warning_note": "无效字符",
+    "popup_request_amount_requestSuccess": "请求成功"
+}

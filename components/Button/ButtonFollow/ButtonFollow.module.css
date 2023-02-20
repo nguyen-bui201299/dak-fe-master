@@ -1,0 +1,80 @@
+
+
+.button-join {
+    width: 100%;
+    height: 40px;
+}
+
+.button-join button {
+    width: 100%;
+    height: 40px;
+    border-radius: 26px;
+    border: 1px solid #f9ca24;
+    color: black;
+    cursor: pointer;
+    transition: 0.1s ease-in;
+    padding: 11px 7px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.button-join button:active {
+    background-color: #f9ca24 !important;
+}
+
+.button-join .buttonTrue {
+    display: none;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+}
+
+.button svg {
+    transition: 0.3s ease-in;
+}
+
+.button svg:hover {
+    background-color: rgba(192, 192, 192, 0.4);
+}
+
+.button .button-join {
+    width: 100px;
+}
+
+.isNotAdmin {
+    margin-right: 30px;
+}
+
+.user_follow {
+    background-color: var(--main-color);
+}
+
+.user_follow:hover {
+    background-color: #faea9d;
+    box-shadow: 0 0px 6px 1px #faea9d9d;
+}
+
+.user_followed {
+    background-color: #faea9d;
+    box-shadow: 0 0px 6px 1px #faea9d9d;
+}
+
+@media (max-width: 320px) {
+    .button-join {
+        width: 100px;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 540px) {
+    .button-join {
+        max-width: 140px;
+    }
+}
+
+@media (min-width: 541px) and (max-width: 720px) {
+    .button-join {
+        width: 150px;
+    }
+}

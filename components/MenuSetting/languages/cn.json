@@ -1,0 +1,16 @@
+{
+    "menusetting_successChangeTheme": "更改界面成功",
+    "menusetting_successChangeLanguage": "改变语言成功",
+
+    "menusetting_see_your_profile": "查看您的个人资料",
+    "menusetting_change_theme": "黑暗模式",
+    "menusetting_language_setting": "语言设置",
+    "menusetting_setting_and_privacy": "设置和隐私",
+    "menusetting_change_password": "更改密码",
+    "menusetting_log_in": "登录",
+    "menusetting_log_out": "登出",
+    "menusetting_about": "隐私·规则·广告",
+    "goback": "回去",
+
+    "translate": "成功的翻译"
+}

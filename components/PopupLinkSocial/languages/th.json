@@ -1,0 +1,25 @@
+{
+    "popup_link_social_title": "ลิงค์โซเชียล",
+    "popup_link_social_input_link": "ใส่ลิงค์ที่นี่...",
+    "popup_link_social_foundation": "พื้นฐาน",
+    "popup_link_social_choose_foundation": "เลือกมูลนิธิ",
+    "popup_link_social_invalid_link": "ลิงก์ไม่ถูกต้อง",
+    "popup_link_social_verify_heading": "รหัสยืนยันถูกส่งไปยังอีเมล",
+    "popup_link_social_resend_title": "ยังไม่ได้รับรหัส?",
+    "popup_link_social_resend": "ส่งซ้ำ",
+    "popup_link_social_verify_btn": "ตรวจสอบ",
+    "popup_link_social_not_support": "ยังไม่รองรับแพลตฟอร์มนี้",
+    "popup_link_social_connect_link": "กรุณาใส่ลิงค์",
+
+    "popup_confirm_delete_success": "ลบลิงก์ความสำเร็จทางสังคม",
+    "popup_confirm_delete_error": "ลบลิงค์ Social Fail",
+    "popup_confirm_delete_header": "สังเกต",
+    "popup_confirm_delete_asking": "แน่ใจนะว่าลบ",
+    "popup_confirm_delete_yes_btn": "ใช่",
+    "popup_confirm_delete_no_btn": "ไม่",
+    "popup_link_social_save": "บันทึก",
+    "popup_link_social_next": "ต่อไป",
+    "popup_link_social_success": "เพิ่มลิงค์โซเชียลแล้ว",
+    "popup_link_social_fail": "ไม่สามารถเพิ่มลิงก์สังคม"
+
+}

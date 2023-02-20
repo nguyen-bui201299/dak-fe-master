@@ -1,0 +1,22 @@
+{
+    "create_group_success": "สร้างความสำเร็จของกลุ่ม",
+    "create_group_fail": "สร้างกลุ่มล้มเหลว",
+    "create_group_groupname_require": "กรุณากรอกชื่อกลุ่ม",
+    "create_group": "สร้างกลุ่ม",
+    "create_group_cover_photo": "ภาพหน้าปกกลุ่ม",
+    "create_group_no_gif": "ไม่รองรับแอนิเมชั่น",
+    "create_group_optional": "ไม่จำเป็น",
+    "create_group_load_photo": "อัพโหลดรูปภาพจากคอมพิวเตอร์ของคุณ",
+    "create_group_cancel_photo": "ยกเลิกรูปภาพ",
+    "create_group_next": "ต่อไป",
+    "create_group_back": "กลับ",
+    "create_group_name": "ชื่อกลุ่ม",
+    "create_group_name_placeholder": "ตั้งชื่อกลุ่มที่นี่...",
+    "create_group_about_group": "เกี่ยวกับกลุ่ม",
+    "create_group_about_group_placeholder": "เขียนเนื้อหาที่นี่ ...",
+    "create_group_privacy": "ความเป็นส่วนตัว",
+    "create_group_public": "กลุ่มสาธารณะ",
+    "create_group_private": "กลุ่มส่วนตัว",
+    "create_group_see_content": "ทุกคนสามารถเห็นเนื้อหาในกลุ่ม",
+    "create_group_not_see_content": "ไม่มีใครเห็นเนื้อหาในกลุ่ม"
+}

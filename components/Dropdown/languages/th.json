@@ -1,0 +1,18 @@
+{
+    "DropdownForGroup_Unfollow_Group":"เลิกติดตามกลุ่ม",
+    "DropdownForGroup_Manage_notifications":"จัดการการแจ้งเตือน",
+    "DropdownForGroup_Leave_Group":"ออกจากกลุ่ม",
+
+    "continueWatching": "ดูต่อ",
+    "addGallery": "เพิ่มในแกลเลอรี่",
+    "copyUrl": "คัดลอก URL",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "confirmOwner": "ยืนยันเจ้าของ",
+    "report": "รายงาน",
+    "deletePostFromGallery": "ลบโพสต์จากแกลเลอรี่",
+
+    "copyURL_success": "คัดลอก URL สำเร็จ",
+    "authenticationPost_succeed_before": "โพสต์นี้ได้รับการยืนยันมาก่อน",
+    "authenticationPost_error": "ตรวจสอบการโพสต์ล้มเหลว"
+}

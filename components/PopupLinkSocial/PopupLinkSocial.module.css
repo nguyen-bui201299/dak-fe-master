@@ -1,0 +1,272 @@
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(60%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0%);
+    }
+}
+
+.popupSocial {
+    background-color: var(--white-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px, rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px, rgb(5 1 5 / 4%) 20px 20px 20px;
+    padding: 2px 20px;
+    width: 350px;
+}
+
+.popupSocial__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.popupSocial__header h2 {
+    color: var(--main-color);
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.linkSocial__input,
+.linkSocial__select {
+    width: 100%;
+    outline: none;
+    border: 1px solid var(--text-color);
+    padding: 1rem;
+    background: transparent;
+    border-radius: 10px;
+    margin: 12px 0;
+    color: var(--text-color);
+    font-size: var(--text-fontSize);
+}
+
+.popupSocial__save {
+    background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
+    border-radius: 6px;
+    padding: 8px;
+    font-size: 12px;
+    outline: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+.popupSocial__two_button {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 22px;
+}
+
+.popupSocial__button {
+    background-color: var(--main-color);
+    border-radius: 12px;
+    padding: 8px;
+    font-size: 18px;
+    outline: none;
+    font-weight: bold;
+    cursor: pointer;
+    width: 22%;
+    border: none;
+    float: right;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.overlayPopupSocial {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--bg-rgba);
+    z-index: 4;
+}
+
+.popupSocial {
+    width: 550px;
+    max-height: 600px;
+    background-color: var(--white-color);
+    border-radius: var(--box-borderRadius-size);
+    box-shadow: rgb(5 1 5 / 14%) 5px 5px 5px 5px, rgb(5 1 5 / 2%) 10px 10px 10px 10px, rgb(5 1 5 / 0%) 15px 15px 15px 15px, rgb(5 1 5 / 4%) 20px 20px 20px;
+    margin: 20px auto 0;
+    padding: 0.5rem 1.5rem;
+    -webkit-animation: slideIn linear 0.25s;
+    animation: slideIn linear 0.25s;
+    will-change: opacity transform;
+    transition: all ease 0.25s;
+    overflow: hidden;
+}
+
+.popupSocial__close {
+    font-size: 2rem;
+    color: var(--text-color);
+    cursor: pointer;
+}
+
+.popupSocial__close:hover {
+    color: var(--main-color);
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    transition: all ease 0.25s;
+}
+
+.linkSocial__info {
+    font-size: 1.2rem;
+    color: var(--text-color);
+}
+
+.linkSocial__options {
+    background-color: var(--white-color);
+    color: var(--text-color);
+    font-size: 18px;
+}
+
+.popupSocial__save {
+    background-color: var(--main-color);
+    border-radius: 12px;
+    padding: 8px;
+    font-size: 12px;
+    outline: none;
+    font-weight: bold;
+    cursor: pointer;
+    width: 15%;
+    border: none;
+    float: right;
+    margin: 10px;
+}
+
+.linkSocial__icon {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.linkSocial__icon li {
+    font-size: 32px;
+}
+
+.linkSocial__icon li:nth-child(1) {
+    color: var(--youtube-color);
+}
+
+.linkSocial__icon li:nth-child(2) {
+    color: var(--tiktok-color);
+    filter: drop-shadow(2px 0px 0px #fd3e3e) drop-shadow(-2px -2px 0px #4de8f4);
+}
+
+.linkSocial__icon li:nth-child(3) {
+    color: var(--facebook-color);
+  }
+  
+.linkSocial__icon li:nth-child(4) i {
+    background: radial-gradient(
+        circle at 30% 107%,
+        #fdf497 0%,
+        #fdf497 5%,
+        #fd5949 45%,
+        #d6249f 60%,
+        #285aeb 90%
+      );
+    -webkit-background-clip: text;
+    /* Also define standard property for compatibility */
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+  
+  .linkSocial__icon li:nth-child(5) {
+    color: var(--twitch-color);
+  }
+  
+  .linkSocial__icon li:nth-child(6) {
+    color: var(--twitter-color);
+  }
+  
+  .linkSocial__icon li:nth-child(7) {
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
+
+@media(max-width: 320px) {
+    .overlayPopupSocial {
+        top: 50px;
+    }
+    .popupSocial {
+        width: 300px;
+        padding: 1rem;
+    }
+    .popupSocial__header h2 {
+        margin: 0;
+    }
+    .linkSocial__info {
+        margin-top: 0.5rem;
+    }
+    .linkSocial__input,
+    .linkSocial__select {
+        padding: 10px;
+        font-size: 14px;
+    }
+    .popupSocial__close {
+        font-size: 1.6rem;
+    }
+    .popupSocial__save {
+        width: 30%;
+    }
+}
+@media(min-width: 321px) and (max-width: 540px) {
+    .overlayPopupSocial {
+        top: 50px;
+    }
+    .popupSocial {
+        width: 90%;
+        padding: 1rem;
+    }
+    .popupSocial__header h2 {
+        margin: 0;
+    }
+    .linkSocial__info {
+        margin-top: 0.5rem;
+    }
+    .linkSocial__input,
+    .linkSocial__select {
+        padding: 10px;
+        font-size: 14px;
+    }
+    .popupSocial__close {
+        font-size: 1.6rem;
+    }
+    .popupSocial__save {
+        width: 30%;
+    }
+}
+@media(min-width: 541px) and (max-width: 720px) {
+    .popupSocial {
+        width: 90%;
+        padding: 1rem;
+    }
+    .popupSocial__header h2 {
+        margin: 0;
+    }
+    .linkSocial__info {
+        margin-top: 0.5rem;
+    }
+    .linkSocial__input,
+    .linkSocial__select {
+        padding: 10px;
+        font-size: 14px;
+    }
+    .popupSocial__close {
+        font-size: 1.6rem;
+    }
+    .popupSocial__save {
+        width: 20%;
+    }
+}
+@media(min-width: 721px) and (max-width: 960px) {}
+@media(min-width: 961px) and (max-width: 1200px) {}
+@media(min-width: 1201px) and (max-width: 1500px) {}
+@media(min-width: 1501px) and (max-width: 1920px) {}
+@media(min-width: 1921px) {}

@@ -1,0 +1,10 @@
+{
+    "libraryAlbum_add_success": "添加到画廊成功",
+    "libraryAlbum_add_fail": "添加到图库失败",
+    "libraryAlbum_title": "添加到画廊",
+    "libraryAlbum_createLibrary_btn": "创建图库",
+    "libraryAlbum_addToLibrary_btn": "添加到画廊",
+    "libraryAlbum_check_post": "已经在这个相册发帖了",
+    "libraryAlbum_select_album": "请至少选择 1 张专辑"
+
+}

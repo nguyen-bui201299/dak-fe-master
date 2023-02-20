@@ -1,0 +1,9 @@
+{
+   "accept": "Menerima",
+   "cancel": "Membatalkan",
+   "accepted":"Diterima",
+   "canceled": "Membantah",
+   "success": "Iterima",
+   "fail":"Ditolak",
+   "not_enought_point" : "Poin tidak cukup"
+}

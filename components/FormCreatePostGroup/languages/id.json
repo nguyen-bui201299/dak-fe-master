@@ -1,0 +1,14 @@
+{
+    "form_create_post_title1": "Pos",
+    "form_create_post_title2": "Tag temanmu",
+    "form_create_post_title3": "Ubah privasi",
+    "form_create_post_link_content": "Tempelkan tautan artikel di sini",
+    "form_create_post_button_name": "Pos",
+    "form_create_post_public": "Publik",
+    "form_create_post_privicy": "Hanya saya",
+    "form_create_post_search_placeholder": "Mencari teman ...",
+    "form_create_post_noti_success": "Postingan berhasil",
+    "form_create_post_errorStatus": "Silahkan Masukan Captionnya",
+    "form_create_post_errorLink": "URL tidak valid"
+
+}

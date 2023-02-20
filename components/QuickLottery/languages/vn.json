@@ -1,0 +1,21 @@
+{
+    "quick_lottery_button": "Thử vận may",
+    "rule_lottery": "Luật chơi",
+    "lottery_header": "Xổ số",
+    "lottery_title": "XỔ SỐ",
+    "quick_lottery_success": "Mua xổ số thành công",
+    "quick_lottery_error_duplicate": "Trong số các số đã mua, có một số trùng lặp",
+    "quick_lottery_error_limitnum": "Chỉ được nhập từ 1 đến 45",
+    "quick_lottery_erorr_word": "Không nhập ký tự",
+    "quick_lottery_error_blank": "Không được để trống",
+    "quick_lottery_error_tryagain": "Vui lòng nhập số và thử lại!",
+    "quick_lottery_error_enterduplicate": "Số bạn đã nhập bị trùng lặp",
+    "quick_lottery_error_enterlimitnum": "Số bạn đã nhập vượt quá giới hạn",
+    "quick_lottery_quick_lottery": "Lấy số nhanh",
+    "quick_lottery_warn_not_enough_point": "Không đủ point",
+
+    "rule_lottery_1": "Chọn số từ 01 đến 45 để có cơ hội trúng Jackpot.",
+    "rule_lottery_2": "Không quan trọng vị trí số, có số là trúng thưởng",
+    "rule_lottery_3": "Mega 6/45 mở thưởng vào 10h00 sáng và 22h00 tối các ngày trong tuần."
+
+}

@@ -1,0 +1,24 @@
+{
+    "home_login": "Đăng nhập",
+    "home_register" : "Đăng ký",
+    "home_welcome" : "Chào mừng đến với DAK",
+    "home_username" : "Email hoặc tên tài khoản",
+    "home_pass" : "Mật khẩu",
+    "home_forget_pass" : "Quên mật khẩu",
+    "home_no_acccount" : "Chưa có tài khoản",
+    "home_fullname" : "Họ và tên",
+    "home_userlogin" : "Tên đăng nhập",
+    "home_email" : "Email đăng nhập",
+    "home_sex" : "Giới tính",
+    "home_male" : "Nam",
+    "home_female" : "Nữ",
+    "home_other" : "Khác",
+    "home_remember": "Ghi nhớ tài khoản",
+    "home_phonenumber" : "Số điện thoại",
+    "home_policy" : {"content1": "Tôi đồng ý với các", "content2": "Điều khoản", "content3": "Quyền riêng tư"},
+
+    "home_error_login" : "Mật khẩu hoặc email đăng nhập không đúng"
+
+
+
+}

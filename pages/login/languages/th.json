@@ -1,0 +1,21 @@
+{
+    "home_login": "เข้าสู่ระบบ",
+    "home_register" : "ลงทะเบียน",
+    "home_welcome" : "ยินดีต้อนรับสู่ DAK",
+    "home_username" : "อีเมลหรือชื่อบัญชี",
+    "home_pass" : "รหัสผ่าน",
+    "home_forget_pass" : "ลืมรหัสผ่าน",
+    "home_no_acccount" : "ไม่มีบัญชี",
+    "home_fullname" : "ชื่อเต็ม",
+    "home_userlogin" : "ชื่อผู้ใช้",
+    "home_email" : "อีเมล์เข้าสู่ระบบ",
+    "home_sex" : "เพศ",
+    "home_male" : "ชาย",
+    "home_female" : "หญิง",
+    "home_other" : "อื่น",
+    "home_remember": "จำบัญชี",
+    "home_phonenumber" : "หมายเลขโทรศัพท์",
+    "home_policy" : {"content1": "ฉันเห็นด้วยกับ", "content2": "กฎ", "content3": "ความเป็นส่วนตัว"},
+    "home_error_login" : "อีเมลสำหรับเข้าสู่ระบบหรือรหัสผ่านไม่ถูกต้อง"
+
+}

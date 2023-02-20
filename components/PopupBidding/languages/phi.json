@@ -1,0 +1,32 @@
+{
+    "popupCreate_notFound": "Hindi Natagpuan ang Post",
+    "popupCreate_title": "Gumawa ng Bidding Post",
+    "popupCreate_bidding_fee": "Bayad sa Pag-bid",
+    "popupCreate_input_bidding_fee": "Bayad sa Pag-input",
+    "popupCreate_view_fee": "Bayad sa Pagtingin",
+    "popupCreate_input_view_fee": "Bayad sa Pag-input",
+    "popupCreate_priority": "Priyoridad",
+    "popupCreate_continue_btn": "Magpatuloy",
+    "popupCreate_bidding_post": "Bidding Post",
+    "popupCreate_input_URL": "Input na URL",
+    "popupCreate_post_date": "I-post sa",
+    "popupCreate_post_by": "Sa pamamagitan ng",
+    "popupCreate_accept_bidding": "Tanggapin ang Pag-bid",
+    "popupCreate_accept_btn": "Tanggapin",
+
+    "popupDeleted_title": "Gusto mo bang tanggalin ang post?",
+    "popupDeleted_yes_btn": "Oo",
+    "popupDeleted_no_btn": "Hindi",
+    "popupDeleted_delete_success": "Na-delete ang Post",
+
+    "popupEdit_title": "I-edit ang Bidding Post",
+    "popupEdit_bidding_fee": "Bayad sa Pag-bid",
+    "popupEdit_input_fee": "Bayad sa Pag-input",
+    "popupEdit_view_fee": "Bayad sa Pagtingin",
+    "popupEdit_priority": "Priyoridad",
+    "popupEdit_save_btn": "I-save",
+    "popupEdit_success": "tagumpay",
+
+    "popupSuccess_bidding": "Post sa pag-bid",
+    "popupSuccess_success": "tagumpay"
+}

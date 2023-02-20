@@ -1,0 +1,29 @@
+{
+    "like": "Thích",
+    "vote": "Bình chọn",
+    "comment": "Bình luận",
+    "share": "Chia sẻ",
+    "read_more": "Xem thêm",
+    "tag_user": "người khác",
+
+
+    "public": "Công khai",
+    "private": "Riêng tư",
+    "post": "Đã đăng bài viết mới",
+    "post_update_post": "Đã cập nhật",
+
+    "votesuccess": "Bình chọn thành công",
+    "votefail": "Bình chọn thất bại",
+    "unvote": "Không thể hủy bỏ bình chọn",
+    
+    "deleteSuccess": "Xóa thành công",
+    "deleteFail": "Xóa thất bại",
+
+    "comment_input_comment": "Nhập bình luận",
+    "comment_reply": "Trả lời",
+    "comment_stop_edit": "Dừng chỉnh sửa",
+    "comment_edit": "Chỉnh sửa",
+    "comment_delete": "Xóa",
+    "comment_more_comments": "Tải thêm bình luận",
+    "comment_loading": "Đang tải"
+}

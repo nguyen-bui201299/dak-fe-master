@@ -1,0 +1,169 @@
+
+.wrapper{
+    width: 100%;
+    height: 100%;
+    background: var(--box-hover-background-color);
+    position: fixed;
+    inset: 0;
+    z-index: 10;
+}
+.box{
+    position: relative;
+    max-width: 600px;
+    background: var(--box-background-color);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 10;
+    border-radius: 15px;
+    animation: Lib 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+    padding: 30px 40px;
+    box-sizing: border-box;
+}
+
+@keyframes Lib{
+    from{
+        opacity: 0;
+        top: 60%;
+    }
+    to{
+        opacity: 1;
+        top: 50%;
+    }
+}
+.boxAddRead{
+    display: flex;
+    justify-content: space-between;
+}
+.boxAddRead > p{
+    font-size: 25px;
+    font-weight: bold;
+    color: var(--text-color);
+    margin: 0;
+    font-family:'Nunito';
+}
+.boxAddRead > svg{
+    font-size: 25px;
+    font-weight: 600;
+    color: var(--text-color);
+    margin: 0;
+    font-family:'Nunito';
+    cursor: pointer;
+}
+.boxAddRead > svg:hover{
+    color: var(--icon-hover-color);
+    transition: 0.2s;
+}
+.BoxlistTrue p{
+    margin: 0;
+    padding: 10px 0px;
+    /* text-indent: 5px; */
+    text-transform: capitalize;
+}
+.BoxlistTrue{
+    margin-top: 20px;
+    width: 100%;
+    /* max-height: 370px; */
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.BoxlistTrue > div{
+    overflow: auto;
+    max-height: 368px;
+    width: 100%;
+    /* background-color: aqua; */
+    display: inline-block;
+}
+.BoxlistTrue > div::-webkit-scrollbar{
+    width: 5px;
+    height: 2px;
+    background:var(--text-color);
+    border-radius: 5px;
+    border: 1px solid var(--background-color-hover-dropdown);
+    /* overflow: hidden; */
+}
+.BoxlistTrue > div::-webkit-scrollbar-thumb{
+    background: var(--main-color);
+    border-radius: 5px;
+}
+.addAlbum{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.addAlbum > button{
+   cursor: pointer;
+   font-family:'Nunito';
+   font-weight: bold;
+   outline: none;
+   border: none;
+   padding: 10px;
+   color: #383333;
+   font-size: 15px;
+   background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
+   transition: cubic-bezier(1, 0, 0, 1) 0.25s;
+   position: relative;
+   overflow: hidden;
+   border-radius: 5px;
+   min-width: 100px;
+}
+.addAlbum > button:hover{
+    box-shadow: 1px 0px 3px var(--main-color);
+    transform: scale(1.1);
+}
+.BoxItems{
+    display: inline-block;
+    width: 150px;
+    /* height: 155px; */
+    height: 155px;
+    margin: 15px 0px 10px 5px;
+    margin-right: 15px;
+    flex-wrap: wrap;
+    cursor: pointer;
+    box-shadow: 1px 1px 6px var(--box-shadow-color);
+    border-radius: 10px;
+    overflow: hidden;
+    /* border-radius: 15px; */
+    z-index: 9999;
+    transition: 0.25s;
+}
+.BoxItems_img{
+    width: 100%;
+    height: 80%;
+}
+.BoxStyle{
+    box-shadow: 1px 1px 2px var(--main-color),-1px -1px 2px var(--main-color);
+    transform: translateY(-4px);
+}
+.BoxItems_img > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.BoxItems_title{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    background: var(--box-background-color);
+    padding: 0 7px;
+}
+.BoxItems_title > p{
+    display: block;
+    width: 80%;
+    height: 100%;
+    font-family:'Nunito';
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--main-color);
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media (max-width: 420px) {
+    .addAlbum > button {
+        padding: 10px 2px;
+    }
+}

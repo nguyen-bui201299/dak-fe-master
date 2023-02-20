@@ -1,0 +1,8 @@
+.buttonTrue {
+  background-color: var(--main-color) !important;
+}
+
+.buttonFalse {
+  background-color: transparent !important;
+  color: #f9ca24 !important;
+}

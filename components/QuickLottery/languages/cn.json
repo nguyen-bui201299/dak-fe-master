@@ -1,0 +1,21 @@
+{
+    "quick_lottery_button": "试试你的运气",
+    "lottery_header": "彩票",
+    "rule_lottery": "规则",
+    "lottery_title": "彩票",
+    "quick_lottery_success": "买彩票成功",
+    "quick_lottery_error_duplicate": "购买的号码中有重复号码",
+    "quick_lottery_error_limitnum": "仅输入 1 到 45 之间",
+    "quick_lottery_erorr_word": "不要输入字符",
+    "quick_lottery_error_blank": "不能留空",
+    "quick_lottery_error_tryagain": "请输入号码，然后重试！",
+    "quick_lottery_error_enterduplicate": "您输入的号码重复",
+    "quick_lottery_error_enterlimitnum": "您输入的数字超过了限制",
+    "quick_lottery_quick_lottery": "快速获取号码",
+    "quick_lottery_warn_not_enough_point": "积分不够",
+
+    "rule_lottery_1": "选择从 01 到 45 的数字，就有机会赢得大奖。",
+    "rule_lottery_2": "号码的位置无关紧要，有号码就是中奖。",
+    "rule_lottery_3": "Mega 6/45 在工作日的上午 10:00 和下午 22:00 开放。"
+
+}
